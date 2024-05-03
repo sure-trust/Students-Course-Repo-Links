@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAMISETTY-ANJINEYULU-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOURADIP DAS</td> 
+
+<td style="border : 2px solid green;">digi-soura22</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOURADIP-DAS-G2-Integrated-VLSI</td> 
+</tr>
