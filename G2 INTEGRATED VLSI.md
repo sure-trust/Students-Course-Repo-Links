@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PEDADA-UDAY-KIRAN-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINAY GOVIND DEVADIGA</td> 
+
+<td style="border : 2px solid green;">vinaydevadiga02</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINAY-GOVIND-DEVADIGA-G2-Integrated-VLSI</td> 
+</tr>
