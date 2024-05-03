@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/G.MANOJ-KUMAR-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUSHALA M K</td> 
+
+<td style="border : 2px solid green;">kushalamk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUSHALA-M-K-G2-Integrated-VLSI</td> 
+</tr>
