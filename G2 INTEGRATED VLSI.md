@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MODALAVALASA-SRAVAN-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAVEEN RS</td> 
+
+<td style="border : 2px solid green;">nrs03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAVEEN-RS-G2-Integrated-VLSI</td> 
+</tr>
