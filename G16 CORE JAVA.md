@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KALWACHARLA-ANJALI-G16-core-JAVA</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPTHISREE</td> 
+
+<td style="border : 2px solid green;">deepthisree</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPTHISREE-G16-core-JAVA</td> 
+</tr>
