@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BELLAMKONDA-NAGA-LAKSHMI-G1-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPTHI REDDY SATHYALA</td> 
+
+<td style="border : 2px solid green;">deepthisathyala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPTHI-REDDY-SATHYALA-G1-integrated-vlsi</td> 
+</tr>
