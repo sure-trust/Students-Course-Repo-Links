@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEEPTHI-REDDY-SATHYALA-G1-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVA MANI SAI ENUGURTHI</td> 
+
+<td style="border : 2px solid green;">shivamanisaii</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVA-MANI-SAI-ENUGURTHI-G1-integrated-vlsi</td> 
+</tr>
