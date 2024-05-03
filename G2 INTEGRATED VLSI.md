@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAI-GANESH-MUPPIDI-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIKRAM VARSHITHA</td> 
+
+<td style="border : 2px solid green;">vikram-varshitha20</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIKRAM-VARSHITHA-G2-Integrated-VLSI</td> 
+</tr>
