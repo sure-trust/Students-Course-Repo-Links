@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEESALA-LOKESH-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOWTHAM THADIBOINA</td> 
+
+<td style="border : 2px solid green;">gowtham1319</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOWTHAM-THADIBOINA-G2-Integrated-VLSI</td> 
+</tr>
