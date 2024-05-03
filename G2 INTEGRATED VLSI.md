@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PEDDAKOTLA-SAILAJA-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAWAN ORAON</td> 
+
+<td style="border : 2px solid green;">pawanoraon0608</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAWAN-ORAON-G2-Integrated-VLSI</td> 
+</tr>
