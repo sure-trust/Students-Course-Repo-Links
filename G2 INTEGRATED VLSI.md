@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINAY-GOVIND-DEVADIGA-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAHENDRAKAR PREMANATH RAO</td> 
+
+<td style="border : 2px solid green;">premanath06</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAHENDRAKAR-PREMANATH-RAO-G2-Integrated-VLSI</td> 
+</tr>
