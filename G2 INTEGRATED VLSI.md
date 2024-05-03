@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAWAN-ORAON-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KORUPULA RAMA NARENDRA</td> 
+
+<td style="border : 2px solid green;">ramanarendra28</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KORUPULA-RAMA-NARENDRA-G2-Integrated-VLSI</td> 
+</tr>
