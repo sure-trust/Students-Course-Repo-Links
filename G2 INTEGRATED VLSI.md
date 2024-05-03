@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOURADIP-DAS-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GORRELA NAGA DURGA MAHALAKSHMI</td> 
+
+<td style="border : 2px solid green;">mahalakshmi-13</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GORRELA-NAGA-DURGA-MAHALAKSHMI-G2-Integrated-VLSI</td> 
+</tr>
