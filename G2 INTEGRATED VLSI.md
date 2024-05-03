@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUDIPTA-DEY-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PEDADA UDAY KIRAN</td> 
+
+<td style="border : 2px solid green;">pudaykiran07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PEDADA-UDAY-KIRAN-G2-Integrated-VLSI</td> 
+</tr>
