@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-MEGHANA-G1-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RASHI</td> 
+
+<td style="border : 2px solid green;">rashishetty15</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RASHI-G1-integrated-vlsi</td> 
+</tr>
