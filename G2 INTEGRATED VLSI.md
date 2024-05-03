@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOWTHAM-THADIBOINA-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAMISETTY ANJINEYULU</td> 
+
+<td style="border : 2px solid green;">anjineyulu9640</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAMISETTY-ANJINEYULU-G2-Integrated-VLSI</td> 
+</tr>
