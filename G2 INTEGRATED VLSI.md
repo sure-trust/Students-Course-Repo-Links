@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAVEEN-RS-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MACHINA VEERA MANIKANTA</td> 
+
+<td style="border : 2px solid green;">machinamanikanta</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MACHINA-VEERA-MANIKANTA-G2-Integrated-VLSI</td> 
+</tr>
