@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEGHANA-K-S-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEESALA LOKESH</td> 
+
+<td style="border : 2px solid green;">loki9440</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEESALA-LOKESH-G2-Integrated-VLSI</td> 
+</tr>
