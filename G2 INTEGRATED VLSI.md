@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAYABARAPU-SREEVANI-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUDIPTA DEY</td> 
+
+<td style="border : 2px solid green;">at-sudipta</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUDIPTA-DEY-G2-Integrated-VLSI</td> 
+</tr>
