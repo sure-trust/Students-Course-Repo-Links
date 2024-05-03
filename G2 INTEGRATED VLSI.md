@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAHENDRAKAR-PREMANATH-RAO-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAI GANESH MUPPIDI</td> 
+
+<td style="border : 2px solid green;">sai-ganesh-m</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAI-GANESH-MUPPIDI-G2-Integrated-VLSI</td> 
+</tr>
