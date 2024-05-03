@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAJITH</td> 
+
+<td style="border : 2px solid green;">rajith00</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAJITH-G1-integrated-vlsi</td> 
+</tr>
