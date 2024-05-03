@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MACHINA-VEERA-MANIKANTA-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEGHANA K S</td> 
+
+<td style="border : 2px solid green;">ksmeghana28</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEGHANA-K-S-G2-Integrated-VLSI</td> 
+</tr>
