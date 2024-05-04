@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RISHIKESH-K-g1-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROHITH AKULA</td> 
+
+<td style="border : 2px solid green;">rohith12082002</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROHITH-AKULA-g1-integrated-vlsi</td> 
+</tr>
