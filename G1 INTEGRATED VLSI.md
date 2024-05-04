@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KATTAPPA-GARI-GANGOTHRI-G1-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VENKATA SUPRIYA PATCHIPULUSU</td> 
+
+<td style="border : 2px solid green;">patchvenkatasupriya1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VENKATA-SUPRIYA-PATCHIPULUSU-g1-integrated-vlsi</td> 
+</tr>
