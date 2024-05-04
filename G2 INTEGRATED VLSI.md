@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAMOJI-REDDY-g2-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIVYASHREE K</td> 
+
+<td style="border : 2px solid green;">divyadweep</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIVYASHREE-K-g2-integrated-vlsi</td> 
+</tr>
