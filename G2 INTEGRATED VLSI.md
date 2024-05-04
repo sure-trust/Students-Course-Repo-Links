@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAVITI-REVANTH-g2-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VORUGANTI RUSHITHA</td> 
+
+<td style="border : 2px solid green;">vorugantirushitha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VORUGANTI-RUSHITHA-g2-integrated-vlsi</td> 
+</tr>
