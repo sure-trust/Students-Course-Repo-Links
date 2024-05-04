@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KORUPULA-RAMA-NARENDRA-G2-Integrated-VLSI</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAVITI REVANTH</td> 
+
+<td style="border : 2px solid green;">revanthkaviti</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAVITI-REVANTH-g2-integrated-vlsi</td> 
+</tr>
