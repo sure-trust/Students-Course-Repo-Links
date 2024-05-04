@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DIVYASHREE-K-g2-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TOUSEEF HASAN KAZMI</td> 
+
+<td style="border : 2px solid green;">touseefhasankazmi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TOUSEEF-HASAN-KAZMI-g2-integrated-vlsi</td> 
+</tr>
