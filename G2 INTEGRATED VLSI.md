@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YAGNIKA-PONUGUPATI-g2-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANAGAVARAPU BINDU NIKHITHA DEVI</td> 
+
+<td style="border : 2px solid green;">bindu407</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANAGAVARAPU-BINDU-NIKHITHA-DEVI-g2-integrated-vlsi</td> 
+</tr>
