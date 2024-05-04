@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VENKATA-SUPRIYA-PATCHIPULUSU-g1-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHIKESH K</td> 
+
+<td style="border : 2px solid green;">rishikesh973</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHIKESH-K-g1-integrated-vlsi</td> 
+</tr>
