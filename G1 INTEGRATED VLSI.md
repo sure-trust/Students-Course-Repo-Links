@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUKESH-BABU-P-J-g1-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAILASRANA ANIL GHAYTADAK</td> 
+
+<td style="border : 2px solid green;">kailasranaghaytadak</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAILASRANA-ANIL-GHAYTADAK-g1-integrated-vlsi</td> 
+</tr>
