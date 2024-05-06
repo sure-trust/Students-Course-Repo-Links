@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SRAVANI-MANDA-g2-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDANA SREERAMULA</td> 
+
+<td style="border : 2px solid green;">chandana2943</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDANA-SREERAMULA-g2-integrated-vlsi</td> 
+</tr>
