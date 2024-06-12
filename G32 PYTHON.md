@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHUMIT-GEVARIYA-g32-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAMISETTY SATHVIKA</td> 
+
+<td style="border : 2px solid green;">kamisettysathvika</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAMISETTY-SATHVIKA-g32-python</td> 
+</tr>
