@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHUBHAM-SOPAN-NIKHADE-g32-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHUMIT GEVARIYA</td> 
+
+<td style="border : 2px solid green;">bhumitgevariya18</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHUMIT-GEVARIYA-g32-python</td> 
+</tr>
