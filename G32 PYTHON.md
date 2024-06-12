@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VAYYAVURU-NANDINI-g32-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KODURU DEEPTHI SREE</td> 
+
+<td style="border : 2px solid green;">deepthi7854</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KODURU-DEEPTHI-SREE-g32-python</td> 
+</tr>
