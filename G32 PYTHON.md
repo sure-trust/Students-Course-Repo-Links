@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VAIKOLU-PRANAY-KUMAR-g32-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLA VEERENDRA KUMAR</td> 
+
+<td style="border : 2px solid green;">veera8904</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLA-VEERENDRA-KUMAR-g32-python</td> 
+</tr>
