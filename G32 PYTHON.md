@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAMISETTY-SATHVIKA-g32-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VAIKOLU PRANAY KUMAR</td> 
+
+<td style="border : 2px solid green;">varikolu-pranay</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VAIKOLU-PRANAY-KUMAR-g32-python</td> 
+</tr>
