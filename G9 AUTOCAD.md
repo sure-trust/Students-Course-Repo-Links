@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DARA-JAYANTH-g9-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIVESH SINGH S</td> 
+
+<td style="border : 2px solid green;">diveshsingh123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIVESH-SINGH-S-g9-autocad</td> 
+</tr>
