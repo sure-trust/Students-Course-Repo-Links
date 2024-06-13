@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SEELAM-TEJASWINI-g20-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLA NITHISH KUMAR</td> 
+
+<td style="border : 2px solid green;">nithish190278</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLA-NITHISH-KUMAR-g20-fsd</td> 
+</tr>
