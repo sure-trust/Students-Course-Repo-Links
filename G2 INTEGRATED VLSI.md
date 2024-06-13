@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SREERAMULA-CHANDANA-g2-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANASURI DURGABHAVANI</td> 
+
+<td style="border : 2px solid green;">anasuridurgabhavani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANASURI-DURGABHAVANI-g2-integrated-vlsi</td> 
+</tr>
