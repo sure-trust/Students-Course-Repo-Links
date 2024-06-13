@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHANDANA-CHILUPURI-g8-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEHAK MAJEED</td> 
+
+<td style="border : 2px solid green;">mehakmajeed</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEHAK-MAJEED-g8-es</td> 
+</tr>
