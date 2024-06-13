@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-MUKHERJEE-g1-industrial-automation</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUPRATIT DAS</td> 
+
+<td style="border : 2px solid green;">supd007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUPRATIT-DAS-g1-industrial-automation</td> 
+</tr>
