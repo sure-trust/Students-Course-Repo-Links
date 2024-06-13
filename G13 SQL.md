@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAKKERA-SAI-PRASANNA-g13-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">S GOPI KRISHNA THRIBHUVANESH</td> 
+
+<td style="border : 2px solid green;">thribhuvanesh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/S-GOPI-KRISHNA-THRIBHUVANESH-g13-sql</td> 
+</tr>
