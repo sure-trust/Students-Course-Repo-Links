@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/OKILI-NAVEEN-KUMAR-REDDY-g9-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LEKANNA GARI LAVANYA</td> 
+
+<td style="border : 2px solid green;">lekannagarilavanya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LEKANNA-GARI-LAVANYA-g9-es</td> 
+</tr>
