@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOORAM-AKHILA-g20-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAITHANYA KANIPAKAM</td> 
+
+<td style="border : 2px solid green;">chaithanya37</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAITHANYA-KANIPAKAM-g20-fsd</td> 
+</tr>
