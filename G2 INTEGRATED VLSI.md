@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K.R.PREMKUMAR-g2-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURUBA MEGHANA</td> 
+
+<td style="border : 2px solid green;">goravameghana</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-MEGHANA-g2-integrated-vlsi</td> 
+</tr>
