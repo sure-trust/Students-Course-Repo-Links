@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PARUCHURU-TARUN-g1-fsds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOTHUKURI GOPI</td> 
+
+<td style="border : 2px solid green;">mothukurigopi123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOTHUKURI-GOPI-g1-fsds</td> 
+</tr>
