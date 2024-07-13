@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARASANI-UDAYA-TEJA-g1-fsds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PARUCHURU TARUN</td> 
+
+<td style="border : 2px solid green;">paruchurutarun</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PARUCHURU-TARUN-g1-fsds</td> 
+</tr>
