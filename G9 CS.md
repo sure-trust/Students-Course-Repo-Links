@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARDIK-PAREEK-g9-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NISHANT KUMAR</td> 
+
+<td style="border : 2px solid green;">nishant-kumarr</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NISHANT-KUMAR-g9-cs</td> 
+</tr>
