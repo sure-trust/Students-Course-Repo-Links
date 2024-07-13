@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/M.BABITHA-g3-dsa-c-</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPAK KUMAR KUNWAR</td> 
+
+<td style="border : 2px solid green;">deepak90421</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-KUMAR-KUNWAR-g3-dsa-c-</td> 
+</tr>
