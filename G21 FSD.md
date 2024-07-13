@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DARA-MEGHANA-g21-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ALLAPALLI SAMATHA</td> 
+
+<td style="border : 2px solid green;">allapallisamatha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ALLAPALLI-SAMATHA-g21-fsd</td> 
+</tr>
