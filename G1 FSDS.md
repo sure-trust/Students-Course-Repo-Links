@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARINESH-MA-A-g1-fsds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOPAL SINGH</td> 
+
+<td style="border : 2px solid green;">maester3</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOPAL-SINGH-g1-fsds</td> 
+</tr>
