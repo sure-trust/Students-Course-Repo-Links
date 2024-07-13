@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JATIN-g1-fsds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMARNATH VANKAYALAPATI</td> 
+
+<td style="border : 2px solid green;">amarnath-2026</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMARNATH-VANKAYALAPATI-g1-fsds</td> 
+</tr>
