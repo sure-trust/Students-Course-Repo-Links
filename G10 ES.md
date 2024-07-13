@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AVULA-RENUSRI-REDDY-g10-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POOJITHA GUBBALA</td> 
+
+<td style="border : 2px solid green;">poojitha-gubbala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POOJITHA-GUBBALA-g10-es</td> 
+</tr>
