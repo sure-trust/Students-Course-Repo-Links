@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUDA-SATWIKA-g17-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RITIK SHUKLA</td> 
+
+<td style="border : 2px solid green;">07ritik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RITIK-SHUKLA-g17-java</td> 
+</tr>
