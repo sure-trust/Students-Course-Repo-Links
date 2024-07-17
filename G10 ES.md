@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GORUVA-VARDHAN-BABU-g10-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YESWANTH JAGANI</td> 
+
+<td style="border : 2px solid green;">yeswanthjagani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YESWANTH-JAGANI-g10-es</td> 
+</tr>
