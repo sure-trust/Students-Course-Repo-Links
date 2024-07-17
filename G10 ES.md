@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NISHA-KUMARI-g10-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHREYASH LAXMANRAO LOHAKARE</td> 
+
+<td style="border : 2px solid green;">shreyashlohakare</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHREYASH-LAXMANRAO-LOHAKARE-g10-es</td> 
+</tr>
