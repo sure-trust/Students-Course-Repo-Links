@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-MOHAMMAD-ZUBAIR-g16-core-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AGARALA NAGARAJU</td> 
+
+<td style="border : 2px solid green;">nagarajreddy0563</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AGARALA-NAGARAJU-g16-core-java</td> 
+</tr>
