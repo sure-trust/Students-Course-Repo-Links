@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHREYASH-LAXMANRAO-LOHAKARE-g10-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SK.NAHAZ</td> 
+
+<td style="border : 2px solid green;">shaiknahaz</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SK.NAHAZ-g10-es</td> 
+</tr>
