@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVA-GAJULA-g5-dsa--python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VISWANATH REDDY</td> 
+
+<td style="border : 2px solid green;">viswanath253</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VISWANATH-REDDY-g5-dsa--python</td> 
+</tr>
