@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MARTHALA-NEERAJA-g3-dsa--c-</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BADATHALA HEMANTH KUMAR</td> 
+
+<td style="border : 2px solid green;">hemu2506</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BADATHALA-HEMANTH-KUMAR-g3-dsa--c-</td> 
+</tr>
