@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/N.-R-RASI-g21-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAPU SUKANYA</td> 
+
+<td style="border : 2px solid green;">kapusukanya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAPU-SUKANYA-g21-fsd</td> 
+</tr>
