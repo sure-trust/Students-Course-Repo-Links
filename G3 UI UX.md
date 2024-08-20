@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JABADE-NANDITHA-g3-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AARSH SINGH THAKUR</td> 
+
+<td style="border : 2px solid green;">astnos</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AARSH-SINGH-THAKUR-g3-ui-ux</td> 
+</tr>
