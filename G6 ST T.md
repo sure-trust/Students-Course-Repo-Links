@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BURHANUDDIN-TELWALA-g6-st-t</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KINJAL MEHTA</td> 
+
+<td style="border : 2px solid green;">km-19</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KINJAL-MEHTA-g6-st-t</td> 
+</tr>
