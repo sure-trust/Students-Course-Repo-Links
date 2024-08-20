@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANCHARLA-PRASAD-g1-dsa-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BALA JOSEPH NITHISH REDDY DONDETI</td> 
+
+<td style="border : 2px solid green;">dondeti-nithish-reddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BALA-JOSEPH-NITHISH-REDDY-DONDETI-g1-dsa-java</td> 
+</tr>
