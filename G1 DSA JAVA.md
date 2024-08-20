@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/REDDYMALLA-SAI-DEEPAK-GOUD-g1-dsa-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GONA PRAHARSHA</td> 
+
+<td style="border : 2px solid green;">gonapraharsha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GONA-PRAHARSHA-g1-dsa-java</td> 
+</tr>
