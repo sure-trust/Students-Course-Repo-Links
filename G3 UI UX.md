@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AARSH-SINGH-THAKUR-g3-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAYUR VISHWAKARMA</td> 
+
+<td style="border : 2px solid green;">mayur20000</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAYUR-VISHWAKARMA-g3-ui-ux</td> 
+</tr>
