@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SEJAL-GIRISH-RATHI-g3-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKASH KUMAR</td> 
+
+<td style="border : 2px solid green;">akashkumar-ssa</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-KUMAR-g3-ui-ux</td> 
+</tr>
