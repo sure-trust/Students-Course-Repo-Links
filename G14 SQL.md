@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VATTI-MANOHAR-g14-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NEETI PANDEY</td> 
+
+<td style="border : 2px solid green;">neetipandey16</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NEETI-PANDEY-g14-sql</td> 
+</tr>
