@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOLIPURAM VINEEL REDDY</td> 
+
+<td style="border : 2px solid green;">vineelsolipuram</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOLIPURAM-VINEEL-REDDY-g14-sql</td> 
+</tr>
