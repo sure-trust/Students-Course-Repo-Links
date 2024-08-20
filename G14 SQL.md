@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NEETI-PANDEY-g14-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PATNAM NAVEEN KUMAR</td> 
+
+<td style="border : 2px solid green;">naveenkumarpatnam</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PATNAM-NAVEEN-KUMAR-g14-sql</td> 
+</tr>
