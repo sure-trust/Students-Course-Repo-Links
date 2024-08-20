@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-KUMAR-g3-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BENDRE SUJAL SUNIL</td> 
+
+<td style="border : 2px solid green;">bendresujal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BENDRE-SUJAL-SUNIL-g3-ui-ux</td> 
+</tr>
