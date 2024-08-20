@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DIPTESH-CHOWDHURY-g6-st-t</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BURHANUDDIN TELWALA</td> 
+
+<td style="border : 2px solid green;">btw075</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BURHANUDDIN-TELWALA-g6-st-t</td> 
+</tr>
