@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MATHESH-M-g14-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANA MEGHANA REDDY</td> 
+
+<td style="border : 2px solid green;">meghanareddy4</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANA-MEGHANA-REDDY-g14-sql</td> 
+</tr>
