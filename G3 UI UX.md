@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/N.M.SANJAY-g3-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JABADE NANDITHA</td> 
+
+<td style="border : 2px solid green;">jabadenanditha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JABADE-NANDITHA-g3-ui-ux</td> 
+</tr>
