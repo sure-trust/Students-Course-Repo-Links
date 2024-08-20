@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOURAJIT-NAYAK-g6-st-t</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIPTESH CHOWDHURY</td> 
+
+<td style="border : 2px solid green;">dc377</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIPTESH-CHOWDHURY-g6-st-t</td> 
+</tr>
