@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DOLA-LAKSHMI-PRASANNA-GADDE-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ENUGULA PARINIKA</td> 
+
+<td style="border : 2px solid green;">parinika-e</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ENUGULA-PARINIKA-g3-integrated-vlsi</td> 
+</tr>
