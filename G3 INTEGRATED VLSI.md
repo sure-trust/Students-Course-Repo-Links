@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANGESH-S-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVANAND MODI</td> 
+
+<td style="border : 2px solid green;">shivanandmodi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVANAND-MODI-g3-integrated-vlsi</td> 
+</tr>
