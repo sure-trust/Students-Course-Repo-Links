@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHILUKA-NAVYA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAITEJA BAIRU</td> 
+
+<td style="border : 2px solid green;">saitejabairu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAITEJA-BAIRU-g3-integrated-vlsi</td> 
+</tr>
