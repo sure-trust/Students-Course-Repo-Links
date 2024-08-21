@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KINJAL-MEHTA-g6-st-t</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANGASH DADAPEER</td> 
+
+<td style="border : 2px solid green;">bangashdadapeer</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANGASH-DADAPEER-g6-st-t</td> 
+</tr>
