@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/EASWARAMOORTHY-SRIRAM-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIJAY JANGILI</td> 
+
+<td style="border : 2px solid green;">vj1199</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIJAY-JANGILI-g3-integrated-vlsi</td> 
+</tr>
