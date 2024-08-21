@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIJAY-JANGILI-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JOLI DAKSHAYANI</td> 
+
+<td style="border : 2px solid green;">dakshayanijoli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JOLI-DAKSHAYANI-g3-integrated-vlsi</td> 
+</tr>
