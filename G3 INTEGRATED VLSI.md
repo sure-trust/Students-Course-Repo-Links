@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SRIKANTH-VADITHYA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VASANA DEEPTHI</td> 
+
+<td style="border : 2px solid green;">deepthivasana</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VASANA-DEEPTHI-g3-integrated-vlsi</td> 
+</tr>
