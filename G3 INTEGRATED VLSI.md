@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHARATH-R-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHILUKA NAVYA</td> 
+
+<td style="border : 2px solid green;">navyachiluka</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHILUKA-NAVYA-g3-integrated-vlsi</td> 
+</tr>
