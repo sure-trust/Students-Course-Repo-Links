@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SALAPU-PRATHYUSHA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHAVYA MATTHURTHI</td> 
+
+<td style="border : 2px solid green;">bhavyamatthurthi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHAVYA-MATTHURTHI-g3-integrated-vlsi</td> 
+</tr>
