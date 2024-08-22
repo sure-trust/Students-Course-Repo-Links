@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VARUN-P-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHANKAR J</td> 
+
+<td style="border : 2px solid green;">shankar-j-g3-integrated-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHANKAR-J-g3-integrated-vlsi</td> 
+</tr>
