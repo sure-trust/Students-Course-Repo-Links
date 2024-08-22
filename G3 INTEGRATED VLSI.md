@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SURISETTI-PRUDHVI-MANIKANTA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUTHAKANA HINDUJA</td> 
+
+<td style="border : 2px solid green;">muthakanahinduja</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUTHAKANA-HINDUJA-g3-integrated-vlsi</td> 
+</tr>
