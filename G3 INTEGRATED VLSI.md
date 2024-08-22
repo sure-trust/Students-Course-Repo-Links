@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SURAVARJULA-NIKHILA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KATA SUBRAMANYAM</td> 
+
+<td style="border : 2px solid green;">subbu-kata</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KATA-SUBRAMANYAM-g3-integrated-vlsi</td> 
+</tr>
