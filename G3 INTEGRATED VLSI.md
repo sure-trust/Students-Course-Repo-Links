@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUPPANNAGARI-VINOD-KUMAR-REDDY-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PATEL TARAK MITALBHAI</td> 
+
+<td style="border : 2px solid green;">tarak1909</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PATEL-TARAK-MITALBHAI-g3-integrated-vlsi</td> 
+</tr>
