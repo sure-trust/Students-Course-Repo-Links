@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARE-PRASANNA-KUMAR-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRATEEK SANGAPPA HUNASIKATTI</td> 
+
+<td style="border : 2px solid green;">prateek-h</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRATEEK-SANGAPPA-HUNASIKATTI-g3-integrated-vlsi</td> 
+</tr>
