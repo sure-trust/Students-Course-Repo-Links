@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRATEEK-SANGAPPA-HUNASIKATTI-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIMALA SEELAM</td> 
+
+<td style="border : 2px solid green;">vimalaseelam</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIMALA-SEELAM-g3-integrated-vlsi</td> 
+</tr>
