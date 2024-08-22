@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIMALA-SEELAM-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANUSHA ANUGU</td> 
+
+<td style="border : 2px solid green;">anusha-aenugu1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANUSHA-ANUGU-g3-integrated-vlsi</td> 
+</tr>
