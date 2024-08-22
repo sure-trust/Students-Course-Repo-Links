@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KATA-SUBRAMANYAM-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDAN B V</td> 
+
+<td style="border : 2px solid green;">chandanbv45</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAN-B-V-g3-integrated-vlsi</td> 
+</tr>
