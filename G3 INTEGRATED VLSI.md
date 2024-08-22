@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHAVYA-MATTHURTHI-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHABH SINGH</td> 
+
+<td style="border : 2px solid green;">rishabh7029</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHABH-SINGH-g3-integrated-vlsi</td> 
+</tr>
