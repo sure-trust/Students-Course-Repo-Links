@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JATLA-PRATHIBHA-BHARATHI-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUSIPATLA SREENIJA REDDY</td> 
+
+<td style="border : 2px solid green;">sreenija52</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUSIPATLA-SREENIJA-REDDY-g3-integrated-vlsi</td> 
+</tr>
