@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UTTEJ-VEMULA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PREETHI GRACE MANTHENA</td> 
+
+<td style="border : 2px solid green;">preethigrace-7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PREETHI-GRACE-MANTHENA-g3-integrated-vlsi</td> 
+</tr>
