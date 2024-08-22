@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MADANA-SOWJANYA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SURISETTI PRUDHVI MANIKANTA</td> 
+
+<td style="border : 2px solid green;"></td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SURISETTI-PRUDHVI-MANIKANTA-g3-integrated-vlsi</td> 
+</tr>
