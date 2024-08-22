@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUNDA-KRISHNA-SAI-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURUVA HARINATH</td> 
+
+<td style="border : 2px solid green;">sunny0-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURUVA-HARINATH-g3-integrated-vlsi</td> 
+</tr>
