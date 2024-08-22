@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PREETHI-GRACE-MANTHENA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MADHAVI KORI</td> 
+
+<td style="border : 2px solid green;">madhavikori</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MADHAVI-KORI-g3-integrated-vlsi</td> 
+</tr>
