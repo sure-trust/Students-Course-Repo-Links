@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RISHABH-SINGH-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UTTEJ VEMULA</td> 
+
+<td style="border : 2px solid green;">uttejvemula</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UTTEJ-VEMULA-g3-integrated-vlsi</td> 
+</tr>
