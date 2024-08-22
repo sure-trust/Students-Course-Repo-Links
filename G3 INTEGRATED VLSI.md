@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YESHWANTH-VELUMULA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BALAM DEVIPRASAD</td> 
+
+<td style="border : 2px solid green;">deviprasad21</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BALAM-DEVIPRASAD-g3-integrated-vlsi</td> 
+</tr>
