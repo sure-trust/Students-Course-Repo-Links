@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANUSHA-ANUGU-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JATLA PRATHIBHA BHARATHI</td> 
+
+<td style="border : 2px solid green;">sure-trust.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JATLA-PRATHIBHA-BHARATHI-g3-integrated-vlsi</td> 
+</tr>
