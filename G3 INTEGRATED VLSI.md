@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHANKAR-J-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUPPANNAGARI VINOD KUMAR REDDY</td> 
+
+<td style="border : 2px solid green;">vinodkumarreddy01</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUPPANNAGARI-VINOD-KUMAR-REDDY-g3-integrated-vlsi</td> 
+</tr>
