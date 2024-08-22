@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUTHAKANA-HINDUJA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JANGA SNEHA</td> 
+
+<td style="border : 2px solid green;">snehajanga</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JANGA-SNEHA-g3-integrated-vlsi</td> 
+</tr>
