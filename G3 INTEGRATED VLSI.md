@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MADHAVI-KORI-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BALADITYA PASAM</td> 
+
+<td style="border : 2px solid green;">pasambaladitya123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BALADITYA-PASAM-g3-integrated-vlsi</td> 
+</tr>
