@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-V-KASHYAP-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DUMPETI YASHWANTH</td> 
+
+<td style="border : 2px solid green;">dumpetiyashwanth</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DUMPETI-YASHWANTH-g3-integrated-vlsi</td> 
+</tr>
