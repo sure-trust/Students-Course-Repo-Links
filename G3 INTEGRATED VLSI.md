@@ -438,3 +438,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUSIPATLA-SREENIJA-REDDY-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOTU SRIKANTH</td> 
+
+<td style="border : 2px solid green;">kotusrikanth</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOTU-SRIKANTH-g3-integrated-vlsi</td> 
+</tr>
