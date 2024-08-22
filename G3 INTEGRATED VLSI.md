@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BALADITYA-PASAM-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SRUTHI K N S CHINTA</td> 
+
+<td style="border : 2px solid green;">sruthi1001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SRUTHI-K-N-S-CHINTA-g3-integrated-vlsi</td> 
+</tr>
