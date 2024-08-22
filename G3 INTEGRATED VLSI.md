@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHETAN-PATIL-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKSHAY NAYAK</td> 
+
+<td style="border : 2px solid green;">akshaynayak212</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKSHAY-NAYAK-g3-integrated-vlsi</td> 
+</tr>
