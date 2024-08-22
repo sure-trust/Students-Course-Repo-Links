@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PATEL-TARAK-MITALBHAI-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHETAN PATIL</td> 
+
+<td style="border : 2px solid green;">chetp100</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHETAN-PATIL-g3-integrated-vlsi</td> 
+</tr>
