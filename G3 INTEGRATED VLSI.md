@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VESALAPU-BHAVANA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SALAPU PRATHYUSHA</td> 
+
+<td style="border : 2px solid green;">prathyushasalapu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SALAPU-PRATHYUSHA-g3-integrated-vlsi</td> 
+</tr>
