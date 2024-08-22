@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SRUTHI-K-N-S-CHINTA-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARE PRASANNA KUMAR</td> 
+
+<td style="border : 2px solid green;">prasannakumar1824</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARE-PRASANNA-KUMAR-g3-integrated-vlsi</td> 
+</tr>
