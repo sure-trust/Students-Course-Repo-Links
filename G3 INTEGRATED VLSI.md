@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAN-B-V-g3-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MADANA SOWJANYA</td> 
+
+<td style="border : 2px solid green;">sowjanya-madana</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MADANA-SOWJANYA-g3-integrated-vlsi</td> 
+</tr>
