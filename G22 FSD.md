@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUPPAM-HARTHIK-g22-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LASSYA AITIPAMULA</td> 
+
+<td style="border : 2px solid green;">aitipamulalassya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LASSYA-AITIPAMULA-g22-fsd</td> 
+</tr>
