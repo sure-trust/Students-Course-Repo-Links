@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LASSYA-AITIPAMULA-g22-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHEPURI INDU</td> 
+
+<td style="border : 2px solid green;">chepuriindu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHEPURI-INDU-g22-fsd</td> 
+</tr>
