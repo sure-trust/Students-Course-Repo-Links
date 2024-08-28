@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOMPURA-DHARMIK-MANISHKUMAR-g22-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">J.DURGA PRASAD</td> 
+
+<td style="border : 2px solid green;">durgaprasad123-glitch</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/J.DURGA-PRASAD-g22-fsd</td> 
+</tr>
