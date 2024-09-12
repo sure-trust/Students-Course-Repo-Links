@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUMIT-BARNWAL-g33-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">G.KULA THEJA</td> 
+
+<td style="border : 2px solid green;">g_kulatheja</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/G.KULA-THEJA-g33-python</td> 
+</tr>
