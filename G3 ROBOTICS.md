@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YADAVALLI-TEJAS-g3-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KHUSHI SINGH</td> 
+
+<td style="border : 2px solid green;">singhkhushi22</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KHUSHI-SINGH-g3-robotics</td> 
+</tr>
