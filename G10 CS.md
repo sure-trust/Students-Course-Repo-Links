@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DARSHAN-MANISHBHAI-MORADIYA-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANARY KUMAR KURTADIKAR</td> 
+
+<td style="border : 2px solid green;">anary25</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANARY-KUMAR-KURTADIKAR-g10-cs</td> 
+</tr>
