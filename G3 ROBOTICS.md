@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KHUSHI-SINGH-g3-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADITYA SHEKHAR DAS</td> 
+
+<td style="border : 2px solid green;">dasadityashekhar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADITYA-SHEKHAR-DAS-g3-robotics</td> 
+</tr>
