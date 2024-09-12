@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEEPIKA-DATTATRAYA-NAIK-g11-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BOMMISETTY LOHITHA</td> 
+
+<td style="border : 2px solid green;">lohithabommisetty</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BOMMISETTY-LOHITHA-g11-es</td> 
+</tr>
