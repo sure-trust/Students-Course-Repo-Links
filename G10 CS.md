@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARANBIR-SINGH-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHREEYA DAVE</td> 
+
+<td style="border : 2px solid green;">daveshreeya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHREEYA-DAVE-g10-cs</td> 
+</tr>
