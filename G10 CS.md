@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KRISHNA-KARTHIK-PERUMALLA-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARIGELA VYSHNAVI</td> 
+
+<td style="border : 2px solid green;">arigela-vyshnavi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARIGELA-VYSHNAVI-g10-cs</td> 
+</tr>
