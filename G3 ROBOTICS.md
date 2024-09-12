@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NEHA-NEKRAJ-THAKUR-g3-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AAYUSH GOEL</td> 
+
+<td style="border : 2px solid green;">0aayushgoel0</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AAYUSH-GOEL-g3-robotics</td> 
+</tr>
