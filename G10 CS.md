@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUKKANDLA-VENKATESH-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARANBIR SINGH</td> 
+
+<td style="border : 2px solid green;">karanbir-singh001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARANBIR-SINGH-g10-cs</td> 
+</tr>
