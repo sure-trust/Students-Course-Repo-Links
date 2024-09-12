@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARIGELA-VYSHNAVI-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HIR PATEL</td> 
+
+<td style="border : 2px solid green;">hiru1920</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HIR-PATEL-g10-cs</td> 
+</tr>
