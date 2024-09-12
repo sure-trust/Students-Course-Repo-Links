@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PATTIPATI-VENKATA-SWARUPA-g33-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAMISETTI ASRITHA</td> 
+
+<td style="border : 2px solid green;">asr2004</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAMISETTI-ASRITHA-g33-python</td> 
+</tr>
