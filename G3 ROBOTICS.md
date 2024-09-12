@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADITYA-SHEKHAR-DAS-g3-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NEHA NEKRAJ THAKUR</td> 
+
+<td style="border : 2px solid green;">neha-thakur-10</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NEHA-NEKRAJ-THAKUR-g3-robotics</td> 
+</tr>
