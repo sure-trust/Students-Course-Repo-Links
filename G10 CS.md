@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUMIT-KUMAR-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GIRI CHOWDARI VEMANA</td> 
+
+<td style="border : 2px solid green;">girichowdari</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GIRI-CHOWDARI-VEMANA-g10-cs</td> 
+</tr>
