@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHREEYA-DAVE-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHUBHAM JANGID</td> 
+
+<td style="border : 2px solid green;">jerrygems</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHUBHAM-JANGID-g10-cs</td> 
+</tr>
