@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARENDER-SAKILETI-g11-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPIKA DATTATRAYA NAIK</td> 
+
+<td style="border : 2px solid green;">deepikanaikk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPIKA-DATTATRAYA-NAIK-g11-es</td> 
+</tr>
