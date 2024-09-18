@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAKALI-ROHITHA-g15-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NALLANI KANCHANA</td> 
+
+<td style="border : 2px solid green;">kanchana-2004</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NALLANI-KANCHANA-g15-sql</td> 
+</tr>
