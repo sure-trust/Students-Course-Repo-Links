@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANEESHA-RAHIMAN-g1-medical</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KN-ABHINAYA</td> 
+
+<td style="border : 2px solid green;">kn-abhinaya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KN-ABHINAYA-g1-medical</td> 
+</tr>
