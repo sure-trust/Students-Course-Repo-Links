@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANARY-KUMAR-KURTADIKAR-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MARNI SAI SATVIKA</td> 
+
+<td style="border : 2px solid green;">marnisaisatvika</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MARNI-SAI-SATVIKA-g10-cs</td> 
+</tr>
