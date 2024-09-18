@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUGALAPALLI-SUREKHA-g15-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAKALI ROHITHA</td> 
+
+<td style="border : 2px solid green;">rohithachakali1843</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAKALI-ROHITHA-g15-sql</td> 
+</tr>
