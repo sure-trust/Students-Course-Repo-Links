@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MARNI-SAI-SATVIKA-g10-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALASH THAKKAR</td> 
+
+<td style="border : 2px solid green;">palash-thakkar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALASH-THAKKAR-g10-cs</td> 
+</tr>
