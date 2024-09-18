@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NALLANI-KANCHANA-g15-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BOYA PRADEEPTHI</td> 
+
+<td style="border : 2px solid green;">boyapradeepthi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BOYA-PRADEEPTHI-g15-sql</td> 
+</tr>
