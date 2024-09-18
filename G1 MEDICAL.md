@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HIMABINDU-g1-medical</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANGADI DEVI</td> 
+
+<td style="border : 2px solid green;">deviyadav</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANGADI-DEVI-g1-medical</td> 
+</tr>
