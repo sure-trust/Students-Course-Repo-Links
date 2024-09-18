@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SINGAVARAPU-JHANSI-g15-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARISHMA PARNAPALLI</td> 
+
+<td style="border : 2px solid green;">karishma2580</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARISHMA-PARNAPALLI-g15-sql</td> 
+</tr>
