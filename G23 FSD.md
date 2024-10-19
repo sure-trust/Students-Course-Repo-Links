@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/C-V-CHARAN-g23-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DESHAVATH VENKATESWARA NAIK</td> 
+
+<td style="border : 2px solid green;">deshavath-venkateswara-naik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DESHAVATH-VENKATESWARA-NAIK-g23-fsd</td> 
+</tr>
