@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/O.GNANENDRA-g3-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">M PRAKASH NAICK</td> 
+
+<td style="border : 2px solid green;">prakashnaick123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/M-PRAKASH-NAICK-g3-pcb</td> 
+</tr>
