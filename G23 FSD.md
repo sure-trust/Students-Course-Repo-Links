@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YADAVALLI-TEJASWI-g23-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUTVI KHUNT</td> 
+
+<td style="border : 2px solid green;">rutvikhunt</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUTVI-KHUNT-g23-fsd</td> 
+</tr>
