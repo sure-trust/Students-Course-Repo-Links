@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GADDAMEDHI-VENKATESH-g3-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AIKA CHANDU</td> 
+
+<td style="border : 2px solid green;">chanduaika</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AIKA-CHANDU-g3-pcb</td> 
+</tr>
