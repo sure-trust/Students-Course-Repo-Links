@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KRISH-UMESH-SHAH-g3-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVRATH BADUGU</td> 
+
+<td style="border : 2px solid green;">devrathbadugu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVRATH-BADUGU-g3-cc</td> 
+</tr>
