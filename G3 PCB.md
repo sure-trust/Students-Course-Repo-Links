@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUSHMA-S-S-g3-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GADDAMEDHI VENKATESH</td> 
+
+<td style="border : 2px solid green;">venkatesh955</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GADDAMEDHI-VENKATESH-g3-pcb</td> 
+</tr>
