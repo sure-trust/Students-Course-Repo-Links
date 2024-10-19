@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BALAJI-PUNETI-g23-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MULLANGI NAGAPRANATHI</td> 
+
+<td style="border : 2px solid green;">nagapranathimullangi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MULLANGI-NAGAPRANATHI-g23-fsd</td> 
+</tr>
