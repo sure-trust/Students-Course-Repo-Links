@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/M-PRAKASH-NAICK-g3-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOLLA HEMA MALINI</td> 
+
+<td style="border : 2px solid green;">malini-11</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOLLA-HEMA-MALINI-g3-pcb</td> 
+</tr>
