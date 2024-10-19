@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVRATH-BADUGU-g3-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GANJIKUNTA RUSHENDRA KUMAR</td> 
+
+<td style="border : 2px solid green;">rushendrakumar-17</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GANJIKUNTA-RUSHENDRA-KUMAR-g3-cc</td> 
+</tr>
