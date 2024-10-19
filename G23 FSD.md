@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LIKHITHA-MARADUGU-g23-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YADAVALLI TEJASWI</td> 
+
+<td style="border : 2px solid green;">tejaswiyadavalli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YADAVALLI-TEJASWI-g23-fsd</td> 
+</tr>
