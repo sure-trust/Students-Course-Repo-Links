@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUTVI-KHUNT-g23-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SRUSTI G</td> 
+
+<td style="border : 2px solid green;">srusti-gopalkrishna</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SRUSTI-G-g23-fsd</td> 
+</tr>
