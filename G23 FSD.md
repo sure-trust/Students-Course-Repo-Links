@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SRUSTI-G-g23-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURUVA BHANUPRAKASH</td> 
+
+<td style="border : 2px solid green;">bhanuprakash-kuruva</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURUVA-BHANUPRAKASH-g23-fsd</td> 
+</tr>
