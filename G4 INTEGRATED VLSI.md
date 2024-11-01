@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BOMMANA-RAJESH-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SWATHI AJJARAPU</td> 
+
+<td style="border : 2px solid green;">hanumanjiswathi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SWATHI-AJJARAPU-g4-integrated-vlsi</td> 
+</tr>
