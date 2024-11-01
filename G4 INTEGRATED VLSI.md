@@ -606,3 +606,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GATTU-AKASH-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARNATI SIVA GOVINDH REDDY</td> 
+
+<td style="border : 2px solid green;">karnatisivagovindhreddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARNATI-SIVA-GOVINDH-REDDY-g4-integrated-vlsi</td> 
+</tr>
