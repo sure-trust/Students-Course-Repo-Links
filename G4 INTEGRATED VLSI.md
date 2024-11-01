@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YALAMANCHILI-ANITHA-VENNELA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPAK KUMAR</td> 
+
+<td style="border : 2px solid green;">suretrustassignments-project.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-KUMAR-g4-integrated-vlsi</td> 
+</tr>
