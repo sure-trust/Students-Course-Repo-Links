@@ -534,3 +534,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHARAMVEER-GUPTA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SWAMY AVURAGONDA</td> 
+
+<td style="border : 2px solid green;">swamyavuragonda</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SWAMY-AVURAGONDA-g4-integrated-vlsi</td> 
+</tr>
