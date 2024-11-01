@@ -574,3 +574,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUGURU-KALYAN-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOPAL KUMAR</td> 
+
+<td style="border : 2px solid green;">gopalkumar22234958</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOPAL-KUMAR-g4-integrated-vlsi</td> 
+</tr>
