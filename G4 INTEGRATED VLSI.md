@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UMESH-REDDY-KAYYURU-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHINTA MANIKUMAR</td> 
+
+<td style="border : 2px solid green;">c-manikumar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHINTA-MANIKUMAR-g4-integrated-vlsi</td> 
+</tr>
