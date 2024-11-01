@@ -478,3 +478,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRAVEEN-KUMAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KODURI JAGASRI</td> 
+
+<td style="border : 2px solid green;">kjagasri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KODURI-JAGASRI-g4-integrated-vlsi</td> 
+</tr>
