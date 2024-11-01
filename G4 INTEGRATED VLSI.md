@@ -486,3 +486,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KODURI-JAGASRI-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ILURU ASLAM ALI</td> 
+
+<td style="border : 2px solid green;">aslamali-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ILURU-ASLAM-ALI-g4-integrated-vlsi</td> 
+</tr>
