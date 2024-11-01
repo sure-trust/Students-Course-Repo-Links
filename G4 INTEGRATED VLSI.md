@@ -502,3 +502,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHARGAV-PONDRATI-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ABHINIT PRADHAN</td> 
+
+<td style="border : 2px solid green;">abhinit3002</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ABHINIT-PRADHAN-g4-integrated-vlsi</td> 
+</tr>
