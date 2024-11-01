@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POKALA-DINESH-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K. THARUN KRISHNAMACHARYULU</td> 
+
+<td style="border : 2px solid green;">tharunkrishna123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K.-THARUN-KRISHNAMACHARYULU-g4-integrated-vlsi</td> 
+</tr>
