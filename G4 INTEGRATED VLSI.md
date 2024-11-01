@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAMINIDU-VYSHNAVI-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LAKHINANA JEEVANA RAO</td> 
+
+<td style="border : 2px solid green;">desktop-tutorial</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LAKHINANA-JEEVANA-RAO-g4-integrated-vlsi</td> 
+</tr>
