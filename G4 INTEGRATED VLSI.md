@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOTLA-JYOTHIKA-DEVI-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">J SAI DURGA LAKSHMI</td> 
+
+<td style="border : 2px solid green;">saidurgalakshmi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/J-SAI-DURGA-LAKSHMI-g4-integrated-vlsi</td> 
+</tr>
