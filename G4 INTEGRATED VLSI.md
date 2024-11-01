@@ -662,3 +662,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/A-V-S-CHETAN-KUMAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHARAN SAI KONDILLA</td> 
+
+<td style="border : 2px solid green;">dashboard</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHARAN-SAI-KONDILLA-g4-integrated-vlsi</td> 
+</tr>
