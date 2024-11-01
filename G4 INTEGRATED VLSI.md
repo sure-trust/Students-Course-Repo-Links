@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PUVVADI-VIJAY-KUMAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLAM SUPRIYA</td> 
+
+<td style="border : 2px solid green;">supriyapallam</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLAM-SUPRIYA-g4-integrated-vlsi</td> 
+</tr>
