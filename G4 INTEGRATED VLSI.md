@@ -558,3 +558,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TADI-POOJA-PRIYA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROHIT KUMAR</td> 
+
+<td style="border : 2px solid green;">sumitarohit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROHIT-KUMAR-g4-integrated-vlsi</td> 
+</tr>
