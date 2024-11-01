@@ -518,3 +518,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOMA-SURYA-SARVISETTI-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDRIKA PATNANA</td> 
+
+<td style="border : 2px solid green;">chandrikapatnana.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDRIKA-PATNANA-g4-integrated-vlsi</td> 
+</tr>
