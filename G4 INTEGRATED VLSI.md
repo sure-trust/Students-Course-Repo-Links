@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KODIVENDLA-NALLAPPA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAMINIDU VYSHNAVI</td> 
+
+<td style="border : 2px solid green;">maminiduvyshnavi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAMINIDU-VYSHNAVI-g4-integrated-vlsi</td> 
+</tr>
