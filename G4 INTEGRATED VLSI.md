@@ -446,3 +446,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAHIMALURU-VENKATESWARLU-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINUKONDA VENKATA DURGA DEVI</td> 
+
+<td style="border : 2px solid green;">durgadevivinukonda</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINUKONDA-VENKATA-DURGA-DEVI-g4-integrated-vlsi</td> 
+</tr>
