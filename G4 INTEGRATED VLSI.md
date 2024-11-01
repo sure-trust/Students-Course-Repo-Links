@@ -550,3 +550,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMISH-KUMAR-SINGH-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TADI POOJA PRIYA</td> 
+
+<td style="border : 2px solid green;">poojapriyag4</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TADI-POOJA-PRIYA-g4-integrated-vlsi</td> 
+</tr>
