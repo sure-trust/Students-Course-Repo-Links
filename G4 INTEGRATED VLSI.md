@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BATHULA-HEMANTH-KUMAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BAJI BABU DERANGULA</td> 
+
+<td style="border : 2px solid green;">bajibabu03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BAJI-BABU-DERANGULA-g4-integrated-vlsi</td> 
+</tr>
