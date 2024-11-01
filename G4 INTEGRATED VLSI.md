@@ -654,3 +654,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MARAM-VENKATA-LAKSHMI-PRASANNA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">A V S CHETAN KUMAR</td> 
+
+<td style="border : 2px solid green;">chetan8790</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/A-V-S-CHETAN-KUMAR-g4-integrated-vlsi</td> 
+</tr>
