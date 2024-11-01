@@ -670,3 +670,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHARAN-SAI-KONDILLA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PUJARI KARTHIK</td> 
+
+<td style="border : 2px solid green;">karthik-833</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PUJARI-KARTHIK-g4-integrated-vlsi</td> 
+</tr>
