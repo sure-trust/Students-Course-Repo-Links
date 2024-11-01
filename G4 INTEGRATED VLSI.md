@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UPPULURI-MAHENDRA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POKALA DINESH</td> 
+
+<td style="border : 2px solid green;">dinesh348</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POKALA-DINESH-g4-integrated-vlsi</td> 
+</tr>
