@@ -622,3 +622,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAGHAVAREDDY-GARI-ANITHA-REDDY-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KONA ROHITH REDDY</td> 
+
+<td style="border : 2px solid green;">iamrohithkona</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KONA-ROHITH-REDDY-g4-integrated-vlsi</td> 
+</tr>
