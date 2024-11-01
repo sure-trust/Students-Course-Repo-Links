@@ -462,3 +462,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAKA-JNANESWAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ORSU CHANDRIKA</td> 
+
+<td style="border : 2px solid green;">chandri-123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ORSU-CHANDRIKA-g4-integrated-vlsi</td> 
+</tr>
