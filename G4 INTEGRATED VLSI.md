@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BAJI-BABU-DERANGULA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLA PAVAN KUMAR</td> 
+
+<td style="border : 2px solid green;">pavan-kumar-palla</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLA-PAVAN-KUMAR-g4-integrated-vlsi</td> 
+</tr>
