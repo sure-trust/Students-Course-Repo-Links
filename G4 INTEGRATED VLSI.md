@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VENKATESH-J-M-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UDAYAGIRI VENKATESWARLUU</td> 
+
+<td style="border : 2px solid green;">udayagirivenkateswarlu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UDAYAGIRI-VENKATESWARLUU-g4-integrated-vlsi</td> 
+</tr>
