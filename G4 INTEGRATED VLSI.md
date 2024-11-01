@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KALYAN-GARA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDU KADI</td> 
+
+<td style="border : 2px solid green;">chanduu001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDU-KADI-g4-integrated-vlsi</td> 
+</tr>
