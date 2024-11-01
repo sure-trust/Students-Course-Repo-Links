@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NEELAM-DEEPTHI-SREE-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEGA SUSRUTHA</td> 
+
+<td style="border : 2px solid green;">susrutha144</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEGA-SUSRUTHA-g4-integrated-vlsi</td> 
+</tr>
