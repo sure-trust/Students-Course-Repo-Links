@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUPRIYA-KONKA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKASH AMAN</td> 
+
+<td style="border : 2px solid green;">akash-g4integratedvlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-AMAN-g4-integrated-vlsi</td> 
+</tr>
