@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K.-THARUN-KRISHNAMACHARYULU-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BORUGANI AKASH</td> 
+
+<td style="border : 2px solid green;">akashnani123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BORUGANI-AKASH-g4-integrated-vlsi</td> 
+</tr>
