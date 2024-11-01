@@ -510,3 +510,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHINIT-PRADHAN-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOMA SURYA SARVISETTI</td> 
+
+<td style="border : 2px solid green;">soma1006</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOMA-SURYA-SARVISETTI-g4-integrated-vlsi</td> 
+</tr>
