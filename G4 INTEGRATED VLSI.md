@@ -454,3 +454,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINUKONDA-VENKATA-DURGA-DEVI-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDAKA JNANESWAR</td> 
+
+<td style="border : 2px solid green;">jnaneswarchandaka</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAKA-JNANESWAR-g4-integrated-vlsi</td> 
+</tr>
