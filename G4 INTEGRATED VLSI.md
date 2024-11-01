@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEGA-SUSRUTHA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HOSURU SUNITHA</td> 
+
+<td style="border : 2px solid green;">sunitha-1234</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HOSURU-SUNITHA-g4-integrated-vlsi</td> 
+</tr>
