@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PALLA-PAVAN-KUMAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VEERA MANIKANTA REDDY BILLAKURTHI</td> 
+
+<td style="border : 2px solid green;">mani654</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VEERA-MANIKANTA-REDDY-BILLAKURTHI-g4-integrated-vlsi</td> 
+</tr>
