@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANESH-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHATAKONDU PRANAI</td> 
+
+<td style="border : 2px solid green;">pranaii18</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHATAKONDU-PRANAI-g4-integrated-vlsi</td> 
+</tr>
