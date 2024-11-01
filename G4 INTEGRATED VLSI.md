@@ -590,3 +590,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K.TRIVENI-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NITHIN LONE</td> 
+
+<td style="border : 2px solid green;">nithinece23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NITHIN-LONE-g4-integrated-vlsi</td> 
+</tr>
