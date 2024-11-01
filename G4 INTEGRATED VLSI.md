@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HOSURU-SUNITHA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PUVVADI VIJAY KUMAR</td> 
+
+<td style="border : 2px solid green;">vijjvijay</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PUVVADI-VIJAY-KUMAR-g4-integrated-vlsi</td> 
+</tr>
