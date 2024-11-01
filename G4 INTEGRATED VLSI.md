@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHINTA-MANIKUMAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BOYA YERRISWAMY</td> 
+
+<td style="border : 2px solid green;">swamy0908</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BOYA-YERRISWAMY-g4-integrated-vlsi</td> 
+</tr>
