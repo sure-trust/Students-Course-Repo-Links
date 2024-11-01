@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BORUGANI-AKASH-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRIYANKA C HUCHCHANNANAVAR</td> 
+
+<td style="border : 2px solid green;">priyankach-09</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANKA-C-HUCHCHANNANAVAR-g4-integrated-vlsi</td> 
+</tr>
