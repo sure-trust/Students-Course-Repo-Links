@@ -542,3 +542,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SWAMY-AVURAGONDA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMISH KUMAR SINGH</td> 
+
+<td style="border : 2px solid green;">singhamish05</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMISH-KUMAR-SINGH-g4-integrated-vlsi</td> 
+</tr>
