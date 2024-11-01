@@ -582,3 +582,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOPAL-KUMAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K.TRIVENI</td> 
+
+<td style="border : 2px solid green;">trivu84</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K.TRIVENI-g4-integrated-vlsi</td> 
+</tr>
