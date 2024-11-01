@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KEERTHI-N-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UPPULURI MAHENDRA</td> 
+
+<td style="border : 2px solid green;">mahendrau99</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UPPULURI-MAHENDRA-g4-integrated-vlsi</td> 
+</tr>
