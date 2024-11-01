@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANNAPURANAM-MANOJ-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDA VINAY KUMAR</td> 
+
+<td style="border : 2px solid green;">vinaykumar-70752</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDA-VINAY-KUMAR-g4-integrated-vlsi</td> 
+</tr>
