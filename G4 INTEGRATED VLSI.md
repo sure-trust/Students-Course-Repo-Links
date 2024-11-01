@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PALLAM-SUPRIYA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TURUBATI DVS SUBRAMANYA PRANEETH</td> 
+
+<td style="border : 2px solid green;">dolananda-atom453</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TURUBATI-DVS-SUBRAMANYA-PRANEETH-g4-integrated-vlsi</td> 
+</tr>
