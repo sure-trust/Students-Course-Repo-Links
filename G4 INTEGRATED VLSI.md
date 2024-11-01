@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-KUMAR-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUPRIYA KONKA</td> 
+
+<td style="border : 2px solid green;">supriyakonka</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUPRIYA-KONKA-g4-integrated-vlsi</td> 
+</tr>
