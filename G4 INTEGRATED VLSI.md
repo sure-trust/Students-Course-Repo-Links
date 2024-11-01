@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ORSU-CHANDRIKA-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAVEEN KUMAR</td> 
+
+<td style="border : 2px solid green;">itzpraveen5</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAVEEN-KUMAR-g4-integrated-vlsi</td> 
+</tr>
