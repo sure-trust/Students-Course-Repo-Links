@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AISHWARYA-MAREGUDDI-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BALA GANESH</td> 
+
+<td style="border : 2px solid green;">ganeshsee</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BALA-GANESH-g4-integrated-vlsi</td> 
+</tr>
