@@ -438,3 +438,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LAKHINANA-JEEVANA-RAO-g4-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAHIMALURU VENKATESWARLU</td> 
+
+<td style="border : 2px solid green;">mvenkateswarlu-123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAHIMALURU-VENKATESWARLU-g4-integrated-vlsi</td> 
+</tr>
