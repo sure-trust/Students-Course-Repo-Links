@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MALLELA-SNEHITHA-g12-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANI KUMAR LINGALA</td> 
+
+<td style="border : 2px solid green;">manikumar1710</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANI-KUMAR-LINGALA-g12-es</td> 
+</tr>
