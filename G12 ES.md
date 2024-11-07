@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAJARAPU-RAGHUPATHI-g12-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MALLELA SNEHITHA</td> 
+
+<td style="border : 2px solid green;">snehitha2003m</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MALLELA-SNEHITHA-g12-es</td> 
+</tr>
