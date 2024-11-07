@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SRILAMANTHULA-KARTHIK-g12-es</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIDHISH SHETTY</td> 
+
+<td style="border : 2px solid green;">nidhish-shetty</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIDHISH-SHETTY-g12-es</td> 
+</tr>
