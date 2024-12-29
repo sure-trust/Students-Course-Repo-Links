@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVAKY-KANNAN-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">C. NAGA YASWITHA</td> 
+
+<td style="border : 2px solid green;">ya-shu03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/C.-NAGA-YASWITHA-g2-dsa-in-java</td> 
+</tr>
