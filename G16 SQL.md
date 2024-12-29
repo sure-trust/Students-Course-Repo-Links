@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MRIDUL-RASTOGI-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARINADH MANDAVA</td> 
+
+<td style="border : 2px solid green;">harinadh-mandava</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARINADH-MANDAVA-g16-sql</td> 
+</tr>
