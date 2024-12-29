@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/P-MOKSHENDRA-REDDY-g13-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURUKUTI LEHA PRIYA</td> 
+
+<td style="border : 2px solid green;">kurukuti-leha-priya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURUKUTI-LEHA-PRIYA-g13-es-and-iot</td> 
+</tr>
