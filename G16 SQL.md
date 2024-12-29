@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AGUDURU-BHUVANESWAR-REDDY-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YUVARAJ PODILI</td> 
+
+<td style="border : 2px solid green;">sql-assignment-1-.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YUVARAJ-PODILI-g16-sql</td> 
+</tr>
