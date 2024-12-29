@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/A.-CHAKRI-PRIYA-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BODIGA. SUMANJALI</td> 
+
+<td style="border : 2px solid green;">sumanjalib</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BODIGA.-SUMANJALI-g16-sql</td> 
+</tr>
