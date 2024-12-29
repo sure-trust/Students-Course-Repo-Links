@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMAN-KAILASH-PANDEY-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">S MAANASA</td> 
+
+<td style="border : 2px solid green;">s-maanasa</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/S-MAANASA-g2-dsa-in-java</td> 
+</tr>
