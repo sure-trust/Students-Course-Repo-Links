@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMAD-IMTIAZ-AHMED-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIMMY KUMARI</td> 
+
+<td style="border : 2px solid green;">simmy0612</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIMMY-KUMARI-g16-sql</td> 
+</tr>
