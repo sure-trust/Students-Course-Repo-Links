@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/M-SHAMSHUNNISA-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">A. CHAKRI PRIYA</td> 
+
+<td style="border : 2px solid green;">chakri-priya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/A.-CHAKRI-PRIYA-g16-sql</td> 
+</tr>
