@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIK NAHAZ</td> 
+
+<td style="border : 2px solid green;">shaiknahaz</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-NAHAZ-g13-es-and-iot</td> 
+</tr>
