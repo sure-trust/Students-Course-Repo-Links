@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHINAV-KUMAR-KANAUJIA-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDAN KUMAR CHANDEL</td> 
+
+<td style="border : 2px solid green;">chandanchandel0001?tab=repositories</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAN-KUMAR-CHANDEL-g16-sql</td> 
+</tr>
