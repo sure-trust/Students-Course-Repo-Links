@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NISHA-SHARMA-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHANT SACHIN WADEWALE</td> 
+
+<td style="border : 2px solid green;">rishant-jain</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHANT-SACHIN-WADEWALE-g2-dsa-in-java</td> 
+</tr>
