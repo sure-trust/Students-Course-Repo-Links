@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AJIT-KUMAR-SAH-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">A PRAJWALA REDDY</td> 
+
+<td style="border : 2px solid green;">prajwala-20</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/A-PRAJWALA-REDDY-g2-dsa-in-java</td> 
+</tr>
