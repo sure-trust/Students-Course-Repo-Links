@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIDHYALAKSHMI-SAMPATH-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEKI JAHNAVI</td> 
+
+<td style="border : 2px solid green;">tekijahnavi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEKI-JAHNAVI-g16-sql</td> 
+</tr>
