@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAHUL-SINGLA-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIDHYA RAHANGDALE</td> 
+
+<td style="border : 2px solid green;">vidhya1427</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIDHYA-RAHANGDALE-g16-sql</td> 
+</tr>
