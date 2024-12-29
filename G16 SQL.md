@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEKA-ARUNA-SRI-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PISU VAMIKA REDDY</td> 
+
+<td style="border : 2px solid green;">vamikareddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PISU-VAMIKA-REDDY-g16-sql</td> 
+</tr>
