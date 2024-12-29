@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SURATTU-SRI-THRAYLOKYA-MOHANA-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BUKKE SUDHARSHAN NAIK</td> 
+
+<td style="border : 2px solid green;">siddhunaik12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BUKKE-SUDHARSHAN-NAIK-g2-dsa-in-java</td> 
+</tr>
