@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NITESH-KUMAR-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMAN KAILASH PANDEY</td> 
+
+<td style="border : 2px solid green;">thepandeyji</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMAN-KAILASH-PANDEY-g2-dsa-in-java</td> 
+</tr>
