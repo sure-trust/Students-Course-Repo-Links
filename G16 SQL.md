@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PISU-VAMIKA-REDDY-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MRIDUL RASTOGI</td> 
+
+<td style="border : 2px solid green;">mridulrastogi1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MRIDUL-RASTOGI-g16-sql</td> 
+</tr>
