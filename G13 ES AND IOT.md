@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VADDHI-SUCHI-g13-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUGULOTH NIKHIL</td> 
+
+<td style="border : 2px solid green;">gugulothnikhil</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUGULOTH-NIKHIL-g13-es-and-iot</td> 
+</tr>
