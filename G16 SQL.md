@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/QUEENI-FERNANDES-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GRIJESH YADAV</td> 
+
+<td style="border : 2px solid green;">grijesh-g16-sql-powerbi.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GRIJESH-YADAV-g16-sql</td> 
+</tr>
