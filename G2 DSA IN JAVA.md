@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BONASI-MANEESHA-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">S THARANI DHARAN</td> 
+
+<td style="border : 2px solid green;">tharanidharan10</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/S-THARANI-DHARAN-g2-dsa-in-java</td> 
+</tr>
