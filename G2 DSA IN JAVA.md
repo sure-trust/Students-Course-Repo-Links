@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/P.-REX-BABU-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NITESH KUMAR</td> 
+
+<td style="border : 2px solid green;">code-with-niteshkumar25</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NITESH-KUMAR-g2-dsa-in-java</td> 
+</tr>
