@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RISHANT-SACHIN-WADEWALE-g2-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVAKY KANNAN</td> 
+
+<td style="border : 2px solid green;">devaky-d04</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVAKY-KANNAN-g2-dsa-in-java</td> 
+</tr>
