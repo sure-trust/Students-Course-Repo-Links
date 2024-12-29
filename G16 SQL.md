@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIGNESH-SIVARAM-A-G-g16-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">QUEENI FERNANDES</td> 
+
+<td style="border : 2px solid green;">queenifernandes-4</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/QUEENI-FERNANDES-g16-sql</td> 
+</tr>
