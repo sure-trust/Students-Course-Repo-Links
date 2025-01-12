@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHI-JAT-g4-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOPI KRISHNA</td> 
+
+<td style="border : 2px solid green;">gopikrishna-24bit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOPI-KRISHNA-g4-robotics</td> 
+</tr>
