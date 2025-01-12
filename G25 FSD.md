@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARUNESH-KUMAR-SINGH-g25-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANANTHAGARI VENKATA BALAJI</td> 
+
+<td style="border : 2px solid green;">techbalaji</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANANTHAGARI-VENKATA-BALAJI-g25-fsd</td> 
+</tr>
