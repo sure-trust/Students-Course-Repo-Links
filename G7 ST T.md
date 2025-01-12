@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MORTAMARRI.-CHETANA-SRI-CHANDANA-g7-st-t</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANJALI ANAND VALLAKATI</td> 
+
+<td style="border : 2px solid green;">toxic1104</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-ANAND-VALLAKATI-g7-st-t</td> 
+</tr>
