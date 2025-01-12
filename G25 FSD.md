@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHUL-g25-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">P. MARUTHI VINAY KUMAR</td> 
+
+<td style="border : 2px solid green;">vinaypalakaveeti</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/P.-MARUTHI-VINAY-KUMAR-g25-fsd</td> 
+</tr>
