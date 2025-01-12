@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-KARBHARI-HIWALE-g25-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GANGINEPALLI THEJASREE</td> 
+
+<td style="border : 2px solid green;">thejasree-24</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GANGINEPALLI-THEJASREE-g25-fsd</td> 
+</tr>
