@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/EDIGA-PRASHANTH-g2-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NANDINI PATTIPATI</td> 
+
+<td style="border : 2px solid green;">nandinipattipati</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NANDINI-PATTIPATI-g2-med-coding</td> 
+</tr>
