@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOPI-KRISHNA-g4-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SACHIN VERMA</td> 
+
+<td style="border : 2px solid green;">shachinverma</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SACHIN-VERMA-g4-robotics</td> 
+</tr>
