@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NANDINI-PATTIPATI-g2-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SADU VYSHNAVI</td> 
+
+<td style="border : 2px solid green;">vyshnavi-1005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SADU-VYSHNAVI-g2-med-coding</td> 
+</tr>
