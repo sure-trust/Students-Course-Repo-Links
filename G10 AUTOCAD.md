@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAVINDRA-REDDY-MANDAPALLI-g10-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURUVA SURESH</td> 
+
+<td style="border : 2px solid green;">kuruvasuresh1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURUVA-SURESH-g10-autocad</td> 
+</tr>
