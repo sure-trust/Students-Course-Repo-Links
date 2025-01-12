@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MISSBHA-FATHIMA-S-A-g4-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KATANKUR UDAY KUMAR</td> 
+
+<td style="border : 2px solid green;">udaysmart1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KATANKUR-UDAY-KUMAR-g4-ui-ux</td> 
+</tr>
