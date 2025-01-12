@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUDDADA-SATWIK-g25-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">B NITHISH KUMAR REDDY</td> 
+
+<td style="border : 2px solid green;">nithish-kumar07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/B-NITHISH-KUMAR-REDDY-g25-fsd</td> 
+</tr>
