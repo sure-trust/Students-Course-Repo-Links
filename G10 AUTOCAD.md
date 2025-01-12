@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRAVEEN-C-MURAGOD-g10-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VEERAM REDDY PURUSHOTHAM REDDY</td> 
+
+<td style="border : 2px solid green;">purush2003</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VEERAM-REDDY-PURUSHOTHAM-REDDY-g10-autocad</td> 
+</tr>
