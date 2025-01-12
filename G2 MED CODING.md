@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PUTTA-NAMITHA-g2-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THANU2729</td> 
+
+<td style="border : 2px solid green;">agriculture-system-.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THANU2729-g2-med-coding</td> 
+</tr>
