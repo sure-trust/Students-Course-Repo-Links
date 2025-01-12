@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOLIMI-SHAHID-g2-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">EDIGA PRASHANTH</td> 
+
+<td style="border : 2px solid green;">edigaprashanth</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/EDIGA-PRASHANTH-g2-med-coding</td> 
+</tr>
