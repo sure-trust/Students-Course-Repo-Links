@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BASAVRAJ-BHIMASHANKAR-BIRAJDAR-g2-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KS POORNIMA</td> 
+
+<td style="border : 2px solid green;">poornima3008</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KS-POORNIMA-g2-med-coding</td> 
+</tr>
