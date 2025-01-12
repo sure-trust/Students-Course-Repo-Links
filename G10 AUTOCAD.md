@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VEERAM-REDDY-PURUSHOTHAM-REDDY-g10-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PENUGONDA NAGESWARI</td> 
+
+<td style="border : 2px solid green;">autocadsystem.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PENUGONDA-NAGESWARI-g10-autocad</td> 
+</tr>
