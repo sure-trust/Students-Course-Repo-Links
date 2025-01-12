@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHANMUGA-PREMA-S-g25-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUDDADA SATWIK</td> 
+
+<td style="border : 2px solid green;">satwik1357</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUDDADA-SATWIK-g25-fsd</td> 
+</tr>
