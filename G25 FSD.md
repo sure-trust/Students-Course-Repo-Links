@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SONTYANA-NANDINI-DEVI-g25-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SATYARTH YADAV</td> 
+
+<td style="border : 2px solid green;">satyarth1234</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SATYARTH-YADAV-g25-fsd</td> 
+</tr>
