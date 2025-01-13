@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-ANAND-VALLAKATI-g7-st-t</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ISHWAR MAHAJAN</td> 
+
+<td style="border : 2px solid green;">ishwarmahajan1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ISHWAR-MAHAJAN-g7-st-t</td> 
+</tr>
