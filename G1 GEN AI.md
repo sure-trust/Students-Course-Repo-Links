@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARAPPAGARI-ALEKYA-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YASH RANJAN SINGH</td> 
+
+<td style="border : 2px solid green;">yashsinghh23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YASH-RANJAN-SINGH-g1-gen-ai</td> 
+</tr>
