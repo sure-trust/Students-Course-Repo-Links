@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PARSHWA-SHAHA-g11-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VANNELADAS KRANTHI KUMAR</td> 
+
+<td style="border : 2px solid green;">kranthikumar-11</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VANNELADAS-KRANTHI-KUMAR-g11-cs</td> 
+</tr>
