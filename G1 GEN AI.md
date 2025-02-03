@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUMEDH-MAHASEN-SURALKAR-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUMMATHI MANJUNATHA REDDY</td> 
+
+<td style="border : 2px solid green;">manjunathareddy23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUMMATHI-MANJUNATHA-REDDY-g1-gen-ai</td> 
+</tr>
