@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SARVESH-PINGALE-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARAPPAGARI ALEKYA</td> 
+
+<td style="border : 2px solid green;">alekyakuruba</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARAPPAGARI-ALEKYA-g1-gen-ai</td> 
+</tr>
