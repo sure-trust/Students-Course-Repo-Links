@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUMMATHI-MANJUNATHA-REDDY-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NANDAKUMAR</td> 
+
+<td style="border : 2px solid green;">nanda050502</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NANDAKUMAR-g1-gen-ai</td> 
+</tr>
