@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MD-SHAHID-ANSARI-g11-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANAS ANGADI</td> 
+
+<td style="border : 2px solid green;">manas1104</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANAS-ANGADI-g11-cs</td> 
+</tr>
