@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-SAISUSMITHA-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">N.SAI AKASH</td> 
+
+<td style="border : 2px solid green;">akashllm</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/N.SAI-AKASH-g1-gen-ai</td> 
+</tr>
