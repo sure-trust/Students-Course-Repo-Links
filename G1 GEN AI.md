@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAVYASHREE-V-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THANUSHREE V</td> 
+
+<td style="border : 2px solid green;">thanushreev-42</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THANUSHREE-V-g1-gen-ai</td> 
+</tr>
