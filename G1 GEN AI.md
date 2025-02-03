@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THANUSHREE-V-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMURU LIKHITHA</td> 
+
+<td style="border : 2px solid green;">amuru052004</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMURU-LIKHITHA-g1-gen-ai</td> 
+</tr>
