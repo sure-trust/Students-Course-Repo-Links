@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-SAMEER-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUMEDH MAHASEN SURALKAR</td> 
+
+<td style="border : 2px solid green;">sumedhx</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUMEDH-MAHASEN-SURALKAR-g1-gen-ai</td> 
+</tr>
