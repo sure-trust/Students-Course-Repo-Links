@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NEELI-SAI-SIVA-PRAKASH-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SARVESH PINGALE</td> 
+
+<td style="border : 2px solid green;">sarvesh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SARVESH-PINGALE-g1-gen-ai</td> 
+</tr>
