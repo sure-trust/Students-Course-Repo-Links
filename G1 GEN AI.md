@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-KUMAR-KUNWAR-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIK SAMEER</td> 
+
+<td style="border : 2px solid green;">sameerr-18</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-SAMEER-g1-gen-ai</td> 
+</tr>
