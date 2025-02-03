@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMURU-LIKHITHA-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURUBA SAISUSMITHA</td> 
+
+<td style="border : 2px solid green;">aisusmitha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-SAISUSMITHA-g1-gen-ai</td> 
+</tr>
