@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AITIPAMULA-KALYANI-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAVI SHANKAR KUMAR</td> 
+
+<td style="border : 2px solid green;">ravishankarkrdk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAVI-SHANKAR-KUMAR-g1-gen-ai</td> 
+</tr>
