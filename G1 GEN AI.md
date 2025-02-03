@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANDEPU-REDDY-HARSHITHA-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AITIPAMULA KALYANI</td> 
+
+<td style="border : 2px solid green;">kalyani018</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AITIPAMULA-KALYANI-g1-gen-ai</td> 
+</tr>
