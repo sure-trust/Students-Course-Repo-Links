@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/N.SAI-AKASH-g1-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDEPU REDDY HARSHITHA</td> 
+
+<td style="border : 2px solid green;">harshitha-bh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDEPU-REDDY-HARSHITHA-g1-gen-ai</td> 
+</tr>
