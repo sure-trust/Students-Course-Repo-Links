@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANAS-ANGADI-g11-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPAK MANDAVI</td> 
+
+<td style="border : 2px solid green;">08deepak2702</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-MANDAVI-g11-cs</td> 
+</tr>
