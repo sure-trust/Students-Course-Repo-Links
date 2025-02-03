@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHINAV-SHARMA-g11-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PEDDIREDDY LAKSHMI TEJASWINI</td> 
+
+<td style="border : 2px solid green;">tejaswinireddy01</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PEDDIREDDY-LAKSHMI-TEJASWINI-g11-cs</td> 
+</tr>
