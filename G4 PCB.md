@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAMANI-g4-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MD RASHID ALAM</td> 
+
+<td style="border : 2px solid green;">mdrashidalam65</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MD-RASHID-ALAM-g4-pcb</td> 
+</tr>
