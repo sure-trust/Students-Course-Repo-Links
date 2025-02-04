@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VANNELADAS-KRANTHI-KUMAR-g11-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHUBHAM MAHADEV SHINDE</td> 
+
+<td style="border : 2px solid green;">shubhshinde7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHUBHAM-MAHADEV-SHINDE-g11-cs</td> 
+</tr>
