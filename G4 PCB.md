@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HANMATHAGARI-AMULYA-g4-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CH AMRUTHA</td> 
+
+<td style="border : 2px solid green;">amruthachilukoti</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CH-AMRUTHA-g4-pcb</td> 
+</tr>
