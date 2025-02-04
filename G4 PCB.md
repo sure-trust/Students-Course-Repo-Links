@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUSUMKUMARI-g4-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HANMATHAGARI AMULYA</td> 
+
+<td style="border : 2px solid green;">amulyareddy-26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HANMATHAGARI-AMULYA-g4-pcb</td> 
+</tr>
