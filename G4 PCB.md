@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CH-AMRUTHA-g4-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUDHGANI POOJITHA</td> 
+
+<td style="border : 2px solid green;">poojitha-47</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUDHGANI-POOJITHA-g4-pcb</td> 
+</tr>
