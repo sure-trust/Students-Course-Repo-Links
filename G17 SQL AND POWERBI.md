@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHARTHIK-MISHRA-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOLLA GIDDAIAH</td> 
+
+<td style="border : 2px solid green;">giddaiah3316</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOLLA-GIDDAIAH-g17-sql-and-powerbi</td> 
+</tr>
