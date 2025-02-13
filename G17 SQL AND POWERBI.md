@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RITIKA-GUPTA-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MONESH PHULMALI</td> 
+
+<td style="border : 2px solid green;">moneshphulmali</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MONESH-PHULMALI-g17-sql-and-powerbi</td> 
+</tr>
