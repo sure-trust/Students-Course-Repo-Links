@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JANGALA-VYSHNAVI-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TELUKUNTA KARTHIK GUPTA</td> 
+
+<td style="border : 2px solid green;">karthikgupta-telukunta</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TELUKUNTA-KARTHIK-GUPTA-g1-25-integrated-vlsi</td> 
+</tr>
