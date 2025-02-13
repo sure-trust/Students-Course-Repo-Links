@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRATHAM-A-ZODAPE-g18-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIVEK SINGH</td> 
+
+<td style="border : 2px solid green;">chauhanviveksingh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIVEK-SINGH-g18-java</td> 
+</tr>
