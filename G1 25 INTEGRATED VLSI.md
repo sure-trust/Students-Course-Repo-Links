@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROSHINI-AMARLAPUDI-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHAMMED AZMATULLA SHAIK</td> 
+
+<td style="border : 2px solid green;">azmatulla</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMED-AZMATULLA-SHAIK-g1-25-integrated-vlsi</td> 
+</tr>
