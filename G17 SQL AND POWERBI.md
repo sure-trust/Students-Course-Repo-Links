@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOLLA-GIDDAIAH-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RITIKA GUPTA</td> 
+
+<td style="border : 2px solid green;">ritika-33</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RITIKA-GUPTA-g17-sql-and-powerbi</td> 
+</tr>
