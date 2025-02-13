@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VEDA T J</td> 
+
+<td style="border : 2px solid green;">veda-t-j</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VEDA-T-J-g17-sql-and-powerbi</td> 
+</tr>
