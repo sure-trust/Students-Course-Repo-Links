@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PURANASREE-M-S-g18-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PIDUGU SATHWIK KUMAR REDDY</td> 
+
+<td style="border : 2px solid green;">pidugusathwik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PIDUGU-SATHWIK-KUMAR-REDDY-g18-java</td> 
+</tr>
