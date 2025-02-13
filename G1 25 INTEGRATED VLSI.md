@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVI-PRASANNA-JANYAVULA-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JANGALA VYSHNAVI</td> 
+
+<td style="border : 2px solid green;">vyshnavijangala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JANGALA-VYSHNAVI-g1-25-integrated-vlsi</td> 
+</tr>
