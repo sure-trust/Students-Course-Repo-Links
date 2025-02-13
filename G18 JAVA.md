@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PIDUGU-SATHWIK-KUMAR-REDDY-g18-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANALA SOWMYA</td> 
+
+<td style="border : 2px solid green;">kanalasowmya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANALA-SOWMYA-g18-java</td> 
+</tr>
