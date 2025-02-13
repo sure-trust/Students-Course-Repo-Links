@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARJUN-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NARESH K R</td> 
+
+<td style="border : 2px solid green;">nareshkabadi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NARESH-K-R-g1-25-integrated-vlsi</td> 
+</tr>
