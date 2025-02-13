@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SRI-HARSHA-JAMPANI-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMIT KUMAR</td> 
+
+<td style="border : 2px solid green;">camit001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMIT-KUMAR-g17-sql-and-powerbi</td> 
+</tr>
