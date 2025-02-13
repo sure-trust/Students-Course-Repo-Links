@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-MAHI-MUNNISA-BEGUM-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THALARI BALAJI</td> 
+
+<td style="border : 2px solid green;">thalaribalaji</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THALARI-BALAJI-g1-25-integrated-vlsi</td> 
+</tr>
