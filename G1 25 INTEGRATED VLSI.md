@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVA-PRANATHI-GUNTUKA-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">M. SREENIJA REDDY</td> 
+
+<td style="border : 2px solid green;">sreenijareddy05</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/M.-SREENIJA-REDDY-g1-25-integrated-vlsi</td> 
+</tr>
