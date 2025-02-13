@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/REBBA-NANDINI-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NALLA ROHITH</td> 
+
+<td style="border : 2px solid green;">rohithnalla2003</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NALLA-ROHITH-g1-25-integrated-vlsi</td> 
+</tr>
