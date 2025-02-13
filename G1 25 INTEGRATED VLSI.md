@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TELUKUNTA-KARTHIK-GUPTA-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUKALA ABHIRAM</td> 
+
+<td style="border : 2px solid green;">abhiram-g1-25-integrated-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUKALA-ABHIRAM-g1-25-integrated-vlsi</td> 
+</tr>
