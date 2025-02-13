@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOT-SAI-KUMAR-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POOJITHA GANNI ONTIPALLI</td> 
+
+<td style="border : 2px solid green;">pooja221356</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POOJITHA-GANNI-ONTIPALLI-g1-25-integrated-vlsi</td> 
+</tr>
