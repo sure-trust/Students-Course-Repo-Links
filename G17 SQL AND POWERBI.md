@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARTIK-JAIN-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PIYUSH SINGH</td> 
+
+<td style="border : 2px solid green;">piyushsingh68</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PIYUSH-SINGH-g17-sql-and-powerbi</td> 
+</tr>
