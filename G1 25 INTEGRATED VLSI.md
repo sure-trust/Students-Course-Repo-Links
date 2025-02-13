@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRAJWAL-J-P-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAFFUL SINGH RAWAT</td> 
+
+<td style="border : 2px solid green;">prafful-rawat</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAFFUL-SINGH-RAWAT-g1-25-integrated-vlsi</td> 
+</tr>
