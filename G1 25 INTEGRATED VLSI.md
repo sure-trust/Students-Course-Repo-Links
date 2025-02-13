@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHARATH-KUMAR-V-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KONDETI CHIRUNADH</td> 
+
+<td style="border : 2px solid green;">g1-25-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KONDETI-CHIRUNADH-g1-25-integrated-vlsi</td> 
+</tr>
