@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RANADHEER-BANDAM-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROSHINI AMARLAPUDI</td> 
+
+<td style="border : 2px solid green;">roshini-7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROSHINI-AMARLAPUDI-g1-25-integrated-vlsi</td> 
+</tr>
