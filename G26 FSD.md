@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUSHABH-ANUPKUMAR-SHIRADKAR-g26-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANAN SINGH RATHOUR</td> 
+
+<td style="border : 2px solid green;">amanrathour2807</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANAN-SINGH-RATHOUR-g26-fsd</td> 
+</tr>
