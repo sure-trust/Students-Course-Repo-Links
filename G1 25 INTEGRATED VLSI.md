@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANDRU-MANASWINI-KISHORE-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PEDDI SAI KRUPAL</td> 
+
+<td style="border : 2px solid green;">saikrupalpeddi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PEDDI-SAI-KRUPAL-g1-25-integrated-vlsi</td> 
+</tr>
