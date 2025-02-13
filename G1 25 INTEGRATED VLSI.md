@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANKESARAPU-SRIJA-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHEGURI GOPI CHANDU</td> 
+
+<td style="border : 2px solid green;">gopicheguri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHEGURI-GOPI-CHANDU-g1-25-integrated-vlsi</td> 
+</tr>
