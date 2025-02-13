@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BOJJA-SRIKUMAR-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RACHAKONDA SATISH</td> 
+
+<td style="border : 2px solid green;">satish-rachakonda-05</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RACHAKONDA-SATISH-g1-25-integrated-vlsi</td> 
+</tr>
