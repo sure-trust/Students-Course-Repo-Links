@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NALLA-ROHITH-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K SANJU</td> 
+
+<td style="border : 2px solid green;">kethavath-sanju</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K-SANJU-g1-25-integrated-vlsi</td> 
+</tr>
