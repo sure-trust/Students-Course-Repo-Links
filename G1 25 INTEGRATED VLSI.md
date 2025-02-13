@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMAD-TALHA-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BALAGONI RISHMITHA</td> 
+
+<td style="border : 2px solid green;">rishmithabalagoni</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BALAGONI-RISHMITHA-g1-25-integrated-vlsi</td> 
+</tr>
