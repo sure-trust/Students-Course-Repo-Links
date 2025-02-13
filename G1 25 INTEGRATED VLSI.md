@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARESH-K-R-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHARATH KUMAR V</td> 
+
+<td style="border : 2px solid green;">bharathkumar0246</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHARATH-KUMAR-V-g1-25-integrated-vlsi</td> 
+</tr>
