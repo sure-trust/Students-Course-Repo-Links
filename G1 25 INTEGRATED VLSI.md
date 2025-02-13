@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POOJITHA-GANNI-ONTIPALLI-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAJWAL J P</td> 
+
+<td style="border : 2px solid green;">prajwal1406</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAJWAL-J-P-g1-25-integrated-vlsi</td> 
+</tr>
