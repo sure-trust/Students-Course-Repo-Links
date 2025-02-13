@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BALAGONI-RISHMITHA-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARJUN</td> 
+
+<td style="border : 2px solid green;">royalmaddy007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARJUN-g1-25-integrated-vlsi</td> 
+</tr>
