@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SYED-ANAS-SYED-MUBIN-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHAMMAD TALHA</td> 
+
+<td style="border : 2px solid green;">talha2sure</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMAD-TALHA-g1-25-integrated-vlsi</td> 
+</tr>
