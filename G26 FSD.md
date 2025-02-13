@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAKSHI-SHASHIKANT-DODAL-g26-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SNEHA BHARAT WAIKOS</td> 
+
+<td style="border : 2px solid green;">snehawaikos</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SNEHA-BHARAT-WAIKOS-g26-fsd</td> 
+</tr>
