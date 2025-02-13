@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMED-AZMATULLA-SHAIK-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">REBBA NANDINI</td> 
+
+<td style="border : 2px solid green;">nandini-7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/REBBA-NANDINI-g1-25-integrated-vlsi</td> 
+</tr>
