@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SNEHA-BHARAT-WAIKOS-g26-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLAPU SANDHYA</td> 
+
+<td style="border : 2px solid green;">sandhya-pallapu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLAPU-SANDHYA-g26-fsd</td> 
+</tr>
