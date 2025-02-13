@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THALARI-BALAJI-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOKUL G R</td> 
+
+<td style="border : 2px solid green;">gokul-g-r</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOKUL-G-R-g1-25-integrated-vlsi</td> 
+</tr>
