@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAMCHARAN-BADAGALA-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NARALA RISHITHA</td> 
+
+<td style="border : 2px solid green;">rishitha-narala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NARALA-RISHITHA-g17-sql-and-powerbi</td> 
+</tr>
