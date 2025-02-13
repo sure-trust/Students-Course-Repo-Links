@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-PANDEY-g18-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VADDI HRUTHIK VARDHAN</td> 
+
+<td style="border : 2px solid green;">hruthikvardhan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VADDI-HRUTHIK-VARDHAN-g18-java</td> 
+</tr>
