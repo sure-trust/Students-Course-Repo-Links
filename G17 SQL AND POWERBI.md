@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOURABH-KUMAR-SINGH-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHARTHIK MISHRA</td> 
+
+<td style="border : 2px solid green;">sharthik4342</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHARTHIK-MISHRA-g17-sql-and-powerbi</td> 
+</tr>
