@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHENNUBOYINA-SRINIVASA-RAO-g18-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANJALI PANDEY</td> 
+
+<td style="border : 2px solid green;">anjalipandey5029</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-PANDEY-g18-java</td> 
+</tr>
