@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PALLA-PRASANTH-KUMAR-g26-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUSHABH ANUPKUMAR SHIRADKAR</td> 
+
+<td style="border : 2px solid green;">rushuz</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUSHABH-ANUPKUMAR-SHIRADKAR-g26-fsd</td> 
+</tr>
