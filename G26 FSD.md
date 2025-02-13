@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIPUL-ATTRI-g26-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">C.CHARITHANJALI</td> 
+
+<td style="border : 2px solid green;">charitha-19</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/C.CHARITHANJALI-g26-fsd</td> 
+</tr>
