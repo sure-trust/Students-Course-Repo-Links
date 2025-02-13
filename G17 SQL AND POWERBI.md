@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PIYUSH-SINGH-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SRI HARSHA JAMPANI</td> 
+
+<td style="border : 2px solid green;">harsha1498</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SRI-HARSHA-JAMPANI-g17-sql-and-powerbi</td> 
+</tr>
