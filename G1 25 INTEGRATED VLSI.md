@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOKUL-G-R-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SYED ALI A</td> 
+
+<td style="border : 2px solid green;">syed15-12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SYED-ALI-A-g1-25-integrated-vlsi</td> 
+</tr>
