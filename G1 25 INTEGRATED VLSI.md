@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRAFFUL-SINGH-RAWAT-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANDRU MANASWINI KISHORE</td> 
+
+<td style="border : 2px solid green;">manaswinikishore04</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANDRU-MANASWINI-KISHORE-g1-25-integrated-vlsi</td> 
+</tr>
