@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VENKATESH-K-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVI PRASANNA JANYAVULA</td> 
+
+<td style="border : 2px solid green;">devi1603</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVI-PRASANNA-JANYAVULA-g1-25-integrated-vlsi</td> 
+</tr>
