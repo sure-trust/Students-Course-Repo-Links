@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARALA-RISHITHA-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VAISHALI GANGIL</td> 
+
+<td style="border : 2px solid green;">dataanalystvaisali06</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VAISHALI-GANGIL-g17-sql-and-powerbi</td> 
+</tr>
