@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RIDHI-SINGH-g26-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BIPUL KUMAR SINGH</td> 
+
+<td style="border : 2px solid green;"></td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BIPUL-KUMAR-SINGH-g26-fsd</td> 
+</tr>
