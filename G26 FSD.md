@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BODDU-SRI-VISHNU-g26-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MINAKSHI DEVI</td> 
+
+<td style="border : 2px solid green;">minakshi24902</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MINAKSHI-DEVI-g26-fsd</td> 
+</tr>
