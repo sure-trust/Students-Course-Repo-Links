@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VAISHALI-GANGIL-g17-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAKALI KAVYA</td> 
+
+<td style="border : 2px solid green;">kavyachakali13</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAKALI-KAVYA-g17-sql-and-powerbi</td> 
+</tr>
