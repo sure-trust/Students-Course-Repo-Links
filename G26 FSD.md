@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/APURVA-DANE-g26-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RIDHI SINGH</td> 
+
+<td style="border : 2px solid green;">ridhisingh06</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RIDHI-SINGH-g26-fsd</td> 
+</tr>
