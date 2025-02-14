@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ASHWINI-BALASAHEB-KANGANE-g8-st-t</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIV PRATAP</td> 
+
+<td style="border : 2px solid green;">shivpratapsingh123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIV-PRATAP-g8-st-t</td> 
+</tr>
