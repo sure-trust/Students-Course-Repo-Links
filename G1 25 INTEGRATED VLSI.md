@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAURABH-PANDEY-g1-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DHANUSH S</td> 
+
+<td style="border : 2px solid green;">dhanushckt</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DHANUSH-S-g1-25-integrated-vlsi</td> 
+</tr>
