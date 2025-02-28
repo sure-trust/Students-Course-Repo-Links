@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/B.SAHITHI-VISHNU-g2-sap</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SODHA DIVYARAJSINH</td> 
+
+<td style="border : 2px solid green;">sdbapu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SODHA-DIVYARAJSINH-g2-sap</td> 
+</tr>
