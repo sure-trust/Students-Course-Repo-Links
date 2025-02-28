@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAHALAKSHMI-PARAMESHWARAPPA-g5-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARRI NAVYA</td> 
+
+<td style="border : 2px solid green;">karri-navya07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARRI-NAVYA-g5-cc</td> 
+</tr>
