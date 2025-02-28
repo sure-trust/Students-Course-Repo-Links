@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAJESH-R-g11-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARNATALAM DEEKSHITHA REDDY</td> 
+
+<td style="border : 2px solid green;">deekshitha-reddy661</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARNATALAM-DEEKSHITHA-REDDY-g11-autocad</td> 
+</tr>
