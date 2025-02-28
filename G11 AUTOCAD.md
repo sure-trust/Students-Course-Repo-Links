@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARNATALAM-DEEKSHITHA-REDDY-g11-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MADURI SATHISH</td> 
+
+<td style="border : 2px solid green;">sathish-maduri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MADURI-SATHISH-g11-autocad</td> 
+</tr>
