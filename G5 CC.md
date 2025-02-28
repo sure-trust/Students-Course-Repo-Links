@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KONDA-SAHITHI-g5-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANOJ RAJKUMAR KARANDE</td> 
+
+<td style="border : 2px solid green;">mnj12527</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-RAJKUMAR-KARANDE-g5-cc</td> 
+</tr>
