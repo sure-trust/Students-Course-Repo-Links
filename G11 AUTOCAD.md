@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/S-WAHID-BASHA-g11-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUNTREDDI KETHANA PRIYA</td> 
+
+<td style="border : 2px solid green;">kethanapriya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUNTREDDI-KETHANA-PRIYA-g11-autocad</td> 
+</tr>
