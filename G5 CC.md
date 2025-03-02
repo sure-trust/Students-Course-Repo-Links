@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRATHAMESH-CHANDRAKANT-SHEMBADE-g5-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANOJ BHAUSAHEB SHINDE</td> 
+
+<td style="border : 2px solid green;">smanoj1215</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-BHAUSAHEB-SHINDE-g5-cc</td> 
+</tr>
