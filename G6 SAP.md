@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YASHASHREE-ANIL-DESHPANDE-g6-sap</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHRUTI SHUKLA</td> 
+
+<td style="border : 2px solid green;"></td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHRUTI-SHUKLA-g6-sap</td> 
+</tr>
