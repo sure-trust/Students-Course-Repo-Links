@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-BEPARI-ALI-IDRUS-g33-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPTHI RALLABANDI</td> 
+
+<td style="border : 2px solid green;">deepthirallabandi.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPTHI-RALLABANDI-g33-python</td> 
+</tr>
