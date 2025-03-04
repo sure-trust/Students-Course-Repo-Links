@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMITA-AWALE-g5-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJAL MARUTI JOGDAND</td> 
+
+<td style="border : 2px solid green;">tejaljogdand</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJAL-MARUTI-JOGDAND-g5-cc</td> 
+</tr>
