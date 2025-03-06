@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUNIKRISHNA-NARAMOYANI-g14-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AVINASH SHAHAJI SHENDKAR</td> 
+
+<td style="border : 2px solid green;">avinashshendkar17</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AVINASH-SHAHAJI-SHENDKAR-g14-es-and-iot</td> 
+</tr>
