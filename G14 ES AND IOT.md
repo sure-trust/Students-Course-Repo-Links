@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AGRAHARAPU-VIJAYANAND-g14-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLEBOINA SNEHA LATHA REDDY</td> 
+
+<td style="border : 2px solid green;">snehalatha-hub</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLEBOINA-SNEHA-LATHA-REDDY-g14-es-and-iot</td> 
+</tr>
