@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMAN-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NALLA VENKATA SAI DURGA PHANINDRA</td> 
+
+<td style="border : 2px solid green;">phanindranalla579</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NALLA-VENKATA-SAI-DURGA-PHANINDRA-g12-cs</td> 
+</tr>
