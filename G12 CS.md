@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-GUNTUKA-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KONDA VENU</td> 
+
+<td style="border : 2px solid green;">venubobby1406</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KONDA-VENU-g12-cs</td> 
+</tr>
