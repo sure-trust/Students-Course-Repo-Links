@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AVINASH-SHAHAJI-SHENDKAR-g14-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SATYA PRAKASH TRIPATHY</td> 
+
+<td style="border : 2px solid green;">satya-95248</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SATYA-PRAKASH-TRIPATHY-g14-es-and-iot</td> 
+</tr>
