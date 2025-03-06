@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANNIE-JAISON-J-S-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUMMARI OBULA RAKESH</td> 
+
+<td style="border : 2px solid green;">rocky-341</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUMMARI-OBULA-RAKESH-g12-cs</td> 
+</tr>
