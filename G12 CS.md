@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BAJRANG-JADHAV-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LAKSHYA SONI</td> 
+
+<td style="border : 2px solid green;">lakshya-004</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LAKSHYA-SONI-g12-cs</td> 
+</tr>
