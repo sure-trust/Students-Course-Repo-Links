@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHYLAJA-GUNTI-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BONDILI RITHIKA SINGH</td> 
+
+<td style="border : 2px solid green;">bondilirithika</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BONDILI-RITHIKA-SINGH-g12-cs</td> 
+</tr>
