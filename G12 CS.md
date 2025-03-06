@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BALA-KOTESWARA-REDDY-REDDYMALLI-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHANAGONDA AURA</td> 
+
+<td style="border : 2px solid green;">aura007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHANAGONDA-AURA-g12-cs</td> 
+</tr>
