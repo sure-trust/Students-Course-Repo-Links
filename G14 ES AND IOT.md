@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANGULA-SAMSHRITHA-REDDY-g14-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THARAKESH</td> 
+
+<td style="border : 2px solid green;">tharakesh-peravali</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THARAKESH-g14-es-and-iot</td> 
+</tr>
