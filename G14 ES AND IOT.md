@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AHANA-DWIVEDI-g14-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RITESH UPADHYAY</td> 
+
+<td style="border : 2px solid green;">ritesh-55</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RITESH-UPADHYAY-g14-es-and-iot</td> 
+</tr>
