@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HEMANTH-PETLU-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAJJWAL CHANDOLA</td> 
+
+<td style="border : 2px solid green;">prajjwalchandola16</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAJJWAL-CHANDOLA-g12-cs</td> 
+</tr>
