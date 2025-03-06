@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAYANA-BODEKAR-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANARJI B</td> 
+
+<td style="border : 2px solid green;">banarji03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANARJI-B-g12-cs</td> 
+</tr>
