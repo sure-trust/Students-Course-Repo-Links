@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHANAGONDA-AURA-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CIAN JOSE</td> 
+
+<td style="border : 2px solid green;">cianjose</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CIAN-JOSE-g12-cs</td> 
+</tr>
