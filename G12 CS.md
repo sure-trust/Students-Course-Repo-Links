@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GIRISH-SINGH-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARTHIK GUNTUKA</td> 
+
+<td style="border : 2px solid green;">karthik91210</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-GUNTUKA-g12-cs</td> 
+</tr>
