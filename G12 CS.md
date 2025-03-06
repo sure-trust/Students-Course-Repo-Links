@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KONDA-VENU-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUPPIDI ANJALI</td> 
+
+<td style="border : 2px solid green;">anjalimuppidi-79</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUPPIDI-ANJALI-g12-cs</td> 
+</tr>
