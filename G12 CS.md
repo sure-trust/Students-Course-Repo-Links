@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DABBIRU-VISHAL-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SYED RAYAN</td> 
+
+<td style="border : 2px solid green;">syedrayan5</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SYED-RAYAN-g12-cs</td> 
+</tr>
