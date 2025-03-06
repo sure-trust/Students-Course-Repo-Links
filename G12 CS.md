@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TOIBA-JAN-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PARTH PRAMOD BHOSALE</td> 
+
+<td style="border : 2px solid green;">parth2907</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PARTH-PRAMOD-BHOSALE-g12-cs</td> 
+</tr>
