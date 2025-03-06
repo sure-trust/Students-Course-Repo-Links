@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHRISHTI-BEKAL-MUDIAKAL-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BAJRANG JADHAV</td> 
+
+<td style="border : 2px solid green;">g12-cs.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BAJRANG-JADHAV-g12-cs</td> 
+</tr>
