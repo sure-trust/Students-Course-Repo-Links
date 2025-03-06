@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARUN-S-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHOAIB AMIN SAYYED</td> 
+
+<td style="border : 2px solid green;">style4416</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHOAIB-AMIN-SAYYED-g12-cs</td> 
+</tr>
