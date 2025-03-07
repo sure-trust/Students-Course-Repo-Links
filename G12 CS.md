@@ -478,3 +478,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/P.T.V.G.S.SURYA-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YOGESH KASHINATHRAO WAGH</td> 
+
+<td style="border : 2px solid green;">yogeshwagh011</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YOGESH-KASHINATHRAO-WAGH-g12-cs</td> 
+</tr>
