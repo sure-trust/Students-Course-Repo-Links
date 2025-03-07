@@ -486,3 +486,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YOGESH-KASHINATHRAO-WAGH-g12-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHANUCHANDAR REDDY BATHULA</td> 
+
+<td style="border : 2px solid green;">bhanuchandar-ai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHANUCHANDAR-REDDY-BATHULA-g12-cs</td> 
+</tr>
