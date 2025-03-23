@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADEPU-BHAVANI-g34-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AVINASH KUMAR PATHAK</td> 
+
+<td style="border : 2px solid green;">iavinashpathak</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AVINASH-KUMAR-PATHAK-g34-python</td> 
+</tr>
