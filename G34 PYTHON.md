@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANUPAM-SANJAY-PATIL-g34-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRIYANSHU SURYAWANSHI</td> 
+
+<td style="border : 2px solid green;">sure-trust-assignments</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANSHU-SURYAWANSHI-g34-python</td> 
+</tr>
