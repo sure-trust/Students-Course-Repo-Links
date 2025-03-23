@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AVINASH-KUMAR-PATHAK-g34-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANTIPOODI DEVI VARA PRASAD</td> 
+
+<td style="border : 2px solid green;">sure_trust_assignments</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANTIPOODI-DEVI-VARA-PRASAD-g34-python</td> 
+</tr>
