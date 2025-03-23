@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANTIPOODI-DEVI-VARA-PRASAD-g34-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAYUR SANJAY LAD</td> 
+
+<td style="border : 2px solid green;">mayurlad</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAYUR-SANJAY-LAD-g34-python</td> 
+</tr>
