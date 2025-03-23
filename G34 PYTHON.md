@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHAVEN-CHAUDHARI-g34-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VALLAPUDASU YASHWANTH GOUD</td> 
+
+<td style="border : 2px solid green;">sure-trust-internship-2025.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VALLAPUDASU-YASHWANTH-GOUD-g34-python</td> 
+</tr>
