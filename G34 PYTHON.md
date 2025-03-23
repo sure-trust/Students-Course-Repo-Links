@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAYUR-SANJAY-LAD-g34-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINEETHA JAKKILINKI</td> 
+
+<td style="border : 2px solid green;">suretrust1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINEETHA-JAKKILINKI-g34-python</td> 
+</tr>
