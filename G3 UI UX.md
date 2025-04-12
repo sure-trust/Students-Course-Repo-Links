@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VALLEM-SRI-SWATHI-g3-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LAKKOJI DEVI</td> 
+
+<td style="border : 2px solid green;">devi1848?tab=repositories</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LAKKOJI-DEVI-g3-ui-ux</td> 
+</tr>
