@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AROMAL-P-g2-ia</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KIRAN VIJAY RATHOD</td> 
+
+<td style="border : 2px solid green;">kiranrathod06</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KIRAN-VIJAY-RATHOD-g2-ia</td> 
+</tr>
