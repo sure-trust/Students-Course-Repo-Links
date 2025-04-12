@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOPPARAPU-NEHA-SREE-g27-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KRUSHNA MILIND PATIL</td> 
+
+<td style="border : 2px solid green;">krushnapatil2025</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KRUSHNA-MILIND-PATIL-g27-fsd</td> 
+</tr>
