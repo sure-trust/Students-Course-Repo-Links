@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIDDAM-MANOJ-REDDY-g27-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAYYAD FAYAZ BASHA</td> 
+
+<td style="border : 2px solid green;">suretrust_fsd-g27-full-stack-development-</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAYYAD-FAYAZ-BASHA-g27-fsd</td> 
+</tr>
