@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JAINENDRA-SINGH-g2-ia</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AROMAL P</td> 
+
+<td style="border : 2px solid green;">aromalp2001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AROMAL-P-g2-ia</td> 
+</tr>
