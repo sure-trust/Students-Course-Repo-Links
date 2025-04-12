@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAGANTI-SAI-SARVANI-g27-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">INDU TALARI</td> 
+
+<td style="border : 2px solid green;">indutalari</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/INDU-TALARI-g27-fsd</td> 
+</tr>
