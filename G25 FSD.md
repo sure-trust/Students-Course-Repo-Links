@@ -286,11 +286,3 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NEETA-KUMARI-g25-fsd</td> 
 </tr>
-
-<tr style="border : 2px solid green;">
-<td style="border : 2px solid green;">GADDAM SUJALA</td> 
-
-<td style="border : 2px solid green;">sujji-123</td> 
-
-<td style="border : 2px solid green;">https://github.com/sure-trust/GADDAM-SUJALA-g25-fsd</td> 
-</tr>
