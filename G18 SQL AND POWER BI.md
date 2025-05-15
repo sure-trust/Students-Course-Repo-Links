@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAI-SATHWIK-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">REVANTH KS</td> 
+
+<td style="border : 2px solid green;">revanth2003ks</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/REVANTH-KS-g18-sql-and-power-bi</td> 
+</tr>
