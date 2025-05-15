@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MALLEBOINA-PAVANI-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMISHA KUMARI</td> 
+
+<td style="border : 2px solid green;">amishakumari7091</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMISHA-KUMARI-g7-ds</td> 
+</tr>
