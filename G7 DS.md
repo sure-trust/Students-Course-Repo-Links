@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANESH-V-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOLI THARUN</td> 
+
+<td style="border : 2px solid green;">tharungoli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOLI-THARUN-g7-ds</td> 
+</tr>
