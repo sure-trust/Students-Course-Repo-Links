@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANKA-N-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SEJAL ASHOK BONDRE</td> 
+
+<td style="border : 2px solid green;">sejalbondre</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SEJAL-ASHOK-BONDRE-g18-sql-and-power-bi</td> 
+</tr>
