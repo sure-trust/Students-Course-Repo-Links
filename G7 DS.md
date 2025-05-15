@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YUKTI-MADAN-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">Y NANDA GOPAL REDDY</td> 
+
+<td style="border : 2px solid green;">nandareddy07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/Y-NANDA-GOPAL-REDDY-g7-ds</td> 
+</tr>
