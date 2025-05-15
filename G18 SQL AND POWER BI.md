@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/V.JAGAN-MOHAN-REDDY-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BAREVADIYA SNEHA KALPESHBHAI</td> 
+
+<td style="border : 2px solid green;">snehabarevadiya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BAREVADIYA-SNEHA-KALPESHBHAI-g18-sql-and-power-bi</td> 
+</tr>
