@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/REKHA-KORUBOTHU-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TIRUMALA NARAYAN PANCHAL</td> 
+
+<td style="border : 2px solid green;">tiru-panchal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TIRUMALA-NARAYAN-PANCHAL-g18-sql-and-power-bi</td> 
+</tr>
