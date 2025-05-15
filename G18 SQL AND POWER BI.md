@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BALAPPAGARI-LATHA-SREE-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K.KRUSHNAVENI</td> 
+
+<td style="border : 2px solid green;">kurvakrushnaveni</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K.KRUSHNAVENI-g18-sql-and-power-bi</td> 
+</tr>
