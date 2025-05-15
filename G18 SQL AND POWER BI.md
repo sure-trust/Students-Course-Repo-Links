@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/REVANTH-KS-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ABHINAV JAMPALA</td> 
+
+<td style="border : 2px solid green;">abhinavjampala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ABHINAV-JAMPALA-g18-sql-and-power-bi</td> 
+</tr>
