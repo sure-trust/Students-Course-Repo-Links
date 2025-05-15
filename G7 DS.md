@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAI-KUMAR-GARLAPATI-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANDEEP KUMAR REDDY CHALAPALA</td> 
+
+<td style="border : 2px solid green;"></td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANDEEP-KUMAR-REDDY-CHALAPALA-g7-ds</td> 
+</tr>
