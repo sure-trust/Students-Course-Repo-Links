@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LAHARI-KONDI-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANAND SINGH</td> 
+
+<td style="border : 2px solid green;">anand-1105</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANAND-SINGH-g18-sql-and-power-bi</td> 
+</tr>
