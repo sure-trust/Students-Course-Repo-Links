@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-SASANK-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUSKE AKSHITHRAM</td> 
+
+<td style="border : 2px solid green;">akshithram</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUSKE-AKSHITHRAM-g18-sql-and-power-bi</td> 
+</tr>
