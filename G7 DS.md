@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DANDU-AMRUTHA-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PIYUSH MISHRA</td> 
+
+<td style="border : 2px solid green;">piyush3774</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PIYUSH-MISHRA-g7-ds</td> 
+</tr>
