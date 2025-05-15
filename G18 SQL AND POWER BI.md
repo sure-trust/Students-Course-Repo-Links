@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUTHVIK-REDDY-ANUPATI-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAJ SINGHANIYA</td> 
+
+<td style="border : 2px solid green;">raj-singhaniya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAJ-SINGHANIYA-g18-sql-and-power-bi</td> 
+</tr>
