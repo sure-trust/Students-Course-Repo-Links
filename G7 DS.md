@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOUBHAGYA-DUNDAPPA-WALI-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AFIFA PEERZADE</td> 
+
+<td style="border : 2px solid green;">afifa-peerzade18</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AFIFA-PEERZADE-g7-ds</td> 
+</tr>
