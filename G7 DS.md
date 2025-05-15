@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PARVATHAM-KALYAN-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VAMSI PALYAM</td> 
+
+<td style="border : 2px solid green;">vamsipalyam</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VAMSI-PALYAM-g7-ds</td> 
+</tr>
