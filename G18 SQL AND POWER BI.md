@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOTTURU-SUPRAJA-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUTHVIK REDDY ANUPATI</td> 
+
+<td style="border : 2px solid green;">ruthvikanupati</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUTHVIK-REDDY-ANUPATI-g18-sql-and-power-bi</td> 
+</tr>
