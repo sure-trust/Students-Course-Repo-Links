@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUSKE-AKSHITHRAM-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUSHAGRA KHAJURIA</td> 
+
+<td style="border : 2px solid green;">aoaashi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUSHAGRA-KHAJURIA-g18-sql-and-power-bi</td> 
+</tr>
