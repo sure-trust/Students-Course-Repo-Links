@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHIRAVATH-SANDEEP-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAI SATHWIK</td> 
+
+<td style="border : 2px solid green;">denny-sathwik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAI-SATHWIK-g18-sql-and-power-bi</td> 
+</tr>
