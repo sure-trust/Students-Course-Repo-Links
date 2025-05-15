@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-A-S-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JANGA KISHORE</td> 
+
+<td style="border : 2px solid green;">kishore6-a</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JANGA-KISHORE-g18-sql-and-power-bi</td> 
+</tr>
