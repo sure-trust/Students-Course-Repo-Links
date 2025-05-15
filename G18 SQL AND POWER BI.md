@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANAND-SINGH-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NALLAGATLA VIGNESH</td> 
+
+<td style="border : 2px solid green;">nallagatlavignesh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NALLAGATLA-VIGNESH-g18-sql-and-power-bi</td> 
+</tr>
