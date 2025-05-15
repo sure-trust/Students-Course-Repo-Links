@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANNEPALLY-AJAY-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOUBHAGYA DUNDAPPA WALI</td> 
+
+<td style="border : 2px solid green;">soubhagyawali</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOUBHAGYA-DUNDAPPA-WALI-g7-ds</td> 
+</tr>
