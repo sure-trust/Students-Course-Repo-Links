@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUSHAGRA-KHAJURIA-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">REKHA KORUBOTHU</td> 
+
+<td style="border : 2px solid green;">rekhakorubothu9300</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/REKHA-KORUBOTHU-g18-sql-and-power-bi</td> 
+</tr>
