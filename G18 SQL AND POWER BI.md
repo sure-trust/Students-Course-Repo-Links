@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEEPALI-MOHAPATRA-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOPIKA N G</td> 
+
+<td style="border : 2px solid green;">gopika-n-g</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOPIKA-N-G-g18-sql-and-power-bi</td> 
+</tr>
