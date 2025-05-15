@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROOPIKA-KADAVERLA-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KIMMI KUMARI</td> 
+
+<td style="border : 2px solid green;">kimmikumari07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KIMMI-KUMARI-g18-sql-and-power-bi</td> 
+</tr>
