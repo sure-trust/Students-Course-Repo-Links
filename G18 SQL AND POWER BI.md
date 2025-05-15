@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRACHI-SAINI-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRIYANKA N</td> 
+
+<td style="border : 2px solid green;">priyankanettikallu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANKA-N-g18-sql-and-power-bi</td> 
+</tr>
