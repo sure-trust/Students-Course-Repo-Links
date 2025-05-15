@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VAMSI-PALYAM-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BENDI SURESH</td> 
+
+<td style="border : 2px solid green;">suresh004300</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BENDI-SURESH-g7-ds</td> 
+</tr>
