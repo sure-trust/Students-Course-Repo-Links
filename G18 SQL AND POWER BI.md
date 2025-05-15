@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YECHINA-LOKESH-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VARUN KOTIEA</td> 
+
+<td style="border : 2px solid green;">varunkotiea</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VARUN-KOTIEA-g18-sql-and-power-bi</td> 
+</tr>
