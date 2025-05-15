@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHARMENDRA-PAL-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">V.JAGAN MOHAN REDDY</td> 
+
+<td style="border : 2px solid green;">jagan3228</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/V.JAGAN-MOHAN-REDDY-g18-sql-and-power-bi</td> 
+</tr>
