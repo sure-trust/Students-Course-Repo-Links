@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JANGA-KISHORE-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRACHI SAINI</td> 
+
+<td style="border : 2px solid green;">prachi-s1803</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRACHI-SAINI-g18-sql-and-power-bi</td> 
+</tr>
