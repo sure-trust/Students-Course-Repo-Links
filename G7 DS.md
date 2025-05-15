@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VAISHNAVI-SANJAY-BAWANE-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GURUPRIYA KANNAN</td> 
+
+<td style="border : 2px solid green;">gurupriya0309</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GURUPRIYA-KANNAN-g7-ds</td> 
+</tr>
