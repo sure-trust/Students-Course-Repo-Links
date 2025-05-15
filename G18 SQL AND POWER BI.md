@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SATYAM-PANDEY-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARUMURI AKHILA</td> 
+
+<td style="border : 2px solid green;">akhilakarumuri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARUMURI-AKHILA-g18-sql-and-power-bi</td> 
+</tr>
