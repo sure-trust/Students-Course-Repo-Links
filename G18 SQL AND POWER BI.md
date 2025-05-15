@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VADLAKONDA-CHARAN-KUMAR-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROOPIKA KADAVERLA</td> 
+
+<td style="border : 2px solid green;">roopika-kadaverla</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROOPIKA-KADAVERLA-g18-sql-and-power-bi</td> 
+</tr>
