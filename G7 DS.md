@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRUDVI-TEJA-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAGAM SWATHI</td> 
+
+<td style="border : 2px solid green;">swathi-425</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAGAM-SWATHI-g7-ds</td> 
+</tr>
