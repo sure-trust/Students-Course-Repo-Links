@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADARI-BALA-KRISHNA-KARTHIK-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LAHARI KONDI</td> 
+
+<td style="border : 2px solid green;"></td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LAHARI-KONDI-g18-sql-and-power-bi</td> 
+</tr>
