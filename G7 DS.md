@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOLI-THARUN-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DANDU AMRUTHA</td> 
+
+<td style="border : 2px solid green;">amrdy9</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DANDU-AMRUTHA-g7-ds</td> 
+</tr>
