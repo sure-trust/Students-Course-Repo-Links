@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VISHAL-RAJAK-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAHESH KUMAR</td> 
+
+<td style="border : 2px solid green;">maheshbabu1245</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAHESH-KUMAR-g18-sql-and-power-bi</td> 
+</tr>
