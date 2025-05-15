@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SEJAL-ASHOK-BONDRE-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DHARMENDRA PAL</td> 
+
+<td style="border : 2px solid green;">dharmendra-12345-coder</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DHARMENDRA-PAL-g18-sql-and-power-bi</td> 
+</tr>
