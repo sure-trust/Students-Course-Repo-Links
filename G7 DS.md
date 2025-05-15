@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AFIFA-PEERZADE-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANTRI NAGESWARI</td> 
+
+<td style="border : 2px solid green;">eswari-26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANTRI-NAGESWARI-g7-ds</td> 
+</tr>
