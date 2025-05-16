@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANAKA-NITHYA-SREE-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JADAV GAJANAND</td> 
+
+<td style="border : 2px solid green;">jadav-gajanand-19</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JADAV-GAJANAND-g18-sql-and-power-bi</td> 
+</tr>
