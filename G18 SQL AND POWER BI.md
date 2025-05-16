@@ -446,3 +446,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANJANA-PILANE-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KALYANI SANJAY SHINDE</td> 
+
+<td style="border : 2px solid green;">9850299330</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KALYANI-SANJAY-SHINDE-g18-sql-and-power-bi</td> 
+</tr>
