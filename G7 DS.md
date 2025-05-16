@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NANDYALA-YASHWANTH-g7-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VARSHITHA N S</td> 
+
+<td style="border : 2px solid green;">varshitha-n-s</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VARSHITHA-N-S-g7-ds</td> 
+</tr>
