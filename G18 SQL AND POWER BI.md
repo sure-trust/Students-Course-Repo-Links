@@ -494,3 +494,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARJUN-THORLIKONDA-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHAGYASHREE GOURKAR</td> 
+
+<td style="border : 2px solid green;">bhagyashree</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHAGYASHREE-GOURKAR-g18-sql-and-power-bi</td> 
+</tr>
