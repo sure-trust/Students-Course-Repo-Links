@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SYAM-KUMAR-APPIKATLA-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOMAL PARATE</td> 
+
+<td style="border : 2px solid green;">kpomal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOMAL-PARATE-g18-sql-and-power-bi</td> 
+</tr>
