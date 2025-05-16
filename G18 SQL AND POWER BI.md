@@ -462,3 +462,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOMAL-JHA-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TIRTH JAYESHKUMAR PATEL</td> 
+
+<td style="border : 2px solid green;">tirthjayeshpatel</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TIRTH-JAYESHKUMAR-PATEL-g18-sql-and-power-bi</td> 
+</tr>
