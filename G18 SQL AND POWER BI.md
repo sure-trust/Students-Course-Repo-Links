@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOMAL-PARATE-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THRISHA REDDY JAJALA</td> 
+
+<td style="border : 2px solid green;">thrisha1217</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THRISHA-REDDY-JAJALA-g18-sql-and-power-bi</td> 
+</tr>
