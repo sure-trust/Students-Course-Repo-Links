@@ -438,3 +438,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHALLAM-HARATHI-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANJANA PILANE</td> 
+
+<td style="border : 2px solid green;">sanju102110</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANJANA-PILANE-g18-sql-and-power-bi</td> 
+</tr>
