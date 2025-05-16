@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MODEM-RISHINDRA-GOUD-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AJAY KUMAR</td> 
+
+<td style="border : 2px solid green;">power-bi-sql.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AJAY-KUMAR-g18-sql-and-power-bi</td> 
+</tr>
