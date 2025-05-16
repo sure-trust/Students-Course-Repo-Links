@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JADAV-GAJANAND-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHALLAM HARATHI</td> 
+
+<td style="border : 2px solid green;">harathichallam</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHALLAM-HARATHI-g18-sql-and-power-bi</td> 
+</tr>
