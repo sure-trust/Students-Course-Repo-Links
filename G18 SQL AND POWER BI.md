@@ -502,3 +502,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHAGYASHREE-GOURKAR-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAVELLA VIKHIL</td> 
+
+<td style="border : 2px solid green;">vikhilravella</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAVELLA-VIKHIL-g18-sql-and-power-bi</td> 
+</tr>
