@@ -454,3 +454,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KALYANI-SANJAY-SHINDE-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOMAL JHA</td> 
+
+<td style="border : 2px solid green;">easytocode88</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOMAL-JHA-g18-sql-and-power-bi</td> 
+</tr>
