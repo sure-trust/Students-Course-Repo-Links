@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHAWNA-BHOYAR-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MODEM RISHINDRA GOUD</td> 
+
+<td style="border : 2px solid green;">999-rishi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MODEM-RISHINDRA-GOUD-g18-sql-and-power-bi</td> 
+</tr>
