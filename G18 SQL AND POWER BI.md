@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TIRTH-JAYESHKUMAR-PATEL-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJA SRI PALURI</td> 
+
+<td style="border : 2px solid green;">tejasri-paluri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJA-SRI-PALURI-g18-sql-and-power-bi</td> 
+</tr>
