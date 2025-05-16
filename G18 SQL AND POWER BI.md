@@ -478,3 +478,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TEJA-SRI-PALURI-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHINI NARAHARISETTI</td> 
+
+<td style="border : 2px solid green;">harshininaraharisetti</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHINI-NARAHARISETTI-g18-sql-and-power-bi</td> 
+</tr>
