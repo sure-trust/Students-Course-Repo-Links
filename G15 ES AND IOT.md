@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOTA-GIRIDHAR-g15-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JINDE AISHWARYA</td> 
+
+<td style="border : 2px solid green;">jinde12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JINDE-AISHWARYA-g15-es-and-iot</td> 
+</tr>
