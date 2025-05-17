@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MARADANA AMANI</td> 
+
+<td style="border : 2px solid green;">amani-maradana</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MARADANA-AMANI-g15-es-and-iot</td> 
+</tr>
