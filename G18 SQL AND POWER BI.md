@@ -510,3 +510,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAVELLA-VIKHIL-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOMAL MAHADEV NARAWADE</td> 
+
+<td style="border : 2px solid green;">komalgithub677</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOMAL-MAHADEV-NARAWADE-g18-sql-and-power-bi</td> 
+</tr>
