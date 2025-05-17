@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NUKASANIVIGNATHA-g15-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOTAKONDA PRANAVI SAI</td> 
+
+<td style="border : 2px solid green;">pranavisai1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOTAKONDA-PRANAVI-SAI-g15-es-and-iot</td> 
+</tr>
