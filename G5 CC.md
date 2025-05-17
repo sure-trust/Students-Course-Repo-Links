@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TEJAL-MARUTI-JOGDAND-g5-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DURGAMNAGARAJU SATHWIKA</td> 
+
+<td style="border : 2px solid green;">sathwikadn</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DURGAMNAGARAJU-SATHWIKA-g5-cc</td> 
+</tr>
