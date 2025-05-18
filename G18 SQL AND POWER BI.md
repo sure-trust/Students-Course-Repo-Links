@@ -526,3 +526,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DURGAMNAGARAJU-SATHWIKA-g18-sql-and-power-bi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHASHIKANT KUMAR</td> 
+
+<td style="border : 2px solid green;">shashikant2912</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHASHIKANT-KUMAR-g18-sql-and-power-bi</td> 
+</tr>
