@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHITTA-AKSHARA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THIPPI REDDY SASIKALA</td> 
+
+<td style="border : 2px solid green;">sasikala108</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THIPPI-REDDY-SASIKALA-g2-25-integrated-vlsi-design</td> 
+</tr>
