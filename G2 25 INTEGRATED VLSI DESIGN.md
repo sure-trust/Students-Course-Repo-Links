@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THUMMALA-OBUL-SAI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANIGANDAN D</td> 
+
+<td style="border : 2px solid green;">d-manigandan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANIGANDAN-D-g2-25-integrated-vlsi-design</td> 
+</tr>
