@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOUNIKA-EVURI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ASHISH RAM REDDIROUTU</td> 
+
+<td style="border : 2px solid green;">ashishram-r</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ASHISH-RAM-REDDIROUTU-g2-25-integrated-vlsi-design</td> 
+</tr>
