@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ALLE-POOJA-SUPRIYA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANKEERTHANA GOKULAKONDA</td> 
+
+<td style="border : 2px solid green;">sankeerthanagokulakonda</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANKEERTHANA-GOKULAKONDA-g2-25-integrated-vlsi-design</td> 
+</tr>
