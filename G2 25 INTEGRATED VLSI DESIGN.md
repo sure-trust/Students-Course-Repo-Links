@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TALLAM-SRAVYA-NAGA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THARUN BUTTA</td> 
+
+<td style="border : 2px solid green;">tharun733</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THARUN-BUTTA-g2-25-integrated-vlsi-design</td> 
+</tr>
