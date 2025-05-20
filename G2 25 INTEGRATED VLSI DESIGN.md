@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TALLA-NARAYANA-SWAMI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KONDA CHAITANYA KUMAR</td> 
+
+<td style="border : 2px solid green;">chaitanyakonda1233</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KONDA-CHAITANYA-KUMAR-g2-25-integrated-vlsi-design</td> 
+</tr>
