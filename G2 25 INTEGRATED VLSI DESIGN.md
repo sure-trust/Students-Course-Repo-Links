@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PASUPULETI-RAVI-TEJA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SARATH KUMAR SUDA</td> 
+
+<td style="border : 2px solid green;">sudasarath66</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SARATH-KUMAR-SUDA-g2-25-integrated-vlsi-design</td> 
+</tr>
