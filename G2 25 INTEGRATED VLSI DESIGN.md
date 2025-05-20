@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANTI-GURU-VISWESWARA-SAI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHARISHMA TUPAKULA</td> 
+
+<td style="border : 2px solid green;">charishma123-git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHARISHMA-TUPAKULA-g2-25-integrated-vlsi-design</td> 
+</tr>
