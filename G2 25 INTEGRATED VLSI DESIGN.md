@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-CHOWKI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MADDELA SRUJANA</td> 
+
+<td style="border : 2px solid green;">sr-2274</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MADDELA-SRUJANA-g2-25-integrated-vlsi-design</td> 
+</tr>
