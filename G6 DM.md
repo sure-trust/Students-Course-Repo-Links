@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUMAN-DAS-g6-dm</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAI SHARMA</td> 
+
+<td style="border : 2px solid green;">jai-sh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAI-SHARMA-g6-dm</td> 
+</tr>
