@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADDAGARLA-UMAMAHESH-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHARAGUNDLA SAI LAXMAN</td> 
+
+<td style="border : 2px solid green;">ch-sai-laxman</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHARAGUNDLA-SAI-LAXMAN-g2-25-integrated-vlsi-design</td> 
+</tr>
