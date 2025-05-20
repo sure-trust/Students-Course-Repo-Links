@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THIPPI-REDDY-SASIKALA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LITHIN SUBHAKAR MAHANTY</td> 
+
+<td style="border : 2px solid green;">lithin200520</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LITHIN-SUBHAKAR-MAHANTY-g2-25-integrated-vlsi-design</td> 
+</tr>
