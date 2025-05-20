@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAGHAVAREDDY-GARI-KULAKARNI-REDDY-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GANTI GURU VISWESWARA SAI</td> 
+
+<td style="border : 2px solid green;">saiganti234</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GANTI-GURU-VISWESWARA-SAI-g2-25-integrated-vlsi-design</td> 
+</tr>
