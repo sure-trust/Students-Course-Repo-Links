@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUJATHA-KONATHAM-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YEKULA BHARATH KUMAR REDDY</td> 
+
+<td style="border : 2px solid green;">bharathkumarreddy3</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YEKULA-BHARATH-KUMAR-REDDY-g2-25-integrated-vlsi-design</td> 
+</tr>
