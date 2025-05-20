@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MIDUTHURU RAJIYA BEE</td> 
+
+<td style="border : 2px solid green;">miduthururajiyabee</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MIDUTHURU-RAJIYA-BEE-g2-25-integrated-vlsi-design</td> 
+</tr>
