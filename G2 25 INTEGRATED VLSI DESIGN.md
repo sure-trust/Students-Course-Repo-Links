@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARI-PRIYA-MARTHALA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANAPARTHI DHANUSHA</td> 
+
+<td style="border : 2px solid green;">dhanusha96-aug</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANAPARTHI-DHANUSHA-g2-25-integrated-vlsi-design</td> 
+</tr>
