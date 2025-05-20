@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAHUL-VELDI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARTHIK CHOWKI</td> 
+
+<td style="border : 2px solid green;">karthikchowki</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-CHOWKI-g2-25-integrated-vlsi-design</td> 
+</tr>
