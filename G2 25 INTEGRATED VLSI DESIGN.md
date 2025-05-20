@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/USHA-BUTI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HEMANTH KUMAR</td> 
+
+<td style="border : 2px solid green;">hemanth28403g</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HEMANTH-KUMAR-g2-25-integrated-vlsi-design</td> 
+</tr>
