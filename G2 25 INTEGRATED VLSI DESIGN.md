@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEDIPALLY-SAIVIVEK-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TALLAM SRAVYA NAGA</td> 
+
+<td style="border : 2px solid green;">sravyanagat</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TALLAM-SRAVYA-NAGA-g2-25-integrated-vlsi-design</td> 
+</tr>
