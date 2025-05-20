@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUTHA-VINEELA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TALLA NARAYANA SWAMI</td> 
+
+<td style="border : 2px solid green;">t-swami</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TALLA-NARAYANA-SWAMI-g2-25-integrated-vlsi-design</td> 
+</tr>
