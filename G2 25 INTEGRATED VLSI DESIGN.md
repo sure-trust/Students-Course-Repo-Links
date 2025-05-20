@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ALURI-TEJASRI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THUMMALA OBUL SAI</td> 
+
+<td style="border : 2px solid green;">obulsai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THUMMALA-OBUL-SAI-g2-25-integrated-vlsi-design</td> 
+</tr>
