@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KONDA-CHAITANYA-KUMAR-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ALURI TEJASRI</td> 
+
+<td style="border : 2px solid green;">tejasrialuri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ALURI-TEJASRI-g2-25-integrated-vlsi-design</td> 
+</tr>
