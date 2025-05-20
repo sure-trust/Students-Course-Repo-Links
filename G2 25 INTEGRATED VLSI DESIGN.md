@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOLKAR-MAHAMMADH-MUSTHAFA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAGA MANIKANTA DONDAPATI</td> 
+
+<td style="border : 2px solid green;">naga-manikanta</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAGA-MANIKANTA-DONDAPATI-g2-25-integrated-vlsi-design</td> 
+</tr>
