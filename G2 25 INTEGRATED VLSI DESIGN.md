@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAGA-MANIKANTA-DONDAPATI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POSA LAKSHMI MEGHANA</td> 
+
+<td style="border : 2px solid green;">meghanaposa</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POSA-LAKSHMI-MEGHANA-g2-25-integrated-vlsi-design</td> 
+</tr>
