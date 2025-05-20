@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KORRAPOLU-ESWAR-ADITHYA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIRIDI SRAVANTHI</td> 
+
+<td style="border : 2px solid green;">sravanthishiridi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIRIDI-SRAVANTHI-g2-25-integrated-vlsi-design</td> 
+</tr>
