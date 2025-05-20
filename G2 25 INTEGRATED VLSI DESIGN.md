@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SENTHILKUMAR-K-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SATHVIK KUMAR PAMU</td> 
+
+<td style="border : 2px solid green;">sathvikkumarpamu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SATHVIK-KUMAR-PAMU-g2-25-integrated-vlsi-design</td> 
+</tr>
