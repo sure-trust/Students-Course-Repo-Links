@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SARATH-KUMAR-SUDA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARI PRIYA MARTHALA</td> 
+
+<td style="border : 2px solid green;">marthalaharipriya123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARI-PRIYA-MARTHALA-g2-25-integrated-vlsi-design</td> 
+</tr>
