@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MADDELA-SRUJANA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAHNAVI POTHALA</td> 
+
+<td style="border : 2px solid green;">jahnavi-pothala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAHNAVI-POTHALA-g2-25-integrated-vlsi-design</td> 
+</tr>
