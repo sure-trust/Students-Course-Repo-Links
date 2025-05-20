@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANIGANDAN-D-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SENTHILKUMAR K</td> 
+
+<td style="border : 2px solid green;">senthilkumar034442</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SENTHILKUMAR-K-g2-25-integrated-vlsi-design</td> 
+</tr>
