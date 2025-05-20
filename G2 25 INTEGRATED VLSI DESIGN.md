@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PANKAJ-JAGDISH-RAJPUT-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAGHAVAREDDY GARI KULAKARNI REDDY</td> 
+
+<td style="border : 2px solid green;">kulakarnireddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAGHAVAREDDY-GARI-KULAKARNI-REDDY-g2-25-integrated-vlsi-design</td> 
+</tr>
