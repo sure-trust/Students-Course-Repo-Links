@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POSA-LAKSHMI-MEGHANA-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KORRAPOLU ESWAR ADITHYA</td> 
+
+<td style="border : 2px solid green;">eswaradithya011</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KORRAPOLU-ESWAR-ADITHYA-g2-25-integrated-vlsi-design</td> 
+</tr>
