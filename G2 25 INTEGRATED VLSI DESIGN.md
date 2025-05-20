@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SATHVIK-KUMAR-PAMU-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BONTHU NIKHIL</td> 
+
+<td style="border : 2px solid green;">nikhilbonthu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BONTHU-NIKHIL-g2-25-integrated-vlsi-design</td> 
+</tr>
