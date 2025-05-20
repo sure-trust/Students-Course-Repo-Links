@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANUGUPENTA-BHUVANESWAR-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHITTA AKSHARA</td> 
+
+<td style="border : 2px solid green;">chittaakshara</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHITTA-AKSHARA-g2-25-integrated-vlsi-design</td> 
+</tr>
