@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ENJETI-RAVI-SHANKAR-g6-dm</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUMAN DAS</td> 
+
+<td style="border : 2px solid green;">suman-933</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUMAN-DAS-g6-dm</td> 
+</tr>
