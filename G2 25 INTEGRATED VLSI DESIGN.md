@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAN-KRISHNA-SIKHAKOLLI-g2-25-integrated-vlsi-design</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PUKKALLA PRUDHVI RAJU</td> 
+
+<td style="border : 2px solid green;">prudhvi4907</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PUKKALLA-PRUDHVI-RAJU-g2-25-integrated-vlsi-design</td> 
+</tr>
