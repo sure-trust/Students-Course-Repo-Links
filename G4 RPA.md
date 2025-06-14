@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAHALI-BHAVYA-g4-rpa</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJASWI .GARNEPUDI</td> 
+
+<td style="border : 2px solid green;">tejaswigarnepudi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJASWI-.GARNEPUDI-g4-rpa</td> 
+</tr>
