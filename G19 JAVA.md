@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOHIL-ABHIRAJSINH-GHANSHYAMSINH-g19-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVESH THAWALI</td> 
+
+<td style="border : 2px solid green;">deveshthawali</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVESH-THAWALI-g19-java</td> 
+</tr>
