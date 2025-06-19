@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAMESH-NAVALAGUND-g28-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANEESHA KATURI</td> 
+
+<td style="border : 2px solid green;">maneesha-7386</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANEESHA-KATURI-g28-fsd</td> 
+</tr>
