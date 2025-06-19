@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UPPALA-RAMADEVI-g28-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSH TRIPATHI</td> 
+
+<td style="border : 2px solid green;">harshtripathi0210</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-TRIPATHI-g28-fsd</td> 
+</tr>
