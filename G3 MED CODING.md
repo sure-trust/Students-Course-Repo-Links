@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/M.MANASA-g3-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SK.MUSHRA FIRDOZ</td> 
+
+<td style="border : 2px solid green;">mushrafirdozshaik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SK.MUSHRA-FIRDOZ-g3-med-coding</td> 
+</tr>
