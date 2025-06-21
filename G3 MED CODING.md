@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROYYAPALLY-AKHIL-g3-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVARSHI HATWAR</td> 
+
+<td style="border : 2px solid green;">devarshihatwar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVARSHI-HATWAR-g3-med-coding</td> 
+</tr>
