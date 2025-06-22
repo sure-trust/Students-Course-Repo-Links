@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAHIL-SANTOSHKUMAR-SAHU-g3-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADYASHA MISHRA</td> 
+
+<td style="border : 2px solid green;">adyashaa-mishra</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADYASHA-MISHRA-g3-med-coding</td> 
+</tr>
