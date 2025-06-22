@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADYASHA-MISHRA-g3-med-coding</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUSHMA PALADI</td> 
+
+<td style="border : 2px solid green;">sushmapaladi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUSHMA-PALADI-g3-med-coding</td> 
+</tr>
