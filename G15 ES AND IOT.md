@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARRI-POOJITHA-g15-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SETTIPALLI MOKSHA YAGNA</td> 
+
+<td style="border : 2px solid green;">mokshayagna</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SETTIPALLI-MOKSHA-YAGNA-g15-es-and-iot</td> 
+</tr>
