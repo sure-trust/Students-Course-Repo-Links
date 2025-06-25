@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEENAMPALLI-THRINATH-RAO-g15-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOTA GIRIDHAR</td> 
+
+<td style="border : 2px solid green;">giri-7666</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOTA-GIRIDHAR-g15-es-and-iot</td> 
+</tr>
