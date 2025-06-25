@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YADAV-VINIT-UDAI-PRATAP-g15-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AARYA YOGESH CHAVAN</td> 
+
+<td style="border : 2px solid green;">aaryac05</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AARYA-YOGESH-CHAVAN-g15-es-and-iot</td> 
+</tr>
