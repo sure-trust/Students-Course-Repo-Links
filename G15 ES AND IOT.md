@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ATURI-SAI-VARAN-g15-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">OMKAR NARAYAN DARADE</td> 
+
+<td style="border : 2px solid green;">omkardarde</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/OMKAR-NARAYAN-DARADE-g15-es-and-iot</td> 
+</tr>
