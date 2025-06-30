@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/H-TARUN-g8-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHIKA DIPAK SAHU</td> 
+
+<td style="border : 2px solid green;">rishika-s11</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHIKA-DIPAK-SAHU-g8-ds</td> 
+</tr>
