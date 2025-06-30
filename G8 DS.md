@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TANVI-POHANKAR-g8-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">H TARUN</td> 
+
+<td style="border : 2px solid green;">tarun8055</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/H-TARUN-g8-ds</td> 
+</tr>
