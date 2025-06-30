@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/INGETI-SIVA-PRASAD-g12-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAKARAND DEORE</td> 
+
+<td style="border : 2px solid green;">makaranddeore</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAKARAND-DEORE-g12-autocad</td> 
+</tr>
