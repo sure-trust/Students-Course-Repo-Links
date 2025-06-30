@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAKARAND-DEORE-g12-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANOJ KUMAR S</td> 
+
+<td style="border : 2px solid green;">manojkumar2203</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-KUMAR-S-g12-autocad</td> 
+</tr>
