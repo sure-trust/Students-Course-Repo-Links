@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PASAGADUGULA-KUSA-RAJ-KUMAR-g12-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANKULOLLU NIRANJAN</td> 
+
+<td style="border : 2px solid green;">bankuniranjan09</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANKULOLLU-NIRANJAN-g12-autocad</td> 
+</tr>
