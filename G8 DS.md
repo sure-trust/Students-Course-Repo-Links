@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RISHIKA-DIPAK-SAHU-g8-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSH VATS</td> 
+
+<td style="border : 2px solid green;">sure-trust-ds.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-VATS-g8-ds</td> 
+</tr>
