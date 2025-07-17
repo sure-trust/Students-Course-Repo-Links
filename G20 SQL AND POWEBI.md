@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VADLA-MEGHANA-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GAGAN DHANAPUNE</td> 
+
+<td style="border : 2px solid green;">gagan8605</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GAGAN-DHANAPUNE-g20-sql-and-powebi</td> 
+</tr>
