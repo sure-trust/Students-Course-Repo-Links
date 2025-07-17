@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-VARDHAN-AMBARE-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SRASHTI KATIYAR</td> 
+
+<td style="border : 2px solid green;">srashti001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SRASHTI-KATIYAR-g20-sql-and-powebi</td> 
+</tr>
