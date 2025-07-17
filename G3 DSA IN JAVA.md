@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAKUNURI-VISWATEJA-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RIDUVARSHINI AM</td> 
+
+<td style="border : 2px solid green;">ridu-7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RIDUVARSHINI-AM-g3-dsa-in-java</td> 
+</tr>
