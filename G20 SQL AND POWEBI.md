@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRATIKSHA-KISHORRAO-PARISE-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SINDHU KALVAKOLLU</td> 
+
+<td style="border : 2px solid green;">sindhu-09113</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SINDHU-KALVAKOLLU-g20-sql-and-powebi</td> 
+</tr>
