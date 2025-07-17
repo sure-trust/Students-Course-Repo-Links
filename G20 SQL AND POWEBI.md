@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TANISHQ-KUMAR-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARBAJ ANSARI</td> 
+
+<td style="border : 2px solid green;">arbaazak07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARBAJ-ANSARI-g20-sql-and-powebi</td> 
+</tr>
