@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAIF-QURESHI-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PURVESH SAVALAKHE</td> 
+
+<td style="border : 2px solid green;">purvesh8762</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PURVESH-SAVALAKHE-g20-sql-and-powebi</td> 
+</tr>
