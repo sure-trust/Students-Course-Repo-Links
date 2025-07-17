@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHALLA-NARENDAR-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANKA SPANDANA PRIYA</td> 
+
+<td style="border : 2px solid green;">spandanapriya1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANKA-SPANDANA-PRIYA-g20-sql-and-powebi</td> 
+</tr>
