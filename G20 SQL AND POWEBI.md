@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SWAYAM-SHARMA-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SRISHTI KATHURIA</td> 
+
+<td style="border : 2px solid green;">srishti284</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SRISHTI-KATHURIA-g20-sql-and-powebi</td> 
+</tr>
