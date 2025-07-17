@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHEDURUPALLY-DEEKSHITH-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAJVEER MARANDI</td> 
+
+<td style="border : 2px solid green;">marandi0099</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAJVEER-MARANDI-g20-sql-and-powebi</td> 
+</tr>
