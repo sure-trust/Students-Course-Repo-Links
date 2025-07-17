@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-KHAISER-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VEDANT SHIVAJI KASAR</td> 
+
+<td style="border : 2px solid green;">vedantkasar369</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VEDANT-SHIVAJI-KASAR-g20-sql-and-powebi</td> 
+</tr>
