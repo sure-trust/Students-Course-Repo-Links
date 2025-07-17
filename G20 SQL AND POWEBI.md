@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAGAN-DHANAPUNE-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RANJANA DNYANESHWAR PATIL</td> 
+
+<td style="border : 2px solid green;">student.sql</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RANJANA-DNYANESHWAR-PATIL-g20-sql-and-powebi</td> 
+</tr>
