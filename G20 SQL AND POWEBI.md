@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ENDURI-ROHITH-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TANISHQ KUMAR</td> 
+
+<td style="border : 2px solid green;">tanishqkumar700</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TANISHQ-KUMAR-g20-sql-and-powebi</td> 
+</tr>
