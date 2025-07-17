@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NIKHIL-DHOKARE-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SWAYAM SHARMA</td> 
+
+<td style="border : 2px solid green;">swayam1604</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SWAYAM-SHARMA-g20-sql-and-powebi</td> 
+</tr>
