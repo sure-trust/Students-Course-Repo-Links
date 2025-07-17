@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AVISHKAR-MAITRA-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KATAKAM SRIKAR</td> 
+
+<td style="border : 2px solid green;">srikar6152</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KATAKAM-SRIKAR-g3-dsa-in-java</td> 
+</tr>
