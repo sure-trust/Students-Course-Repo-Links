@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SRISHTI-KATHURIA-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKHIL KALKOTWAR</td> 
+
+<td style="border : 2px solid green;">akhil1234-k</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKHIL-KALKOTWAR-g20-sql-and-powebi</td> 
+</tr>
