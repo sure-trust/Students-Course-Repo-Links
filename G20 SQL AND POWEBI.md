@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RANJANA-DNYANESHWAR-PATIL-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HEMANTH KUMAR KURAKULA</td> 
+
+<td style="border : 2px solid green;">hemanthkumarkurakula10</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HEMANTH-KUMAR-KURAKULA-g20-sql-and-powebi</td> 
+</tr>
