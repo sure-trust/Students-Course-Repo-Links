@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANKA-SPANDANA-PRIYA-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YASH KAUSHIK</td> 
+
+<td style="border : 2px solid green;">yashrishabh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YASH-KAUSHIK-g20-sql-and-powebi</td> 
+</tr>
