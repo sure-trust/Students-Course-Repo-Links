@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VADLA MEGHANA</td> 
+
+<td style="border : 2px solid green;">vadlameghana</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VADLA-MEGHANA-g20-sql-and-powebi</td> 
+</tr>
