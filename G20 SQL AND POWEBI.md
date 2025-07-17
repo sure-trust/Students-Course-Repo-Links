@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YASASWINI-CHEBOLU-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AJAY KUMAR</td> 
+
+<td style="border : 2px solid green;">ajaykumar81536</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AJAY-KUMAR-g20-sql-and-powebi</td> 
+</tr>
