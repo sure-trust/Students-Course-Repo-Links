@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUKANTA-KUMAR-PRADHAN-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AVISHKAR MAITRA</td> 
+
+<td style="border : 2px solid green;">avishkarmaitra04</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AVISHKAR-MAITRA-g3-dsa-in-java</td> 
+</tr>
