@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KASA SINDHU</td> 
+
+<td style="border : 2px solid green;">kasasindhu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KASA-SINDHU-g3-dsa-in-java</td> 
+</tr>
