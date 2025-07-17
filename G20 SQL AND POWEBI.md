@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-RAJ-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRATIKSHA KISHORRAO PARISE</td> 
+
+<td style="border : 2px solid green;">pratiksha251001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRATIKSHA-KISHORRAO-PARISE-g20-sql-and-powebi</td> 
+</tr>
