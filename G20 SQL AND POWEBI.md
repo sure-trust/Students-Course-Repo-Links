@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THEVATHARSINI-T-S-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAIF QURESHI</td> 
+
+<td style="border : 2px solid green;">qsaif44?tab=overview&from=2025-07-01&to=2025-07-15</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAIF-QURESHI-g20-sql-and-powebi</td> 
+</tr>
