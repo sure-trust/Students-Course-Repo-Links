@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PURVESH-SAVALAKHE-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PANKAJ MACHIYA DEORI</td> 
+
+<td style="border : 2px solid green;">pankaj-m-deori</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PANKAJ-MACHIYA-DEORI-g20-sql-and-powebi</td> 
+</tr>
