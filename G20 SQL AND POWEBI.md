@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KEERTHANA-BAIRI-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRACHI AGGARWAL</td> 
+
+<td style="border : 2px solid green;">prachiagg22</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRACHI-AGGARWAL-g20-sql-and-powebi</td> 
+</tr>
