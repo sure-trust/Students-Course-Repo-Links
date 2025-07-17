@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-KUMAR-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHEDURUPALLY DEEKSHITH</td> 
+
+<td style="border : 2px solid green;">chdeekshith14</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHEDURUPALLY-DEEKSHITH-g20-sql-and-powebi</td> 
+</tr>
