@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUPPULAKUNTA-KEERTHI-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOLLAPALLI SAI PRAKASH</td> 
+
+<td style="border : 2px solid green;">saiprakashgollapalli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOLLAPALLI-SAI-PRAKASH-g20-sql-and-powebi</td> 
+</tr>
