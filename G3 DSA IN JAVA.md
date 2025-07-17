@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KASA-SINDHU-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAKKULA SRIKANTH</td> 
+
+<td style="border : 2px solid green;">srikanthjakkula-dev</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAKKULA-SRIKANTH-g3-dsa-in-java</td> 
+</tr>
