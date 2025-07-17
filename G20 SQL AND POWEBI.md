@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POOJA-KUMARI-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ENDURI ROHITH</td> 
+
+<td style="border : 2px solid green;">rohithchinna</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ENDURI-ROHITH-g20-sql-and-powebi</td> 
+</tr>
