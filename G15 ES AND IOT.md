@@ -606,3 +606,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANDILA-NAVYA-g15-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDINI ALLA</td> 
+
+<td style="border : 2px solid green;">chandini225</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDINI-ALLA-g15-es-and-iot</td> 
+</tr>
