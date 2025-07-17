@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POOJA-RATHORE-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRIYANKA NEGI</td> 
+
+<td style="border : 2px solid green;">priyankanegi24</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANKA-NEGI-g3-dsa-in-java</td> 
+</tr>
