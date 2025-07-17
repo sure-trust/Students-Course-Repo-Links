@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THATAVARTHI-.-VENKATA-NAGA-GANESH-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVAM KUMAR</td> 
+
+<td style="border : 2px solid green;">shiv-the-star-lord</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-KUMAR-g20-sql-and-powebi</td> 
+</tr>
