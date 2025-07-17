@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAISPOORTHY-PESARU-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NALLA MANMADHA RAO</td> 
+
+<td style="border : 2px solid green;">manmadha-rao-nalla</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NALLA-MANMADHA-RAO-g20-sql-and-powebi</td> 
+</tr>
