@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MALLEPALLI-SWETHA-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUKANTA KUMAR PRADHAN</td> 
+
+<td style="border : 2px solid green;">sukanta-kumar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUKANTA-KUMAR-PRADHAN-g3-dsa-in-java</td> 
+</tr>
