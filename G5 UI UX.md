@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/P.KARTHIKA-g5-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAGIDI AKHILESH</td> 
+
+<td style="border : 2px solid green;">pagidi-akhilesh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAGIDI-AKHILESH-g5-ui-ux</td> 
+</tr>
