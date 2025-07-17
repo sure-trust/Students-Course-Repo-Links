@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOLLAPALLI-SAI-PRAKASH-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROHAN SINGH</td> 
+
+<td style="border : 2px solid green;">rohan72004</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROHAN-SINGH-g20-sql-and-powebi</td> 
+</tr>
