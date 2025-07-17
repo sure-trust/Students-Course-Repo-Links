@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HEMANTH-KUMAR-KURAKULA-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIK KHAISER</td> 
+
+<td style="border : 2px solid green;">shaik-khaiser</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-KHAISER-g20-sql-and-powebi</td> 
+</tr>
