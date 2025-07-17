@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TUNGENA-BHAVITH-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAISPOORTHY PESARU</td> 
+
+<td style="border : 2px solid green;">saispoorthy-pesaru</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAISPOORTHY-PESARU-g20-sql-and-powebi</td> 
+</tr>
