@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VEDANT-SHIVAJI-KASAR-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLA SIVA</td> 
+
+<td style="border : 2px solid green;">sivapalla2003</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLA-SIVA-g20-sql-and-powebi</td> 
+</tr>
