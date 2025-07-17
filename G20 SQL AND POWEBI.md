@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVOM-BHATTACHARJEE-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THEVATHARSINI T S</td> 
+
+<td style="border : 2px solid green;">thevatharsini153</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THEVATHARSINI-T-S-g20-sql-and-powebi</td> 
+</tr>
