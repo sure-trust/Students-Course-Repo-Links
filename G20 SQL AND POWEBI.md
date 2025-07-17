@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SINDHU-KALVAKOLLU-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAJAPATI NEEL HITESHKUMAR</td> 
+
+<td style="border : 2px solid green;">prajapati-neel-2005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAJAPATI-NEEL-HITESHKUMAR-g20-sql-and-powebi</td> 
+</tr>
