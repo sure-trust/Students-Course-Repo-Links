@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JAKKULA-SRIKANTH-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GAJULA KAVYA</td> 
+
+<td style="border : 2px solid green;">gajulakavya12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GAJULA-KAVYA-g3-dsa-in-java</td> 
+</tr>
