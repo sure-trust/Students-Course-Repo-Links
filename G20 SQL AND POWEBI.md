@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIRANI-AGARWAL-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVAM RAJ</td> 
+
+<td style="border : 2px solid green;">shivam1570</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-RAJ-g20-sql-and-powebi</td> 
+</tr>
