@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARBAJ-ANSARI-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAKSHITHA BEERANHALLI</td> 
+
+<td style="border : 2px solid green;">rakshitha-beeranhalli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAKSHITHA-BEERANHALLI-g20-sql-and-powebi</td> 
+</tr>
