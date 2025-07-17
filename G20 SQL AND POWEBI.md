@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUBRAHMANYAM-PANCHAKARLA-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BACHALAKURI SPOORTHY</td> 
+
+<td style="border : 2px solid green;">spoorthy1714</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BACHALAKURI-SPOORTHY-g20-sql-and-powebi</td> 
+</tr>
