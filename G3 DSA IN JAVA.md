@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAJULA-KAVYA-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MALLEPALLI SWETHA</td> 
+
+<td style="border : 2px solid green;">mallepalliswetha19</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MALLEPALLI-SWETHA-g3-dsa-in-java</td> 
+</tr>
