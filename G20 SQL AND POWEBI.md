@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANKARA-HEM-KUMAR-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIRANI AGARWAL</td> 
+
+<td style="border : 2px solid green;">datastreamharmony</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIRANI-AGARWAL-g20-sql-and-powebi</td> 
+</tr>
