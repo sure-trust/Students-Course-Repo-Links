@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DIMILI-YASWANTH-g3-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NEERAJ PASWAN</td> 
+
+<td style="border : 2px solid green;">er-neerajpaswan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NEERAJ-PASWAN-g3-dsa-in-java</td> 
+</tr>
