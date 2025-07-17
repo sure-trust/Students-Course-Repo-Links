@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GADE-SANJANA-g5-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">P.KARTHIKA</td> 
+
+<td style="border : 2px solid green;">karthikapallerla22</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/P.KARTHIKA-g5-ui-ux</td> 
+</tr>
