@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YASH-KAUSHIK-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POOJA KUMARI</td> 
+
+<td style="border : 2px solid green;">p00za</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POOJA-KUMARI-g20-sql-and-powebi</td> 
+</tr>
