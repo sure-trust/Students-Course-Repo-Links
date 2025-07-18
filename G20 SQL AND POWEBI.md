@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMED-NADEEM-SHAIKH-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUKADAM MAHEK NAVED</td> 
+
+<td style="border : 2px solid green;">m-mahek-03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUKADAM-MAHEK-NAVED-g20-sql-and-powebi</td> 
+</tr>
