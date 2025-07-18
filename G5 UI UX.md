@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAINA-SHUKLA-g5-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANUSHKA DUTTA</td> 
+
+<td style="border : 2px solid green;">anushkadutta5493</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANUSHKA-DUTTA-g5-ui-ux</td> 
+</tr>
