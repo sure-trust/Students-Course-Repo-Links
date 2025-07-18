@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TRUPTI-ZAWARE-g5-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PADIGALA PRASANTH KUMAR</td> 
+
+<td style="border : 2px solid green;">prashu019</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PADIGALA-PRASANTH-KUMAR-g5-ui-ux</td> 
+</tr>
