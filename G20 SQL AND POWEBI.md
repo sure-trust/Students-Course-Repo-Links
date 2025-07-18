@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKHIL-KALKOTWAR-g20-sql-and-powebi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHAMMED NADEEM SHAIKH</td> 
+
+<td style="border : 2px solid green;">nadeem860</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMED-NADEEM-SHAIKH-g20-sql-and-powebi</td> 
+</tr>
