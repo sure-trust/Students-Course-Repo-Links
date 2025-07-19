@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUNDOJU-SRUJAN-SAI-g5-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TIRUPATHI PAVAN KUMAR</td> 
+
+<td style="border : 2px solid green;">pavankumartirupathi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TIRUPATHI-PAVAN-KUMAR-g5-ui-ux</td> 
+</tr>
