@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANABOYINA-PAVAN-KUMAR-g5-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIKHIL JANGID</td> 
+
+<td style="border : 2px solid green;">nikhil6440</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIKHIL-JANGID-g5-ui-ux</td> 
+</tr>
