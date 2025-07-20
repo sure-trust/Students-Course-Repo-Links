@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAKSHI-GORAKH-JADHAV-g5-ui-ux</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MALLEMPUDI VENKATA PREETHI</td> 
+
+<td style="border : 2px solid green;">venkatapreethi06</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MALLEMPUDI-VENKATA-PREETHI-g5-ui-ux</td> 
+</tr>
