@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-SANJAY-ASWAR-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SWAYAM CHOPDA</td> 
+
+<td style="border : 2px solid green;">swayamchopda</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SWAYAM-CHOPDA-g2-genai</td> 
+</tr>
