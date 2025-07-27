@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SWAYAM-CHOPDA-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KALANGI HARIKA SUMANA</td> 
+
+<td style="border : 2px solid green;">harikakalangi23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KALANGI-HARIKA-SUMANA-g2-genai</td> 
+</tr>
