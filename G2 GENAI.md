@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIDDHANTH-SAIN-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">OMKAR PENSALWAR</td> 
+
+<td style="border : 2px solid green;">okp1234</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/OMKAR-PENSALWAR-g2-genai</td> 
+</tr>
