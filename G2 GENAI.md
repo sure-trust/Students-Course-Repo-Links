@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUMMADI-MAHESWAR-REDDY-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSH GARG</td> 
+
+<td style="border : 2px solid green;">harshgarg2110</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-GARG-g2-genai</td> 
+</tr>
