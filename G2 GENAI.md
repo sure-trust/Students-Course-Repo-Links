@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PODDUKURI-AKSHAY-REDDY-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SYED GUFRAN AHMED</td> 
+
+<td style="border : 2px solid green;">gufrxn999</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SYED-GUFRAN-AHMED-g2-genai</td> 
+</tr>
