@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THADI-SUSHMITHA-MANI-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">B.SAI KEERTHI</td> 
+
+<td style="border : 2px solid green;">keerthibellary182</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/B.SAI-KEERTHI-g2-genai</td> 
+</tr>
