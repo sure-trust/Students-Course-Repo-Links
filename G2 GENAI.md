@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NIDHI-JAYENDRA-SHARNAGAT-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEBAPRIYA DEY</td> 
+
+<td style="border : 2px solid green;">itsme-debapriya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEBAPRIYA-DEY-g2-genai</td> 
+</tr>
