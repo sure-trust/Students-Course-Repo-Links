@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARTIK-AMBUPE-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NANDINI R</td> 
+
+<td style="border : 2px solid green;">nandunandu24</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NANDINI-R-g2-genai</td> 
+</tr>
