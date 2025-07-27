@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHANKAR-REDDY-MOPUR-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIDHI JAYENDRA SHARNAGAT</td> 
+
+<td style="border : 2px solid green;">nidhis2005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIDHI-JAYENDRA-SHARNAGAT-g2-genai</td> 
+</tr>
