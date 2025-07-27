@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANMOL-AIRI-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHANKAR REDDY MOPUR</td> 
+
+<td style="border : 2px solid green;">shankar007-pro</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHANKAR-REDDY-MOPUR-g2-genai</td> 
+</tr>
