@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RACHAMALLA-TEJASVINI-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DHANUSH D</td> 
+
+<td style="border : 2px solid green;">st4bl3</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DHANUSH-D-g2-genai</td> 
+</tr>
