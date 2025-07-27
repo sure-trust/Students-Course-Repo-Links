@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UPENDER-GOUD-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THADI SUSHMITHA MANI</td> 
+
+<td style="border : 2px solid green;">sushh-05</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THADI-SUSHMITHA-MANI-g2-genai</td> 
+</tr>
