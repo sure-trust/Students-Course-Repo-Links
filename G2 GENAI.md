@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMARA-BHAVANA-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MADUGULA RAJESH</td> 
+
+<td style="border : 2px solid green;">rajesh03103</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MADUGULA-RAJESH-g2-genai</td> 
+</tr>
