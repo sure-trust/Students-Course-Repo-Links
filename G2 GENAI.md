@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MADUGULA-RAJESH-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DINESH K S</td> 
+
+<td style="border : 2px solid green;">dineshks005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DINESH-K-S-g2-genai</td> 
+</tr>
