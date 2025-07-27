@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DINESH-K-S-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARIHANT JAIN</td> 
+
+<td style="border : 2px solid green;">arihant0008</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARIHANT-JAIN-g2-genai</td> 
+</tr>
