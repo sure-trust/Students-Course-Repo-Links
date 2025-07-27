@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NANDINI-R-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVARSH KUMAR SAHU</td> 
+
+<td style="border : 2px solid green;">devarsh1302</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVARSH-KUMAR-SAHU-g2-genai</td> 
+</tr>
