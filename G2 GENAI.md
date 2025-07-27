@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/OMKAR-PENSALWAR-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RACHAMALLA TEJASVINI</td> 
+
+<td style="border : 2px solid green;">tejasvini2805</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RACHAMALLA-TEJASVINI-g2-genai</td> 
+</tr>
