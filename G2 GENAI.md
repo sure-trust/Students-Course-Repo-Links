@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/B.SAI-KEERTHI-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARTIK AMBUPE</td> 
+
+<td style="border : 2px solid green;">kartikambupe</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARTIK-AMBUPE-g2-genai</td> 
+</tr>
