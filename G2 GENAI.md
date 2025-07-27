@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-GARG-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SATWIK SHIVAM</td> 
+
+<td style="border : 2px solid green;">satwik99nuts</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SATWIK-SHIVAM-g2-genai</td> 
+</tr>
