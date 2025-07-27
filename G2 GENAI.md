@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEBAPRIYA-DEY-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAYESH VAGHANI</td> 
+
+<td style="border : 2px solid green;">greychee</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAYESH-VAGHANI-g2-genai</td> 
+</tr>
