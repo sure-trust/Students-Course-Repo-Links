@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BOGGAVARAPU-SAI-MONISH-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UPENDER GOUD</td> 
+
+<td style="border : 2px solid green;"></td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UPENDER-GOUD-g2-genai</td> 
+</tr>
