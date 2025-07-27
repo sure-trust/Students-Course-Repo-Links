@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/INDRANIL-MONDAL-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANMOL AIRI</td> 
+
+<td style="border : 2px solid green;">anmolairi03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANMOL-AIRI-g2-genai</td> 
+</tr>
