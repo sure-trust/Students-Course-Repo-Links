@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVARSH-KUMAR-SAHU-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUMMADI MAHESWAR REDDY</td> 
+
+<td style="border : 2px solid green;"></td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUMMADI-MAHESWAR-REDDY-g2-genai</td> 
+</tr>
