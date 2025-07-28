@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHANUSH-D-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEDARI SHASHI KIRAN</td> 
+
+<td style="border : 2px solid green;">shashi06012004</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEDARI-SHASHI-KIRAN-g2-genai</td> 
+</tr>
