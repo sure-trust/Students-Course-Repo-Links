@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEDARI-SHASHI-KIRAN-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADNAN PATHAN</td> 
+
+<td style="border : 2px solid green;">adnanpathan-da</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADNAN-PATHAN-g2-genai</td> 
+</tr>
