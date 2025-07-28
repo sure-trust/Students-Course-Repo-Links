@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADNAN-PATHAN-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AADESH PANDEY</td> 
+
+<td style="border : 2px solid green;">aadeshpandey1011</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AADESH-PANDEY-g2-genai</td> 
+</tr>
