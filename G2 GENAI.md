@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHIT-SINGH-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">J M HARSHAVARDHAN</td> 
+
+<td style="border : 2px solid green;">harshajm8639</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/J-M-HARSHAVARDHAN-g2-genai</td> 
+</tr>
