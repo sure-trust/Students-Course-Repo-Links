@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHANUSH-GOWDA-B-U-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINOD GARG</td> 
+
+<td style="border : 2px solid green;">vinodgarg7722</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINOD-GARG-g2-genai</td> 
+</tr>
