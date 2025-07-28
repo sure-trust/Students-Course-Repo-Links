@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/J-M-HARSHAVARDHAN-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINAY</td> 
+
+<td style="border : 2px solid green;">vin1347</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINAY-g2-genai</td> 
+</tr>
