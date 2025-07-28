@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ASHISH-PANDEY-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DHANUSH GOWDA B U</td> 
+
+<td style="border : 2px solid green;">dhanush-bu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DHANUSH-GOWDA-B-U-g2-genai</td> 
+</tr>
