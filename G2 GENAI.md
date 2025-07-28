@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAMJI-NAPIT-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARAVIND ADDANKI</td> 
+
+<td style="border : 2px solid green;">aravindaddanki</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARAVIND-ADDANKI-g2-genai</td> 
+</tr>
