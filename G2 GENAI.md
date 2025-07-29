@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARAVIND-ADDANKI-g2-genai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRITY KUMARI</td> 
+
+<td style="border : 2px solid green;">pritykumari55</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRITY-KUMARI-g2-genai</td> 
+</tr>
