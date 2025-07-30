@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAHUL-SHARMA-g35-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUSA QURESHI</td> 
+
+<td style="border : 2px solid green;">musa-qureshi-01</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUSA-QURESHI-g35-python</td> 
+</tr>
