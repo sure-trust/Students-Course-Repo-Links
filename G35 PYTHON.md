@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHANIYARA-YASHKUMAR-N.-g35-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUTUJ GANESH CHARDE</td> 
+
+<td style="border : 2px solid green;">ruturaaj</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUTUJ-GANESH-CHARDE-g35-python</td> 
+</tr>
