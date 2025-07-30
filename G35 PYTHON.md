@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHADA-SANTOSH-THAKUR-g35-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHI VERMA</td> 
+
+<td style="border : 2px solid green;">rishiv989</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHI-VERMA-g35-python</td> 
+</tr>
