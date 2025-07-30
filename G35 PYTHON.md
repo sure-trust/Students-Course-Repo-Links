@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAKSHI-MISHRA-g35-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUSHAGRA SHUKLA</td> 
+
+<td style="border : 2px solid green;">kushagraashukla</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUSHAGRA-SHUKLA-g35-python</td> 
+</tr>
