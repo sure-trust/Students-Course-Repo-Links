@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANASA-VELPULA-g35-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHILUKURI LAXMI PRASHASTHI</td> 
+
+<td style="border : 2px solid green;">lp-0406</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHILUKURI-LAXMI-PRASHASTHI-g35-python</td> 
+</tr>
