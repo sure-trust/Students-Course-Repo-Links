@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K.AISHWARYA-g35-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHADA SANTOSH THAKUR</td> 
+
+<td style="border : 2px solid green;">harshadathakur123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHADA-SANTOSH-THAKUR-g35-python</td> 
+</tr>
