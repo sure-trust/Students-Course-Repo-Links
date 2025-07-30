@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DIYA-PARASHAR-g35-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">T PRANAY KUMAR REDDY</td> 
+
+<td style="border : 2px solid green;">tuesday432</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/T-PRANAY-KUMAR-REDDY-g35-python</td> 
+</tr>
