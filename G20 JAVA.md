@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PINTU SWAIN</td> 
+
+<td style="border : 2px solid green;">pintu-swain</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PINTU-SWAIN-g20-java</td> 
+</tr>
