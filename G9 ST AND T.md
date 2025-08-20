@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BADANA AMRUTH KUMAR</td> 
+
+<td style="border : 2px solid green;">amruth0604</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BADANA-AMRUTH-KUMAR-g9-st-and-t</td> 
+</tr>
