@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROSHAN-BHAGAT-g3-ia</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAWAD ALI HAQQANI</td> 
+
+<td style="border : 2px solid green;">jawad-engineer</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAWAD-ALI-HAQQANI-g3-ia</td> 
+</tr>
