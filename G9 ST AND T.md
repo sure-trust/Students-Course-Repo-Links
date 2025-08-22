@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANGAVARAPU-RAMESWARA-REDDY-g9-st-and-t</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAJIT PRASHANT JOSHI</td> 
+
+<td style="border : 2px solid green;">rajeetjoshi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAJIT-PRASHANT-JOSHI-g9-st-and-t</td> 
+</tr>
