@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SACHIN-RAMESH-HIREKAR-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SYED WASAY AHMED</td> 
+
+<td style="border : 2px solid green;">syedwasay46</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SYED-WASAY-AHMED-g36-python</td> 
+</tr>
