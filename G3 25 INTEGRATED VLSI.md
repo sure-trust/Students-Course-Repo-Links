@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHALINI-R-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NUVVULA CHINA NAGENDRA</td> 
+
+<td style="border : 2px solid green;">nagendra2402</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NUVVULA-CHINA-NAGENDRA-g3-25-integrated-vlsi</td> 
+</tr>
