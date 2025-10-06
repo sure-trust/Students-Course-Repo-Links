@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOMA-NANDINI-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PINNINTI GANESH TANUJ MAINKANTA</td> 
+
+<td style="border : 2px solid green;">tanuj-manikanta-2007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PINNINTI-GANESH-TANUJ-MAINKANTA-g36-python</td> 
+</tr>
