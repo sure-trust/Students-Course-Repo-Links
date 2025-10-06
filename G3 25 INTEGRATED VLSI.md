@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEBJIT-KAR-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MARURI JAYA LAKSHMI</td> 
+
+<td style="border : 2px solid green;">jaya-g3vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MARURI-JAYA-LAKSHMI-g3-25-integrated-vlsi</td> 
+</tr>
