@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GEESALA-VINAY-RATNAM-g21-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPAK KUMAR</td> 
+
+<td style="border : 2px solid green;">deepakkumar682</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-KUMAR-g21-sql-and-powerbi</td> 
+</tr>
