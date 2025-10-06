@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/D.JAHNAVI-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMARTH DESHMUKH</td> 
+
+<td style="border : 2px solid green;">ai-medical-chatbot</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMARTH-DESHMUKH-g36-python</td> 
+</tr>
