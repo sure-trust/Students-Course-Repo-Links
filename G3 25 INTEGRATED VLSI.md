@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIMMA-BHAGYA-SRI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANOJ S S</td> 
+
+<td style="border : 2px solid green;">manoj2004-ui</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-S-S-g3-25-integrated-vlsi</td> 
+</tr>
