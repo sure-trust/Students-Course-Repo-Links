@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHANU-SHARMA-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIYA</td> 
+
+<td style="border : 2px solid green;">diya9250</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIYA-g3-25-integrated-vlsi</td> 
+</tr>
