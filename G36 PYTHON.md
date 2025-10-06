@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SNEHALATHA-REDDY-MOTAKATLA-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MADDI VISHNUVARDHAN</td> 
+
+<td style="border : 2px solid green;">maddivishnuvardhan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MADDI-VISHNUVARDHAN-g36-python</td> 
+</tr>
