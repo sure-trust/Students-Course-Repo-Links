@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRUTHVI-S-N-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SINCHANA DEVARAJ DODDAGOUDRA</td> 
+
+<td style="border : 2px solid green;">sinchanadd</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SINCHANA-DEVARAJ-DODDAGOUDRA-g3-25-integrated-vlsi</td> 
+</tr>
