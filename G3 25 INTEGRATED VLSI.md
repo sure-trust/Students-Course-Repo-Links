@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SURAJ-P-MADIWAL-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDIKARI JASWANTH</td> 
+
+<td style="border : 2px solid green;">jaswanth1081?tab=repositories</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDIKARI-JASWANTH-g3-25-integrated-vlsi</td> 
+</tr>
