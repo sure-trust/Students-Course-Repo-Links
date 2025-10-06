@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DUGGIMPUDI-LIKHITHA-CHOWDARY-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANGEETHA A HUCHANOOR</td> 
+
+<td style="border : 2px solid green;">sangeetha-huchanoor</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANGEETHA-A-HUCHANOOR-g3-25-integrated-vlsi</td> 
+</tr>
