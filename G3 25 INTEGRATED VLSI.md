@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAYED-LASIFULLA-GALIB-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHAVITHA N</td> 
+
+<td style="border : 2px solid green;">bhavi5017</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHAVITHA-N-g3-25-integrated-vlsi</td> 
+</tr>
