@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANDALA-GANESH-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PREKSHA S JORAPUR</td> 
+
+<td style="border : 2px solid green;">preksha.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PREKSHA-S-JORAPUR-g3-25-integrated-vlsi</td> 
+</tr>
