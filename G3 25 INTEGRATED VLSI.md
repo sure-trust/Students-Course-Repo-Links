@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAKSHITHA-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIMMA BHAGYA SRI</td> 
+
+<td style="border : 2px solid green;">simmabhagyasri-7970</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIMMA-BHAGYA-SRI-g3-25-integrated-vlsi</td> 
+</tr>
