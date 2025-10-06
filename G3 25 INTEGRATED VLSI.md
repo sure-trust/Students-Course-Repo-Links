@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PREKSHA-S-JORAPUR-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDAN GANESH GOUDA</td> 
+
+<td style="border : 2px solid green;">chandanganeshg-shipit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAN-GANESH-GOUDA-g3-25-integrated-vlsi</td> 
+</tr>
