@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOTILAL-SANJENBAM-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UPPU VAMSHI KRISHNA</td> 
+
+<td style="border : 2px solid green;">vamshikrishnapatel45</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UPPU-VAMSHI-KRISHNA-g36-python</td> 
+</tr>
