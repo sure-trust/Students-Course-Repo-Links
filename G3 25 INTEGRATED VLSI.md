@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAKSHITA-SHANKRAPPA-GADAGI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PERLA PRIYANKA</td> 
+
+<td style="border : 2px solid green;">perlapriyanka</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PERLA-PRIYANKA-g3-25-integrated-vlsi</td> 
+</tr>
