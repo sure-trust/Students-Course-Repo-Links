@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANJANA-S-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANNAMDEVULA UMANAGESWARI</td> 
+
+<td style="border : 2px solid green;">uma65881</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANNAMDEVULA-UMANAGESWARI-g3-25-integrated-vlsi</td> 
+</tr>
