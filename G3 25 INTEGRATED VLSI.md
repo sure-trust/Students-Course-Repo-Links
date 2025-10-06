@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIVA-M-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ISHPREET KAUR</td> 
+
+<td style="border : 2px solid green;">ikaur405</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ISHPREET-KAUR-g3-25-integrated-vlsi</td> 
+</tr>
