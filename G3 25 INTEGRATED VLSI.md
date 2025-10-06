@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GURUPRASAD-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINAYAK VENKAPPA PUJERI</td> 
+
+<td style="border : 2px solid green;">vinayakvision</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINAYAK-VENKAPPA-PUJERI-g3-25-integrated-vlsi</td> 
+</tr>
