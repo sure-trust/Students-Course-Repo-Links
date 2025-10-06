@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MALLA-VARSHINI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TILAK S BADAMI</td> 
+
+<td style="border : 2px solid green;">tilakbadami</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TILAK-S-BADAMI-g3-25-integrated-vlsi</td> 
+</tr>
