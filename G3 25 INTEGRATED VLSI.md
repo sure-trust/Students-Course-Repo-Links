@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-MARUTHI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUDHARSHAN MANJUNATH NAIK</td> 
+
+<td style="border : 2px solid green;">sudharshannaik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUDHARSHAN-MANJUNATH-NAIK-g3-25-integrated-vlsi</td> 
+</tr>
