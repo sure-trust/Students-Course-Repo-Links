@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MADDI-VISHNUVARDHAN-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARKAJYOTI KUNDU</td> 
+
+<td style="border : 2px solid green;">arkajyotikundu2003</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARKAJYOTI-KUNDU-g36-python</td> 
+</tr>
