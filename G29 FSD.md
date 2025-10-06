@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAJ-BHUSHAN-KUMAR-g29-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRANATHI SAI KALAVAGUNTA</td> 
+
+<td style="border : 2px solid green;">pranuuk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRANATHI-SAI-KALAVAGUNTA-g29-fsd</td> 
+</tr>
