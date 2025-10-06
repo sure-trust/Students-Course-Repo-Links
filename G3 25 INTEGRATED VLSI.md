@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROHIT-KUMAR-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRATHVIRAJ NAGARAJ SHET</td> 
+
+<td style="border : 2px solid green;">prathviraj-shet</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRATHVIRAJ-NAGARAJ-SHET-g3-25-integrated-vlsi</td> 
+</tr>
