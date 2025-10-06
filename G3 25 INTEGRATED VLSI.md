@@ -446,3 +446,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARESH-LANKALAPALLI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHD ISMAYEEL SHAIKH</td> 
+
+<td style="border : 2px solid green;">mohd-ismayeel</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-ISMAYEEL-SHAIKH-g3-25-integrated-vlsi</td> 
+</tr>
