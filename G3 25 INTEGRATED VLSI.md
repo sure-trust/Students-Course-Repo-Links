@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BODDUPALLY-VIJAYKUMAR-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOLUKULA PRASANTH</td> 
+
+<td style="border : 2px solid green;">kolukulaprasanth</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOLUKULA-PRASANTH-g3-25-integrated-vlsi</td> 
+</tr>
