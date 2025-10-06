@@ -478,3 +478,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DIYA-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADARSH H S</td> 
+
+<td style="border : 2px solid green;">adarshhs16</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADARSH-H-S-g3-25-integrated-vlsi</td> 
+</tr>
