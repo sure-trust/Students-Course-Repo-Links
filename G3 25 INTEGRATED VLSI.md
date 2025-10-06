@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MARURI-JAYA-LAKSHMI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAYED LASIFULLA GALIB</td> 
+
+<td style="border : 2px solid green;">lovelyasif-07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAYED-LASIFULLA-GALIB-g3-25-integrated-vlsi</td> 
+</tr>
