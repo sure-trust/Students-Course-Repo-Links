@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINOD-PAPPALA-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BODDUPALLY VIJAYKUMAR</td> 
+
+<td style="border : 2px solid green;">vijaykumar-413</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BODDUPALLY-VIJAYKUMAR-g3-25-integrated-vlsi</td> 
+</tr>
