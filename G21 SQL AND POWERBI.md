@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SALONI CHOUGULE</td> 
+
+<td style="border : 2px solid green;">123salonii</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SALONI-CHOUGULE-g21-sql-and-powerbi</td> 
+</tr>
