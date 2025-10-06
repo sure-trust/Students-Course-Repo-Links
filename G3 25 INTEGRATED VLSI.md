@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-S-S-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAVANA B N</td> 
+
+<td style="border : 2px solid green;">pavanagowdabn</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAVANA-B-N-g3-25-integrated-vlsi</td> 
+</tr>
