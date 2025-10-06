@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANGEETHA-A-HUCHANOOR-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AFREEN NADAF</td> 
+
+<td style="border : 2px solid green;">afreenn105</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AFREEN-NADAF-g3-25-integrated-vlsi</td> 
+</tr>
