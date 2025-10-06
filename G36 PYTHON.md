@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RITIK-SHYAMBABU-MEHTA-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOGANTI MINDHI VARA SHYAM SAI</td> 
+
+<td style="border : 2px solid green;">shyam044</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOGANTI-MINDHI-VARA-SHYAM-SAI-g36-python</td> 
+</tr>
