@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINOD-B-SAJJAN-g29-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHIKESH RANJAN</td> 
+
+<td style="border : 2px solid green;">rishi18-sait</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHIKESH-RANJAN-g29-fsd</td> 
+</tr>
