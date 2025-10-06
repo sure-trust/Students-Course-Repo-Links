@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NUVVULA-CHINA-NAGENDRA-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DUGGIMPUDI LIKHITHA CHOWDARY</td> 
+
+<td style="border : 2px solid green;">d-likhitha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DUGGIMPUDI-LIKHITHA-CHOWDARY-g3-25-integrated-vlsi</td> 
+</tr>
