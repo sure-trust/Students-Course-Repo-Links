@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KASIMKUPPAM-ACHYUTHUDU-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHALINI R</td> 
+
+<td style="border : 2px solid green;">shaliinir</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHALINI-R-g3-25-integrated-vlsi</td> 
+</tr>
