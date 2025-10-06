@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHARADWAJ-ADIGOPPULA-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">APPIREDDY PRAVEENA</td> 
+
+<td style="border : 2px solid green;">appireddypraveena</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/APPIREDDY-PRAVEENA-g3-25-integrated-vlsi</td> 
+</tr>
