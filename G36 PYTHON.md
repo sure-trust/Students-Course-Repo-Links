@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARKAJYOTI-KUNDU-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LOKESH SATYA</td> 
+
+<td style="border : 2px solid green;">python-g36-tasks-</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LOKESH-SATYA-g36-python</td> 
+</tr>
