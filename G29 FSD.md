@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAURI-JAGDISH-JANE-g29-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOGULA MANIKANTA</td> 
+
+<td style="border : 2px solid green;">gogulamanikanta11</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOGULA-MANIKANTA-g29-fsd</td> 
+</tr>
