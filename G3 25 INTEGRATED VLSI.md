@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SNEHANJALI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVUNURI ABHINAV</td> 
+
+<td style="border : 2px solid green;">devunuriabhinav7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVUNURI-ABHINAV-g3-25-integrated-vlsi</td> 
+</tr>
