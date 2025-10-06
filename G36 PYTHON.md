@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SYED-WASAY-AHMED-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAAZ MAHBOOB</td> 
+
+<td style="border : 2px solid green;">maazmahboob</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAAZ-MAHBOOB-g36-python</td> 
+</tr>
