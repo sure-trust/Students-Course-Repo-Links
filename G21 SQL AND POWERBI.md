@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHANUSH-S-g21-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GEESALA VINAY RATNAM</td> 
+
+<td style="border : 2px solid green;">gvinayratnam</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GEESALA-VINAY-RATNAM-g21-sql-and-powerbi</td> 
+</tr>
