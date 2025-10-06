@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VAYYAVURU-GNANA-PRASUNA-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K MARUTHI</td> 
+
+<td style="border : 2px solid green;">maruthi429</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K-MARUTHI-g3-25-integrated-vlsi</td> 
+</tr>
