@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHILASHA-KUMARI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANDALA GANESH</td> 
+
+<td style="border : 2px solid green;">mandalaganesh633-ai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANDALA-GANESH-g3-25-integrated-vlsi</td> 
+</tr>
