@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TILAK-S-BADAMI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GANYASHREE HD</td> 
+
+<td style="border : 2px solid green;">ganyashree-hd</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GANYASHREE-HD-g3-25-integrated-vlsi</td> 
+</tr>
