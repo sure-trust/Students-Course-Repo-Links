@@ -494,3 +494,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UNDURU-RAMA-RAO-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YATHAM SRINIVAS</td> 
+
+<td style="border : 2px solid green;">srinivasyath</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YATHAM-SRINIVAS-g3-25-integrated-vlsi</td> 
+</tr>
