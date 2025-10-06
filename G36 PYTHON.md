@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TEJASWINICR-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UPANSHU GUPTA</td> 
+
+<td style="border : 2px solid green;">upanshugupta</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UPANSHU-GUPTA-g36-python</td> 
+</tr>
