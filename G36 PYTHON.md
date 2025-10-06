@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUKTA-PRANAVI-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MALKI SHAIK NIKHAT NAAZ</td> 
+
+<td style="border : 2px solid green;">nikhxxt</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MALKI-SHAIK-NIKHAT-NAAZ-g36-python</td> 
+</tr>
