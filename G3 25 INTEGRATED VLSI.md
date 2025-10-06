@@ -454,3 +454,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-ISMAYEEL-SHAIKH-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GAGAN M KAKOL</td> 
+
+<td style="border : 2px solid green;">gaganmkakol10</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GAGAN-M-KAKOL-g3-25-integrated-vlsi</td> 
+</tr>
