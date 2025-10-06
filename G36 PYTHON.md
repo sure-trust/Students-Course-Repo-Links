@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AYUSH-SAPKAL-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NITEESH VUDARU</td> 
+
+<td style="border : 2px solid green;">niteeshaiml1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NITEESH-VUDARU-g36-python</td> 
+</tr>
