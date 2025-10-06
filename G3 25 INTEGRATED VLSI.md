@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAVANA-B-N-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRUTHVI S N</td> 
+
+<td style="border : 2px solid green;">pruthvisn</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRUTHVI-S-N-g3-25-integrated-vlsi</td> 
+</tr>
