@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAKESH-DAMAN-YELAKANTI-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARTIK NANDA</td> 
+
+<td style="border : 2px solid green;">kartik941</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARTIK-NANDA-g36-python</td> 
+</tr>
