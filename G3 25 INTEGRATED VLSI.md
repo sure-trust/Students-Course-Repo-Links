@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHAVITHA-N-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VAYYAVURU GNANA PRASUNA</td> 
+
+<td style="border : 2px solid green;">prasunavayyavuru05</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VAYYAVURU-GNANA-PRASUNA-g3-25-integrated-vlsi</td> 
+</tr>
