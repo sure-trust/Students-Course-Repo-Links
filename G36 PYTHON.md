@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINAYAK-SINGH-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SONU KUMAR SHAH</td> 
+
+<td style="border : 2px solid green;">sonushah7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SONU-KUMAR-SHAH-g36-python</td> 
+</tr>
