@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINAYAK-VENKAPPA-PUJERI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANJANA S HANCHINAMANI</td> 
+
+<td style="border : 2px solid green;">sanjana2450</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANJANA-S-HANCHINAMANI-g3-25-integrated-vlsi</td> 
+</tr>
