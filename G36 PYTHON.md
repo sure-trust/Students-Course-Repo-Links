@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NITEESH-VUDARU-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SNEHALATHA REDDY MOTAKATLA</td> 
+
+<td style="border : 2px solid green;">sneha-2x</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SNEHALATHA-REDDY-MOTAKATLA-g36-python</td> 
+</tr>
