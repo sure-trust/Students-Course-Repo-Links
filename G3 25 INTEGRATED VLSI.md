@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TATA-VIJAYANDHRA-MAMIDISETTI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAKSHITA SHANKRAPPA GADAGI</td> 
+
+<td style="border : 2px solid green;">rakshita0410</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAKSHITA-SHANKRAPPA-GADAGI-g3-25-integrated-vlsi</td> 
+</tr>
