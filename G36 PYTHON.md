@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARTIK-NANDA-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJASWINICR</td> 
+
+<td style="border : 2px solid green;">tejaswini-r228</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJASWINICR-g36-python</td> 
+</tr>
