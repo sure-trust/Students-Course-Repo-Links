@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOGANTI-MINDHI-VARA-SHYAM-SAI-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOMA NANDINI</td> 
+
+<td style="border : 2px solid green;">snd6657</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOMA-NANDINI-g36-python</td> 
+</tr>
