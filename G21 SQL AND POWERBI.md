@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SALONI-CHOUGULE-g21-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DHANUSH S</td> 
+
+<td style="border : 2px solid green;">shoyo44</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DHANUSH-S-g21-sql-and-powerbi</td> 
+</tr>
