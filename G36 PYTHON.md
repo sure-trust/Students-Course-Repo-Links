@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UPANSHU-GUPTA-g36-python</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ISHAN SATISH MAHORE</td> 
+
+<td style="border : 2px solid green;">ishanmahore</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ISHAN-SATISH-MAHORE-g36-python</td> 
+</tr>
