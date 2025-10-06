@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOLUKULA-PRASANTH-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MACHERLA JEEVANI</td> 
+
+<td style="border : 2px solid green;">jeevani05</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MACHERLA-JEEVANI-g3-25-integrated-vlsi</td> 
+</tr>
