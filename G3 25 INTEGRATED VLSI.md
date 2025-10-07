@@ -518,3 +518,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUGULOTH-TAGORE-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DAIVALA RAMU</td> 
+
+<td style="border : 2px solid green;">daivalaramu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DAIVALA-RAMU-g3-25-integrated-vlsi</td> 
+</tr>
