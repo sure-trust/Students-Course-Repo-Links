@@ -534,3 +534,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAIKIRAN-G3-25-VLSI-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PREETHA K</td> 
+
+<td style="border : 2px solid green;">pree152005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PREETHA-K-g3-25-integrated-vlsi</td> 
+</tr>
