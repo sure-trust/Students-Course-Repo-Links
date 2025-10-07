@@ -510,3 +510,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOUNDARYA-SHARANAPPA-AMBIGER-g3-25-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUGULOTH TAGORE</td> 
+
+<td style="border : 2px solid green;">tagore-svg</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUGULOTH-TAGORE-g3-25-integrated-vlsi</td> 
+</tr>
