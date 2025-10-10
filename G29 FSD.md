@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/S-BHOOMIKA-g29-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANJEET NEGI</td> 
+
+<td style="border : 2px solid green;">manjeet151</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANJEET-NEGI-g29-fsd</td> 
+</tr>
