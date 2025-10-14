@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SURE-VENKATA-PRAHARSHA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKRITI ROY</td> 
+
+<td style="border : 2px solid green;">akritiroy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKRITI-ROY-g3-gen-ai</td> 
+</tr>
