@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAHUL-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BOORA MANOJ KUMAR</td> 
+
+<td style="border : 2px solid green;">manojkumarfade</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BOORA-MANOJ-KUMAR-g3-gen-ai</td> 
+</tr>
