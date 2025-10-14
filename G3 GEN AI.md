@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKSHATA-MALI-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARUN CHINTHALAPALLY</td> 
+
+<td style="border : 2px solid green;">arun-248</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARUN-CHINTHALAPALLY-g3-gen-ai</td> 
+</tr>
