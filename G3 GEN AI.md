@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NIKHIL-SHARMA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHITA L GOUDA</td> 
+
+<td style="border : 2px solid green;">harshita12344924</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHITA-L-GOUDA-g3-gen-ai</td> 
+</tr>
