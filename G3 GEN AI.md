@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HEMA-SRI-HARSHITHA-MUTYALA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIVYANSHU SHARMA</td> 
+
+<td style="border : 2px solid green;">divyanshu-sharma15</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIVYANSHU-SHARMA-g3-gen-ai</td> 
+</tr>
