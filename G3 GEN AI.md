@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YADAV-SHUBHAM-RADHESHYAM-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAHEEN ATTAR</td> 
+
+<td style="border : 2px solid green;">shaheen-attar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAHEEN-ATTAR-g3-gen-ai</td> 
+</tr>
