@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANJANI-KUMARI-KUMMITHA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRASAD LONARE</td> 
+
+<td style="border : 2px solid green;">prasadlonare35</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRASAD-LONARE-g3-gen-ai</td> 
+</tr>
