@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRINCE-KUMAR-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMAR PRATAP</td> 
+
+<td style="border : 2px solid green;">amarpratap943</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMAR-PRATAP-g3-gen-ai</td> 
+</tr>
