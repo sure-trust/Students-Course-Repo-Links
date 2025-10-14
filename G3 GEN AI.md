@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRASAD-LONARE-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UPPARI PEDDA VENKATESH</td> 
+
+<td style="border : 2px solid green;">venky251003</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UPPARI-PEDDA-VENKATESH-g3-gen-ai</td> 
+</tr>
