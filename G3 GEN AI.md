@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHASHWAT-MANI-TRIPATHI-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GONUGUNTLA YASWANTH SAI</td> 
+
+<td style="border : 2px solid green;">yaswanth104</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GONUGUNTLA-YASWANTH-SAI-g3-gen-ai</td> 
+</tr>
