@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/G-GNANESWAR-SRINIVASULU-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHUMIK VIRMANI</td> 
+
+<td style="border : 2px solid green;">bhumikvirmani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHUMIK-VIRMANI-g3-gen-ai</td> 
+</tr>
