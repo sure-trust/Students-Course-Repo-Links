@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAURAV-KUMAR-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHASHWAT MANI TRIPATHI</td> 
+
+<td style="border : 2px solid green;">shashwatmani201</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHASHWAT-MANI-TRIPATHI-g3-gen-ai</td> 
+</tr>
