@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEBASRI-PAL-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIKHIL SHARMA</td> 
+
+<td style="border : 2px solid green;">nikhil-sh2112</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIKHIL-SHARMA-g3-gen-ai</td> 
+</tr>
