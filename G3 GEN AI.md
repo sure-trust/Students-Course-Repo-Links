@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUJAL-KAMBLE-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKIF MAHMOOD</td> 
+
+<td style="border : 2px solid green;">akif987</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKIF-MAHMOOD-g3-gen-ai</td> 
+</tr>
