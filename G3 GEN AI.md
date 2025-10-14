@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BOORA-MANOJ-KUMAR-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHAMED JAVITH S</td> 
+
+<td style="border : 2px solid green;">javibhai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMED-JAVITH-S-g3-gen-ai</td> 
+</tr>
