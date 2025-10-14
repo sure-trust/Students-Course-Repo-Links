@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUBHANKAR-MANNA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YERUVA SRI SAI HARSHITH</td> 
+
+<td style="border : 2px solid green;">harshith2004-sketh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YERUVA-SRI-SAI-HARSHITH-g3-gen-ai</td> 
+</tr>
