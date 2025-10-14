@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YERUVA-SRI-SAI-HARSHITH-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKSHATA MALI</td> 
+
+<td style="border : 2px solid green;">akshatamali</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKSHATA-MALI-g3-gen-ai</td> 
+</tr>
