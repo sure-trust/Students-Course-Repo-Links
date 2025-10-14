@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PARIKSHIT-PRASHANT-THAKRE-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANISHKA GAUR</td> 
+
+<td style="border : 2px solid green;">gaurkanishka0601</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANISHKA-GAUR-g3-gen-ai</td> 
+</tr>
