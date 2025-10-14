@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAHEK-TYAGI-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">G GNANESWAR SRINIVASULU</td> 
+
+<td style="border : 2px solid green;">gnaneswar96</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/G-GNANESWAR-SRINIVASULU-g3-gen-ai</td> 
+</tr>
