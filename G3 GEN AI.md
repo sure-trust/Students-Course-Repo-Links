@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKIF-MAHMOOD-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HEMA SRI HARSHITHA MUTYALA</td> 
+
+<td style="border : 2px solid green;">harshitha-730</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HEMA-SRI-HARSHITHA-MUTYALA-g3-gen-ai</td> 
+</tr>
