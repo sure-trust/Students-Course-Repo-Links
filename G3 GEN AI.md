@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMAR-PRATAP-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MADALAPU VINEETH KUMAR</td> 
+
+<td style="border : 2px solid green;">vineethkumar8954</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MADALAPU-VINEETH-KUMAR-g3-gen-ai</td> 
+</tr>
