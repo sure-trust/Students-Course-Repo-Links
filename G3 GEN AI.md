@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANISHKA-GAUR-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ASSISKUMAR JAGANNATH PANDA</td> 
+
+<td style="border : 2px solid green;">pandaassis27</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ASSISKUMAR-JAGANNATH-PANDA-g3-gen-ai</td> 
+</tr>
