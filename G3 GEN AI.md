@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHITA-L-GOUDA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUMIT SUKHADEV SURYAWANSHI</td> 
+
+<td style="border : 2px solid green;">sumit2117</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUMIT-SUKHADEV-SURYAWANSHI-g3-gen-ai</td> 
+</tr>
