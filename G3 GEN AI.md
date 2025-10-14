@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANANT-PATIL-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PARIKSHIT PRASHANT THAKRE</td> 
+
+<td style="border : 2px solid green;">parikshitthakre5</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PARIKSHIT-PRASHANT-THAKRE-g3-gen-ai</td> 
+</tr>
