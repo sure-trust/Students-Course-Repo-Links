@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADARSH-PANDEY-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AYUSH MISHRA</td> 
+
+<td style="border : 2px solid green;">ayush8312</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AYUSH-MISHRA-g3-gen-ai</td> 
+</tr>
