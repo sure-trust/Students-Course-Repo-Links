@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-NAGA-SAI-PRANAY-KUMAR-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SURE VENKATA PRAHARSHA</td> 
+
+<td style="border : 2px solid green;">pra3harsha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SURE-VENKATA-PRAHARSHA-g3-gen-ai</td> 
+</tr>
