@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHASHANK-MAMGAIN-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YADAV SHUBHAM RADHESHYAM</td> 
+
+<td style="border : 2px solid green;">shubham123215</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YADAV-SHUBHAM-RADHESHYAM-g3-gen-ai</td> 
+</tr>
