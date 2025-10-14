@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GONUGUNTLA-YASWANTH-SAI-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RITESH APPASAHEB MANE</td> 
+
+<td style="border : 2px solid green;">ritesh8308</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RITESH-APPASAHEB-MANE-g3-gen-ai</td> 
+</tr>
