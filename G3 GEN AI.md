@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RITESH-APPASAHEB-MANE-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANJANI KUMARI KUMMITHA</td> 
+
+<td style="border : 2px solid green;">kummitha333</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANJANI-KUMARI-KUMMITHA-g3-gen-ai</td> 
+</tr>
