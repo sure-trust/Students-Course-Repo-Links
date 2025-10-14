@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MADALAPU-VINEETH-KUMAR-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUJAL KAMBLE</td> 
+
+<td style="border : 2px solid green;">sujalk009</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUJAL-KAMBLE-g3-gen-ai</td> 
+</tr>
