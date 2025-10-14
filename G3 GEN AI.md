@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMED-JAVITH-S-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHASHANK MAMGAIN</td> 
+
+<td style="border : 2px solid green;">xfin0110</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHASHANK-MAMGAIN-g3-gen-ai</td> 
+</tr>
