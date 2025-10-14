@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DISHANK-ARYA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THEJASWINI GK</td> 
+
+<td style="border : 2px solid green;">thejaswini-gk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THEJASWINI-GK-g3-gen-ai</td> 
+</tr>
