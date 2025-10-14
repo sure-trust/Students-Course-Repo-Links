@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ASSISKUMAR-JAGANNATH-PANDA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ABHISHEK BHATTACHARJEE</td> 
+
+<td style="border : 2px solid green;">bhattacharjeeabhishek61-alt</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ABHISHEK-BHATTACHARJEE-g3-gen-ai</td> 
+</tr>
