@@ -438,3 +438,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAHEEN-ATTAR-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRASHANTHI N</td> 
+
+<td style="border : 2px solid green;">prashanthi-n</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRASHANTHI-N-g3-gen-ai</td> 
+</tr>
