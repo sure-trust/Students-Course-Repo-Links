@@ -454,3 +454,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ASHFAAQ-AHMED-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHIT</td> 
+
+<td style="border : 2px solid green;">yvharshit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHIT-g3-gen-ai</td> 
+</tr>
