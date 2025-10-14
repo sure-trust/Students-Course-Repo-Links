@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHUMIK-VIRMANI-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIKH TAUHID FARUK</td> 
+
+<td style="border : 2px solid green;">tauhidshaikh517</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIKH-TAUHID-FARUK-g3-gen-ai</td> 
+</tr>
