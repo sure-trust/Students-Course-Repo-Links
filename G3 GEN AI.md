@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHISHEK-RAJESH-PAITODE-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANANT PATIL</td> 
+
+<td style="border : 2px solid green;">patilanant</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANANT-PATIL-g3-gen-ai</td> 
+</tr>
