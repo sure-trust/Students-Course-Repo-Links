@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THEJASWINI-GK-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAULIK VAGHELA</td> 
+
+<td style="border : 2px solid green;">maulikvaghela006</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAULIK-VAGHELA-g3-gen-ai</td> 
+</tr>
