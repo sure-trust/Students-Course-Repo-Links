@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AYUSH-MISHRA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEBASRI PAL</td> 
+
+<td style="border : 2px solid green;">debasri-pal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEBASRI-PAL-g3-gen-ai</td> 
+</tr>
