@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHISHEK-BHATTACHARJEE-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAHUL</td> 
+
+<td style="border : 2px solid green;">devdasrahul</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAHUL-g3-gen-ai</td> 
+</tr>
