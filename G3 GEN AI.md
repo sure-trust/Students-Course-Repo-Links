@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAN-K-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAHEK TYAGI</td> 
+
+<td style="border : 2px solid green;">mmeehhaakkk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAHEK-TYAGI-g3-gen-ai</td> 
+</tr>
