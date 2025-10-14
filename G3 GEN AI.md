@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMBUJ-DUBEY-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YASH SINGH</td> 
+
+<td style="border : 2px solid green;">student-yashsingh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YASH-SINGH-g3-gen-ai</td> 
+</tr>
