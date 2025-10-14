@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UPPARI-PEDDA-VENKATESH-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIGNESH R</td> 
+
+<td style="border : 2px solid green;">vignesh-2402</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIGNESH-R-g3-gen-ai</td> 
+</tr>
