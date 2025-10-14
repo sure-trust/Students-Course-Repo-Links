@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DASARI-RENUKA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AAQIB FAYAZ MALIK</td> 
+
+<td style="border : 2px solid green;">aaqibfayaz</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AAQIB-FAYAZ-MALIK-g3-gen-ai</td> 
+</tr>
