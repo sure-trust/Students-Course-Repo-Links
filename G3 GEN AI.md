@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAULIK-VAGHELA-g3-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DARSHINI ML</td> 
+
+<td style="border : 2px solid green;">darshiniml</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DARSHINI-ML-g3-gen-ai</td> 
+</tr>
