@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-NAZEER-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANKANALA SHASHI KUMAR</td> 
+
+<td style="border : 2px solid green;">shashikankanala23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANKANALA-SHASHI-KUMAR-g16-es-and-iot</td> 
+</tr>
