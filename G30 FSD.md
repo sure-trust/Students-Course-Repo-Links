@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMIT-KUMAR-KHATRI-g30-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAPPALA CHIRANJEEVA</td> 
+
+<td style="border : 2px solid green;">kchiru053</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAPPALA-CHIRANJEEVA-g30-fsd</td> 
+</tr>
