@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JEEVIKA-C-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAYURI TEJUMALI</td> 
+
+<td style="border : 2px solid green;">mayuri-g16es</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAYURI-TEJUMALI-g16-es-and-iot</td> 
+</tr>
