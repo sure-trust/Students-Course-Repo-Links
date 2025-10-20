@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NISCHITHA-A-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIK NAZEER</td> 
+
+<td style="border : 2px solid green;">nazeer16es</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-NAZEER-g16-es-and-iot</td> 
+</tr>
