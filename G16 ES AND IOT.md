@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAHANA-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JEEVIKA C</td> 
+
+<td style="border : 2px solid green;">jeevika-c</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JEEVIKA-C-g16-es-and-iot</td> 
+</tr>
