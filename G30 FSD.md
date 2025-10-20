@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANABOINA MURALI KRISHNA</td> 
+
+<td style="border : 2px solid green;">muraliq4</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANABOINA-MURALI-KRISHNA-g30-fsd</td> 
+</tr>
