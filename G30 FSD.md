@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANTOSH-SHIVANAGOUDA-BIRADAR-g30-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SETTIPALLI ARUNA</td> 
+
+<td style="border : 2px solid green;">arunasettipalli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SETTIPALLI-ARUNA-g30-fsd</td> 
+</tr>
