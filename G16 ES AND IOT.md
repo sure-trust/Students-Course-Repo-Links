@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHA-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAVAN SHETTY H S</td> 
+
+<td style="border : 2px solid green;">pshettyhs-ai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAVAN-SHETTY-H-S-g16-es-and-iot</td> 
+</tr>
