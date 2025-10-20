@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRUTHVI-K-R-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVANI JAISWAL</td> 
+
+<td style="border : 2px solid green;">shivanijaiswalg16es-cpu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVANI-JAISWAL-g16-es-and-iot</td> 
+</tr>
