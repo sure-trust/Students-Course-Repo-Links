@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GORLA-SNEHA-PRABHA-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIKH AFFAN SATTAR</td> 
+
+<td style="border : 2px solid green;">affanpersonal129049</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIKH-AFFAN-SATTAR-g16-es-and-iot</td> 
+</tr>
