@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANKANALA-SHASHI-KUMAR-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAITRA CHANDRASHEKAR NAIKER</td> 
+
+<td style="border : 2px solid green;">chaithra2706-create</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAITRA-CHANDRASHEKAR-NAIKER-g16-es-and-iot</td> 
+</tr>
