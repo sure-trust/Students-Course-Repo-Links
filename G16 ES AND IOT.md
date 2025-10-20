@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YAMUNA-SHIVAJI-LONDAVE-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKULA ASHRITH SAI</td> 
+
+<td style="border : 2px solid green;">ashrith-sai2704</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKULA-ASHRITH-SAI-g16-es-and-iot</td> 
+</tr>
