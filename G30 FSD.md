@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAYANDEEP-BERA-g30-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMIT KUMAR KHATRI</td> 
+
+<td style="border : 2px solid green;">amit-ak89</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMIT-KUMAR-KHATRI-g30-fsd</td> 
+</tr>
