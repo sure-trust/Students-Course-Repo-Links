@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-ALLALLI-g30-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ASHRITHA CHILKURI</td> 
+
+<td style="border : 2px solid green;">ashritha2027</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ASHRITHA-CHILKURI-g30-fsd</td> 
+</tr>
