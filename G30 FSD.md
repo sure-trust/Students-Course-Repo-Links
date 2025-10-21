@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAYAN-MONDAL-g30-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVARAPALLI CHANDU</td> 
+
+<td style="border : 2px solid green;">chandu994812</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVARAPALLI-CHANDU-g30-fsd</td> 
+</tr>
