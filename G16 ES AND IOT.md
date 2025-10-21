@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/G-VISHNU-DATTA-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PANGA RISHIKA YADAV</td> 
+
+<td style="border : 2px solid green;">rishikapanga</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PANGA-RISHIKA-YADAV-g16-es-and-iot</td> 
+</tr>
