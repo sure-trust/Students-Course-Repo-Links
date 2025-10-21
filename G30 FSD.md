@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVARAPALLI-CHANDU-g30-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARTHIK ALLALLI</td> 
+
+<td style="border : 2px solid green;">karthikallalli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-ALLALLI-g30-fsd</td> 
+</tr>
