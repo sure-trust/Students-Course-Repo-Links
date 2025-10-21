@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUCHITRA-K-g16-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADDURI CHAITANYA BALAJI</td> 
+
+<td style="border : 2px solid green;">chaitanyabalajig16es-coder</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADDURI-CHAITANYA-BALAJI-g16-es-and-iot</td> 
+</tr>
