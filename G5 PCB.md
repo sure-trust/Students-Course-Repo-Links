@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHIRAJ-KUMAR-g5-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BOJJA JAYANTH REDDY</td> 
+
+<td style="border : 2px solid green;">jayanthreddy2504-sketch</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BOJJA-JAYANTH-REDDY-g5-pcb</td> 
+</tr>
