@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JATIN-MANI-g5-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHINTHAPULA VISHWATEJA</td> 
+
+<td style="border : 2px solid green;">vishwatejachinthapula-eng</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHINTHAPULA-VISHWATEJA-g5-pcb</td> 
+</tr>
