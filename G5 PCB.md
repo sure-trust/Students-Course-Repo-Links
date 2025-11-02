@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THOKALA-KARTHIK-g5-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAGAR KUMAR SINGH</td> 
+
+<td style="border : 2px solid green;">sagarg5-pcb</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAGAR-KUMAR-SINGH-g5-pcb</td> 
+</tr>
