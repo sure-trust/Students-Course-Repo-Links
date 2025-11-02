@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BRINDHA-K-g5-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JATIN MANI</td> 
+
+<td style="border : 2px solid green;">jatinmani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JATIN-MANI-g5-pcb</td> 
+</tr>
