@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KHUSHAL CHAUDHARI</td> 
+
+<td style="border : 2px solid green;">sagar-tech-04</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KHUSHAL-CHAUDHARI-g14-cs</td> 
+</tr>
