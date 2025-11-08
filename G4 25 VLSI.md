@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VISHAL-GOWDA-V-N-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAPPALA USHA</td> 
+
+<td style="border : 2px solid green;">ushapappala-a</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAPPALA-USHA-g4-25-vlsi</td> 
+</tr>
