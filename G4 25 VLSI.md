@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMAIRA-SINGH-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VEENA GADDAM</td> 
+
+<td style="border : 2px solid green;">veena-2729</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VEENA-GADDAM-g4-25-vlsi</td> 
+</tr>
