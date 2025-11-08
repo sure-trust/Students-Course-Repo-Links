@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAKESH-YARRA-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHEIKH HARIS RAZA</td> 
+
+<td style="border : 2px solid green;">sheikhharis311</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHEIKH-HARIS-RAZA-g4-25-vlsi</td> 
+</tr>
