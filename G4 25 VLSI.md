@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-SAMBANA-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAGAR S AJJAPALAR</td> 
+
+<td style="border : 2px solid green;">sagar37-bot</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAGAR-S-AJJAPALAR-g4-25-vlsi</td> 
+</tr>
