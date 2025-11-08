@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ALEEMUDDIN-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHITHA R</td> 
+
+<td style="border : 2px solid green;">harshitharclk908</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHITHA-R-g4-25-vlsi</td> 
+</tr>
