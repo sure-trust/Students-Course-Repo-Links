@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAGAR-S-AJJAPALAR-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PEMMAKA NANDA KISHOR REDDY</td> 
+
+<td style="border : 2px solid green;">nanda-kishor-git593</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PEMMAKA-NANDA-KISHOR-REDDY-g4-25-vlsi</td> 
+</tr>
