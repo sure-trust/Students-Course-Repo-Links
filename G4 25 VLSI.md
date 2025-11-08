@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PEMMAKA-NANDA-KISHOR-REDDY-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAVEEN ARAGANJI</td> 
+
+<td style="border : 2px solid green;">naveen-araganji</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAVEEN-ARAGANJI-g4-25-vlsi</td> 
+</tr>
