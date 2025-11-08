@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAMS-TANVEER-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANOOP B PATEL</td> 
+
+<td style="border : 2px solid green;">anoop-g4-25-integratedvlsi-png</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANOOP-B-PATEL-g4-25-vlsi</td> 
+</tr>
