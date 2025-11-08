@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NEETA-RAJENDRA-MUNNOLLI-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAJWAL GOWDA N S</td> 
+
+<td style="border : 2px solid green;">prajwal2560</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAJWAL-GOWDA-N-S-g4-25-vlsi</td> 
+</tr>
