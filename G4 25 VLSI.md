@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHITHA-R-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARTHIK SAMBANA</td> 
+
+<td style="border : 2px solid green;">karthik-s15</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-SAMBANA-g4-25-vlsi</td> 
+</tr>
