@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAMANI-SAI-AKASH-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJAS H S</td> 
+
+<td style="border : 2px solid green;">tejas-h-s</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJAS-H-S-g4-25-vlsi</td> 
+</tr>
