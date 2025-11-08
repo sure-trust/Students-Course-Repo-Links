@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PALLI-NIKHITHA-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">REVATI BHAVIKATTI</td> 
+
+<td style="border : 2px solid green;">revatig425integratedvlsi-spec</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/REVATI-BHAVIKATTI-g4-25-vlsi</td> 
+</tr>
