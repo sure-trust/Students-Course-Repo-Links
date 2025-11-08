@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKSHATA-KITTURKAR-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAMANI SAI AKASH</td> 
+
+<td style="border : 2px solid green;">saiakash7058</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAMANI-SAI-AKASH-g4-25-vlsi</td> 
+</tr>
