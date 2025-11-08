@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAPPALA-USHA-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AVINASH BANKUR</td> 
+
+<td style="border : 2px solid green;">avinashbankur</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AVINASH-BANKUR-g4-25-vlsi</td> 
+</tr>
