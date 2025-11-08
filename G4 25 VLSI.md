@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NISHA-TIWARI-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAGHAVENDRA TULLER</td> 
+
+<td style="border : 2px solid green;">raghavendra-tuller</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAGHAVENDRA-TULLER-g4-25-vlsi</td> 
+</tr>
