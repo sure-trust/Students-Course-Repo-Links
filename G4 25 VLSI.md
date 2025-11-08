@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHEERAJ-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAKESH YARRA</td> 
+
+<td style="border : 2px solid green;">yarrarakesh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAKESH-YARRA-g4-25-vlsi</td> 
+</tr>
