@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/REVATI-BHAVIKATTI-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJA SWAROOP VADDI</td> 
+
+<td style="border : 2px solid green;">teja-swaroop23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJA-SWAROOP-VADDI-g4-25-vlsi</td> 
+</tr>
