@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANJANA-B-S-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADITTYA AHIR</td> 
+
+<td style="border : 2px solid green;">adittyaahir</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADITTYA-AHIR-g4-25-vlsi</td> 
+</tr>
