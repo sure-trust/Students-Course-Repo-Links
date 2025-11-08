@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMEER-MISHRA-g14-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRANJAL POPAT MAJARE</td> 
+
+<td style="border : 2px solid green;">pm0641</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRANJAL-POPAT-MAJARE-g14-cs</td> 
+</tr>
