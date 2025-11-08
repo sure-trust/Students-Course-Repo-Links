@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NANDIVADA-RADHA-AISHWARYA-g14-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRUDVI TEJA</td> 
+
+<td style="border : 2px solid green;">prudviteja1999</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRUDVI-TEJA-g14-cs</td> 
+</tr>
