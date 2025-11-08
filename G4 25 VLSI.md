@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADITYA-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANISH S</td> 
+
+<td style="border : 2px solid green;">manishs19022</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANISH-S-g4-25-vlsi</td> 
+</tr>
