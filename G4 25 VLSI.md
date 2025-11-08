@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAGHAVENDRA-TULLER-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLI NIKHITHA</td> 
+
+<td style="border : 2px solid green;">nikhithapalli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLI-NIKHITHA-g4-25-vlsi</td> 
+</tr>
