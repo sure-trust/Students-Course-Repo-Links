@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UPPU-VAMSHI-KRISHNA-g14-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RICHA DIXIT</td> 
+
+<td style="border : 2px solid green;">richadixit1002</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RICHA-DIXIT-g14-cs</td> 
+</tr>
