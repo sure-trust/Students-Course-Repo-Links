@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MITTA-GANESH-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDARU ANJANEYA AKHIL</td> 
+
+<td style="border : 2px solid green;">akhil-b-26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDARU-ANJANEYA-AKHIL-g4-25-vlsi</td> 
+</tr>
