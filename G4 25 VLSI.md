@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANDARU-ANJANEYA-AKHIL-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAVANA B B</td> 
+
+<td style="border : 2px solid green;">kavanabb</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAVANA-B-B-g4-25-vlsi</td> 
+</tr>
