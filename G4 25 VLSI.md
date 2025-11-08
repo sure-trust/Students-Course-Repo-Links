@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PASULURU-ADITYA-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BYANAJJARA GANESHA</td> 
+
+<td style="border : 2px solid green;">ganesha-byanajjara8123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BYANAJJARA-GANESHA-g4-25-vlsi</td> 
+</tr>
