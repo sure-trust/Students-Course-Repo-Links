@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RANATHA-D-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOTTA MANIKANTA</td> 
+
+<td style="border : 2px solid green;">manikotta</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOTTA-MANIKANTA-g4-25-vlsi</td> 
+</tr>
