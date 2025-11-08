@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHEERAJ-TIWARI-g30-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROHIT JAYANT RANE</td> 
+
+<td style="border : 2px solid green;">rohitrane26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROHIT-JAYANT-RANE-g30-fsd</td> 
+</tr>
