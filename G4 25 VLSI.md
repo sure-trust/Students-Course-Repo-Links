@@ -486,3 +486,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMREEN-FATHIMA-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GURU KIRAN AL</td> 
+
+<td style="border : 2px solid green;">gurukiranal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GURU-KIRAN-AL-g4-25-vlsi</td> 
+</tr>
