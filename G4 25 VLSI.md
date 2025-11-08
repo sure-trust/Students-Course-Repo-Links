@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DAVID-RAJU-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VISHAL GOWDA V N</td> 
+
+<td style="border : 2px solid green;">vishalgowda27</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VISHAL-GOWDA-V-N-g4-25-vlsi</td> 
+</tr>
