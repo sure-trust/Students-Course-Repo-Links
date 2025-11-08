@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RICHA-DIXIT-g14-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JITENDER</td> 
+
+<td style="border : 2px solid green;">jittehacker</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JITENDER-g14-cs</td> 
+</tr>
