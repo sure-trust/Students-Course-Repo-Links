@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANOOP-B-PATEL-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KATURI YESHWANTH</td> 
+
+<td style="border : 2px solid green;">katuriyeshwanth</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KATURI-YESHWANTH-g4-25-vlsi</td> 
+</tr>
