@@ -510,3 +510,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RADHIKA-PAGADALA-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDAN M N</td> 
+
+<td style="border : 2px solid green;">chandan2425</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAN-M-N-g4-25-vlsi</td> 
+</tr>
