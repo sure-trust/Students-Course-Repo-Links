@@ -526,3 +526,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NIHAR-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YOGANANDA H S</td> 
+
+<td style="border : 2px solid green;">yoganandachamp</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YOGANANDA-H-S-g4-25-vlsi</td> 
+</tr>
