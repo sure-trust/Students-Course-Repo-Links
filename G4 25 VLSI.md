@@ -518,3 +518,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAN-M-N-g4-25-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIHAR</td> 
+
+<td style="border : 2px solid green;">profile</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIHAR-g4-25-vlsi</td> 
+</tr>
