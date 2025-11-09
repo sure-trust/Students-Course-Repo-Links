@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KESHAV-KUMAR-g13-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHETHAN KUMAR H U</td> 
+
+<td style="border : 2px solid green;">chethanautocadinternship-svg</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHETHAN-KUMAR-H-U-g13-autocad</td> 
+</tr>
