@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KRITARTH-JOSHI-g9-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAYAN SAMANTA</td> 
+
+<td style="border : 2px solid green;">nayanksamanta</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAYAN-SAMANTA-g9-ds</td> 
+</tr>
