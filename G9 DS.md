@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHINAV-GANGWAR---G9-DS-g9-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AJAY KUMAR GUPTA</td> 
+
+<td style="border : 2px solid green;">ajay7080g-afk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AJAY-KUMAR-GUPTA-g9-ds</td> 
+</tr>
