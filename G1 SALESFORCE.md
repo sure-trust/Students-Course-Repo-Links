@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHANUSHINI-D-g1-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JIJO JOSE</td> 
+
+<td style="border : 2px solid green;">thedazai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JIJO-JOSE-g1-salesforce</td> 
+</tr>
