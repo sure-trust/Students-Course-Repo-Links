@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHITTIMALLA-SRIJA-g9-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KRITARTH JOSHI</td> 
+
+<td style="border : 2px solid green;">kritarth6</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KRITARTH-JOSHI-g9-ds</td> 
+</tr>
