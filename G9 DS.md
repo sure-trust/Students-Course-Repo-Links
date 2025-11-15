@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/OMKAR-ASHIRVAD-SAWANT-g9-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KALAI MAGAL. R</td> 
+
+<td style="border : 2px solid green;">kalaimagal09</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KALAI-MAGAL.-R-g9-ds</td> 
+</tr>
