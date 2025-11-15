@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKHIL-MAURYA-g5-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANHAIYA KUMAR</td> 
+
+<td style="border : 2px solid green;">kanhaiyaiet</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANHAIYA-KUMAR-g5-robotics</td> 
+</tr>
