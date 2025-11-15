@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-AFTAB-g9-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANUGYA DUBEY</td> 
+
+<td style="border : 2px solid green;">anugya1-dubey</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANUGYA-DUBEY-g9-ds</td> 
+</tr>
