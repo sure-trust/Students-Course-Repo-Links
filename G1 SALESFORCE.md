@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARYANTHAWKAR-G1SALESFORCE-g1-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAITHANYA VELPULA</td> 
+
+<td style="border : 2px solid green;">chaithanyag1salesforce</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAITHANYA-VELPULA-g1-salesforce</td> 
+</tr>
