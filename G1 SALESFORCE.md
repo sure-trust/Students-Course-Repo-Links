@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NITISH-KUMAR-g1-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANURAG SINGH</td> 
+
+<td style="border : 2px solid green;">anuragsingh1621</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANURAG-SINGH-g1-salesforce</td> 
+</tr>
