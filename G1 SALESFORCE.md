@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JIJO-JOSE-g1-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BRIJESH KUMAR</td> 
+
+<td style="border : 2px solid green;">844brijeshkumar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BRIJESH-KUMAR-g1-salesforce</td> 
+</tr>
