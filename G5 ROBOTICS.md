@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NISHU-KUMARI-g5-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKHIL MAURYA</td> 
+
+<td style="border : 2px solid green;">akhilmaurya5robotics</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKHIL-MAURYA-g5-robotics</td> 
+</tr>
