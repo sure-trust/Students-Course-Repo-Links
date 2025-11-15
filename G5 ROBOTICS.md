@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHARATH-VEGGALAM-g5-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADITYA KASHINATH RATHOD</td> 
+
+<td style="border : 2px solid green;">rathod-aditya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADITYA-KASHINATH-RATHOD-g5-robotics</td> 
+</tr>
