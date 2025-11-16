@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-g5-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SATYAM KUMAR SOLANKI</td> 
+
+<td style="border : 2px solid green;">satyamsolanki100</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SATYAM-KUMAR-SOLANKI-g5-robotics</td> 
+</tr>
