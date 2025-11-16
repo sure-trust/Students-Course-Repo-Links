@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAKALAPATI-HARISH-VARMA-g5-robotics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANANT PAL</td> 
+
+<td style="border : 2px solid green;">apeiron-333</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANANT-PAL-g5-robotics</td> 
+</tr>
