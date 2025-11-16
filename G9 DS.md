@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINAYAKA-MN-G9-DS-g9-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SRIHITH REDDY LAKKIDI</td> 
+
+<td style="border : 2px solid green;">srihith300</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SRIHITH-REDDY-LAKKIDI-g9-ds</td> 
+</tr>
