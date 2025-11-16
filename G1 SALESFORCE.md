@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AYUSH-GUPTE-G1-SALESFORCE-g1-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIBYAJYOTI NAYAK</td> 
+
+<td style="border : 2px solid green;">dibyajyotinayakg1saleforce-eng</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIBYAJYOTI-NAYAK-g1-salesforce</td> 
+</tr>
