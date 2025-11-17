@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAHUL-SINGLA-g9-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOOJAL MANDAL</td> 
+
+<td style="border : 2px solid green;">soojalmandal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOOJAL-MANDAL-g9-ds</td> 
+</tr>
