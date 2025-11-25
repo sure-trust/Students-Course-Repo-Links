@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SINDHUJA-NADEGOUNI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BIJILI PAVAN KALYAN</td> 
+
+<td style="border : 2px solid green;">pavanbijili</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BIJILI-PAVAN-KALYAN-g37-ai-ml</td> 
+</tr>
