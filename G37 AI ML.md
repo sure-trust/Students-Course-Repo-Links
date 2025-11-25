@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUPRATIK-MITRA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DARAKESU HEMANTH PONNAGANTI</td> 
+
+<td style="border : 2px solid green;">hemanth047</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DARAKESU-HEMANTH-PONNAGANTI-g37-ai-ml</td> 
+</tr>
