@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ZABIHA-MUSKAN-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRANJALI GAJANAN WARKAD</td> 
+
+<td style="border : 2px solid green;">pranjali3105</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRANJALI-GAJANAN-WARKAD-g37-ai-ml</td> 
+</tr>
