@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VED-DEVANAND-DHANOKAR-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVANG RAI</td> 
+
+<td style="border : 2px solid green;">shivcodes91</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVANG-RAI-g37-ai-ml</td> 
+</tr>
