@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BIJILI-PAVAN-KALYAN-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHARCHIT CHAUHAN</td> 
+
+<td style="border : 2px solid green;">charchit-chauhan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHARCHIT-CHAUHAN-g37-ai-ml</td> 
+</tr>
