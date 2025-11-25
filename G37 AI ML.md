@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TEJASWINI-GALLA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HUMERA SIDDIQUA</td> 
+
+<td style="border : 2px solid green;">muskaan2k2</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HUMERA-SIDDIQUA-g37-ai-ml</td> 
+</tr>
