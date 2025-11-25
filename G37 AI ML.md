@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOLLI-SANJAY-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VED DEVANAND DHANOKAR</td> 
+
+<td style="border : 2px solid green;">ved2151h</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VED-DEVANAND-DHANOKAR-g37-ai-ml</td> 
+</tr>
