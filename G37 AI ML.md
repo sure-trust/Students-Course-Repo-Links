@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIDDHI-SHASHIKANT-GANDHI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANASA H O</td> 
+
+<td style="border : 2px solid green;">manasaonkar07-svg</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANASA-H-O-g37-ai-ml</td> 
+</tr>
