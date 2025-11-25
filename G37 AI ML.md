@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAAD-MOHAMMED-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIROTHI KARTHIKEYA</td> 
+
+<td style="border : 2px solid green;">karthikeya-virothi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIROTHI-KARTHIKEYA-g37-ai-ml</td> 
+</tr>
