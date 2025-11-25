@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANUSHKA-SONI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJASWINI GALLA</td> 
+
+<td style="border : 2px solid green;">tejaswini-206w1a4322</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJASWINI-GALLA-g37-ai-ml</td> 
+</tr>
