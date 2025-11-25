@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANASA-H-O-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PEER SHEIK ABDULLAH MOHD NOORDEEN</td> 
+
+<td style="border : 2px solid green;">sheikabdullahpm</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PEER-SHEIK-ABDULLAH-MOHD-NOORDEEN-g37-ai-ml</td> 
+</tr>
