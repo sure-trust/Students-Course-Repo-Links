@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVENDRA-KUSHWAH-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POOJITHA DEVUNOORI</td> 
+
+<td style="border : 2px solid green;">p00jitha21</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POOJITHA-DEVUNOORI-g37-ai-ml</td> 
+</tr>
