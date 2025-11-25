@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHINAVA-GHOSH-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAJWAL R</td> 
+
+<td style="border : 2px solid green;">prajwalr85488</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAJWAL-R-g37-ai-ml</td> 
+</tr>
