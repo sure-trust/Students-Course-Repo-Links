@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHAY-SHAW-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVENDRA KUSHWAH</td> 
+
+<td style="border : 2px solid green;">devendrakushwah80</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVENDRA-KUSHWAH-g37-ai-ml</td> 
+</tr>
