@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIMRAN-KAUR-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ZABIHA MUSKAN</td> 
+
+<td style="border : 2px solid green;">zabiha11</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ZABIHA-MUSKAN-g37-ai-ml</td> 
+</tr>
