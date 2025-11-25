@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRANJALI-GAJANAN-WARKAD-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NISHITHA SHARANU</td> 
+
+<td style="border : 2px solid green;">nishitha284</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NISHITHA-SHARANU-g37-ai-ml</td> 
+</tr>
