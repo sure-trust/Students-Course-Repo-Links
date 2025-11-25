@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DARAKESU-HEMANTH-PONNAGANTI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YASHVEER SINGH</td> 
+
+<td style="border : 2px solid green;">yyashh03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YASHVEER-SINGH-g37-ai-ml</td> 
+</tr>
