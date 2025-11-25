@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POOJITHA-DEVUNOORI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANAKALAPATI JEEVAN KUMAR</td> 
+
+<td style="border : 2px solid green;">jeevan6699</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANAKALAPATI-JEEVAN-KUMAR-g37-ai-ml</td> 
+</tr>
