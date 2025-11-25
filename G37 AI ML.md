@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PEER-SHEIK-ABDULLAH-MOHD-NOORDEEN-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ABHINAVA GHOSH</td> 
+
+<td style="border : 2px solid green;">abhinava1309</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ABHINAVA-GHOSH-g37-ai-ml</td> 
+</tr>
