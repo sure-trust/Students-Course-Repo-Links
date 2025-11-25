@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANAKALAPATI-JEEVAN-KUMAR-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOLLI SANJAY</td> 
+
+<td style="border : 2px solid green;">kollisanjay-g37python</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOLLI-SANJAY-g37-ai-ml</td> 
+</tr>
