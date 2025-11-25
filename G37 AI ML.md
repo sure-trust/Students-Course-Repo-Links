@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHARCHIT-CHAUHAN-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAPLE MEHRIN MOHD IBRAHIM</td> 
+
+<td style="border : 2px solid green;">mehrin517</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAPLE-MEHRIN-MOHD-IBRAHIM-g37-ai-ml</td> 
+</tr>
