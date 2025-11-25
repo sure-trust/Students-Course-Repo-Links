@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UGGE-VYSHNAVI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHARATH GOWDA C K</td> 
+
+<td style="border : 2px solid green;">sharathgowdack</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHARATH-GOWDA-C-K-g37-ai-ml</td> 
+</tr>
