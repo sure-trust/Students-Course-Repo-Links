@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YASHVEER-SINGH-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HEMA CHALESARA</td> 
+
+<td style="border : 2px solid green;">hemachalesara</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HEMA-CHALESARA-g37-ai-ml</td> 
+</tr>
