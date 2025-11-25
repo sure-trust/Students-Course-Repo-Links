@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAPLE-MEHRIN-MOHD-IBRAHIM-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAHESWARI VAISHNO ROUT</td> 
+
+<td style="border : 2px solid green;">maheswari-rout</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAHESWARI-VAISHNO-ROUT-g37-ai-ml</td> 
+</tr>
