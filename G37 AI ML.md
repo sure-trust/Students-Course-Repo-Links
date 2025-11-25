@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIROTHI-KARTHIKEYA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIMRAN KAUR</td> 
+
+<td style="border : 2px solid green;">06simran</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIMRAN-KAUR-g37-ai-ml</td> 
+</tr>
