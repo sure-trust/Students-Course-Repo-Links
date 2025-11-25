@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NISHITHA-SHARANU-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MENGANI NAVEEN KUMAR</td> 
+
+<td style="border : 2px solid green;">naveenmengani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MENGANI-NAVEEN-KUMAR-g37-ai-ml</td> 
+</tr>
