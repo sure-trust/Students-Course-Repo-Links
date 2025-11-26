@@ -678,3 +678,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHISHEK-SANGAPPA-KOTYAL-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUNAMNENI EEKSHITHA</td> 
+
+<td style="border : 2px solid green;">pandueekshitha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUNAMNENI-EEKSHITHA-g37-ai-ml</td> 
+</tr>
