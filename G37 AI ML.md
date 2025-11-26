@@ -518,3 +518,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YERRA-AKASH-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRIYANSH JAIN</td> 
+
+<td style="border : 2px solid green;">priyansh985</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANSH-JAIN-g37-ai-ml</td> 
+</tr>
