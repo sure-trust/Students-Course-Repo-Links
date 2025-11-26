@@ -582,3 +582,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KEERTHISHREE-TS-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIKITA DATTATRAY SHELKE</td> 
+
+<td style="border : 2px solid green;">nikitashelkeg37python-beep</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIKITA-DATTATRAY-SHELKE-g37-ai-ml</td> 
+</tr>
