@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUPESH-KUMARI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUTHYALA DEEPIKA REDDY</td> 
+
+<td style="border : 2px solid green;">deepika-muthyala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUTHYALA-DEEPIKA-REDDY-g37-ai-ml</td> 
+</tr>
