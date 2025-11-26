@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUNAL-SINGH-JAYANT-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAVELLA HARI KISHORE</td> 
+
+<td style="border : 2px solid green;">harikishore9949</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAVELLA-HARI-KISHORE-g37-ai-ml</td> 
+</tr>
