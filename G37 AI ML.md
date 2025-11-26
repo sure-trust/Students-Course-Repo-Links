@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHARITHA-GOTTIMUKKULA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIJAY LODHI</td> 
+
+<td style="border : 2px solid green;">vijaylodhi1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIJAY-LODHI-g37-ai-ml</td> 
+</tr>
