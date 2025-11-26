@@ -630,3 +630,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BUSSAREDDY-CHETANA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANJAI R</td> 
+
+<td style="border : 2px solid green;">sanjai2005-r</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANJAI-R-g37-ai-ml</td> 
+</tr>
