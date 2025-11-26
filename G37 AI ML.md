@@ -550,3 +550,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VAISHNAVI-WANJALE-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMEERA APPIKONDA</td> 
+
+<td style="border : 2px solid green;">sameeraappikondag37python-cyber</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMEERA-APPIKONDA-g37-ai-ml</td> 
+</tr>
