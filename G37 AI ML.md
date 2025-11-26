@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-RAI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALLAVI</td> 
+
+<td style="border : 2px solid green;">pallavi-web2002</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALLAVI-g37-ai-ml</td> 
+</tr>
