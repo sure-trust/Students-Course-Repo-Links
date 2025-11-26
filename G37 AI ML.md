@@ -542,3 +542,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARGIS-MUSTAFA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VAISHNAVI WANJALE</td> 
+
+<td style="border : 2px solid green;">vaishnavi-0212</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VAISHNAVI-WANJALE-g37-ai-ml</td> 
+</tr>
