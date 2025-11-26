@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHIDHA-DUUTA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAITANYA BHARAT DUSANE</td> 
+
+<td style="border : 2px solid green;">976333</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAITANYA-BHARAT-DUSANE-g37-ai-ml</td> 
+</tr>
