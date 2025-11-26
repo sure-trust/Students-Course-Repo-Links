@@ -574,3 +574,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAJ-CHOUHAN-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KEERTHISHREE TS</td> 
+
+<td style="border : 2px solid green;">keerthishree---g37-python</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KEERTHISHREE-TS-g37-ai-ml</td> 
+</tr>
