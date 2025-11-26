@@ -638,3 +638,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANJAI-R-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SWATI PARIT</td> 
+
+<td style="border : 2px solid green;">swatiparit7889</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SWATI-PARIT-g37-ai-ml</td> 
+</tr>
