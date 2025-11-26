@@ -534,3 +534,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-SHARMA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NARGIS MUSTAFA</td> 
+
+<td style="border : 2px solid green;">nargismustafa</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NARGIS-MUSTAFA-g37-ai-ml</td> 
+</tr>
