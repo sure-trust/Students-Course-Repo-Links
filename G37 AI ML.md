@@ -478,3 +478,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAITANYA-BHARAT-DUSANE-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PITTA SHIRISHA</td> 
+
+<td style="border : 2px solid green;">pittashirisha-hub</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PITTA-SHIRISHA-g37-ai-ml</td> 
+</tr>
