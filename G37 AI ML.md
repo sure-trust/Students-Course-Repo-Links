@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOMAL-GAWNDE-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUPESH KUMARI</td> 
+
+<td style="border : 2px solid green;">codisiri9675</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUPESH-KUMARI-g37-ai-ml</td> 
+</tr>
