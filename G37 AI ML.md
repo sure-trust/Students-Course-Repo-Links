@@ -614,3 +614,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANISHKARAN-K-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">R JEEVAN KUMAR</td> 
+
+<td style="border : 2px solid green;">jeevankumar-502</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/R-JEEVAN-KUMAR-g37-ai-ml</td> 
+</tr>
