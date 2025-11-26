@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YOGITA-KHOOBCHANDANI-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHEREDDY MAHIGEETHIKA</td> 
+
+<td style="border : 2px solid green;">maggie-369</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHEREDDY-MAHIGEETHIKA-g37-ai-ml</td> 
+</tr>
