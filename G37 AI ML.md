@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIMHADRI-KONDAPALLY-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHARITHA GOTTIMUKKULA</td> 
+
+<td style="border : 2px solid green;">charithareddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHARITHA-GOTTIMUKKULA-g37-ai-ml</td> 
+</tr>
