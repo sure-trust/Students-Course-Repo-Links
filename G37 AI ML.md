@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAVELLA-HARI-KISHORE-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YOGITA KHOOBCHANDANI</td> 
+
+<td style="border : 2px solid green;">yogitakhoobchandani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YOGITA-KHOOBCHANDANI-g37-ai-ml</td> 
+</tr>
