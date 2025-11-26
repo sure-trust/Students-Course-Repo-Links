@@ -494,3 +494,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RISHITHA-KALUVALA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BADHRI PRASATH D R</td> 
+
+<td style="border : 2px solid green;">badhriprasathdrg37python</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BADHRI-PRASATH-D-R-g37-ai-ml</td> 
+</tr>
