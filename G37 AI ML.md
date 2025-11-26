@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/G-CHARAN-CHANDRA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOMAL GAWNDE</td> 
+
+<td style="border : 2px solid green;">gawndeks</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOMAL-GAWNDE-g37-ai-ml</td> 
+</tr>
