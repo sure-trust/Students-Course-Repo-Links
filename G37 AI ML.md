@@ -502,3 +502,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BADHRI-PRASATH-D-R-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MONDRU ANIL KUMAR</td> 
+
+<td style="border : 2px solid green;">mondruanilkumar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MONDRU-ANIL-KUMAR-g37-ai-ml</td> 
+</tr>
