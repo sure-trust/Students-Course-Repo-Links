@@ -526,3 +526,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANSH-JAIN-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPAK SHARMA</td> 
+
+<td style="border : 2px solid green;">ccigrmb7dvrnvhsie</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-SHARMA-g37-ai-ml</td> 
+</tr>
