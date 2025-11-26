@@ -486,3 +486,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PITTA-SHIRISHA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHITHA KALUVALA</td> 
+
+<td style="border : 2px solid green;">rishitha-1228</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHITHA-KALUVALA-g37-ai-ml</td> 
+</tr>
