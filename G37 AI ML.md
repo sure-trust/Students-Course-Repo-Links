@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANKIT-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KONDA ACHIREDDY</td> 
+
+<td style="border : 2px solid green;">achireddyg37python</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KONDA-ACHIREDDY-g37-ai-ml</td> 
+</tr>
