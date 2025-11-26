@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KONDA-ACHIREDDY-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">IMADABATHINI KRANTHI</td> 
+
+<td style="border : 2px solid green;">kranthi-i</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/IMADABATHINI-KRANTHI-g37-ai-ml</td> 
+</tr>
