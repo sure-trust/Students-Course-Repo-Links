@@ -686,3 +686,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUNAMNENI-EEKSHITHA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARTHIKEYA SAI CHARAN SREEKARAM</td> 
+
+<td style="border : 2px solid green;">karthikeya-ind</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIKEYA-SAI-CHARAN-SREEKARAM-g37-ai-ml</td> 
+</tr>
