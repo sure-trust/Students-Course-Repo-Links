@@ -598,3 +598,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAURAV-PRAKASH-SAPKAR-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VENKATESH DESHPANDE</td> 
+
+<td style="border : 2px solid green;">venkateshg37</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VENKATESH-DESHPANDE-g37-ai-ml</td> 
+</tr>
