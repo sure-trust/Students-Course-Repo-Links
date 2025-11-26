@@ -462,3 +462,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMEERA-APPIKONDA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ABHIDHA DUUTA</td> 
+
+<td style="border : 2px solid green;">diya171</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ABHIDHA-DUUTA-g37-ai-ml</td> 
+</tr>
