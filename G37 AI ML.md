@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHEREDDY-MAHIGEETHIKA-g37-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIMHADRI KONDAPALLY</td> 
+
+<td style="border : 2px solid green;">kondapallysimhadri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIMHADRI-KONDAPALLY-g37-ai-ml</td> 
+</tr>
