@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVARATHRI-ASHMITHA-g19-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINEELA VADLAMURI</td> 
+
+<td style="border : 2px solid green;">vineelavadlamuri-24</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINEELA-VADLAMURI-g19-sql-and-powerbi</td> 
+</tr>
