@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUMBAJI-SHIVANI-g19-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMIR KAMBLE</td> 
+
+<td style="border : 2px solid green;">samkamble523</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMIR-KAMBLE-g19-sql-and-powerbi</td> 
+</tr>
