@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMIR-KAMBLE-g19-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YAMPADAPU SAI APARNA</td> 
+
+<td style="border : 2px solid green;">apooh2004</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YAMPADAPU-SAI-APARNA-g19-sql-and-powerbi</td> 
+</tr>
