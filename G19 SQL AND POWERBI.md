@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BELLAMKONDA-ANKAMMA-g19-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVARATHRI ASHMITHA</td> 
+
+<td style="border : 2px solid green;">ashmitha-shivarathri26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVARATHRI-ASHMITHA-g19-sql-and-powerbi</td> 
+</tr>
