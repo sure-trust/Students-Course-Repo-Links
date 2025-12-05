@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADIMULAM-RAHUL-SAI-g19-sql-and-powerbi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUMBAJI SHIVANI</td> 
+
+<td style="border : 2px solid green;">shivanikumbaji</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUMBAJI-SHIVANI-g19-sql-and-powerbi</td> 
+</tr>
