@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINAY-KUMAR-HC-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVANNAGOUDA PATIL</td> 
+
+<td style="border : 2px solid green;">shivannagoudpatil</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVANNAGOUDA-PATIL-g14-autocad</td> 
+</tr>
