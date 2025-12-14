@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SELVAKUMAR-K-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JULIA JAMES DANIEL CHUANG</td> 
+
+<td style="border : 2px solid green;">juliajamesdaniel-wq</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JULIA-JAMES-DANIEL-CHUANG-g14-autocad</td> 
+</tr>
