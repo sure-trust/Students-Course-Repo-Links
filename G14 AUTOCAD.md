@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAHESH-GUNDU-GOUDA-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHIRAG M</td> 
+
+<td style="border : 2px solid green;">chiragmg14autocad-mech</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHIRAG-M-g14-autocad</td> 
+</tr>
