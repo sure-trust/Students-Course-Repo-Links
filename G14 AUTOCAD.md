@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UDAY-KUMAR-H-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THEJASHWINI H</td> 
+
+<td style="border : 2px solid green;">thejashwinibh22-svg</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THEJASHWINI-H-g14-autocad</td> 
+</tr>
