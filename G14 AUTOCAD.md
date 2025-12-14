@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVANNAGOUDA-PATIL-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANANYA BANGERA</td> 
+
+<td style="border : 2px solid green;">ananyag14autocad-beep</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANANYA-BANGERA-g14-autocad</td> 
+</tr>
