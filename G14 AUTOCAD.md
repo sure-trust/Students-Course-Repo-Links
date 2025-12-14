@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRAJWAL-GANGER-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHRUTHI V M</td> 
+
+<td style="border : 2px solid green;">shruthi-12o5</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHRUTHI-V-M-g14-autocad</td> 
+</tr>
