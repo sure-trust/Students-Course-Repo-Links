@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-KUMAR-G-S-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDAN R</td> 
+
+<td style="border : 2px solid green;">chandanrg14autocad-arch</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAN-R-g14-autocad</td> 
+</tr>
