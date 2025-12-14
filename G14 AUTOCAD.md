@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KHUSHI-YADAV-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POORNIMA V YAKKUNDI</td> 
+
+<td style="border : 2px solid green;">poornimavy07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POORNIMA-V-YAKKUNDI-g14-autocad</td> 
+</tr>
