@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMED-FAZLULLA-D-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAJWAL KUMAR E G</td> 
+
+<td style="border : 2px solid green;">mechanical-designer</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAJWAL-KUMAR-E-G-g14-autocad</td> 
+</tr>
