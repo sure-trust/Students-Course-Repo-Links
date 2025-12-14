@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAMITHA-V-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUSHIKESH SHINDE</td> 
+
+<td style="border : 2px solid green;">rushi-7-mech</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUSHIKESH-SHINDE-g14-autocad</td> 
+</tr>
