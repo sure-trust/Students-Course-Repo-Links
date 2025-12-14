@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KIRAN-M-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KHUSHI YADAV</td> 
+
+<td style="border : 2px solid green;">khushiyaadav198</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KHUSHI-YADAV-g14-autocad</td> 
+</tr>
