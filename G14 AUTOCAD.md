@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BRAHMENDRA-E-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUHAS R</td> 
+
+<td style="border : 2px solid green;">suhasrme26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUHAS-R-g14-autocad</td> 
+</tr>
