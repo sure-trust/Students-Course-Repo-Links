@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SACHIN-UDAY-NAIK-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAVEEN BASAVARAJ ANGADI</td> 
+
+<td style="border : 2px solid green;">praveenbangadi#hi-there-</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAVEEN-BASAVARAJ-ANGADI-g14-autocad</td> 
+</tr>
