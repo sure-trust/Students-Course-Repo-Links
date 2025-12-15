@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MONISHA-M-H-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANDESH R MINDOLKAR</td> 
+
+<td style="border : 2px solid green;">sandeshmindolkar-ops</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANDESH-R-MINDOLKAR-g14-autocad</td> 
+</tr>
