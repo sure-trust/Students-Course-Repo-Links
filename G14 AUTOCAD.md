@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRAGATI-BASAVARAJ-HONNAGUDI-g14-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMOGH B</td> 
+
+<td style="border : 2px solid green;">amogh7200</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMOGH-B-g14-autocad</td> 
+</tr>
