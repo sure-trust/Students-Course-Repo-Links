@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JAYRAJ-DESHMUKH-g9-ds</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KRITIKA PAL</td> 
+
+<td style="border : 2px solid green;">kritikapal490</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KRITIKA-PAL-g9-ds</td> 
+</tr>
