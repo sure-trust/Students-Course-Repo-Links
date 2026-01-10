@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AZEEMA-KHANUM-g4-sap-abap</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DNYANESHWAR SATISH PATIL</td> 
+
+<td style="border : 2px solid green;">dnyanp300</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DNYANESHWAR-SATISH-PATIL-g4-sap-abap</td> 
+</tr>
