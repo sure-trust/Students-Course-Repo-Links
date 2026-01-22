@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIVEK-PANDURANG-VARUDE-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUHAMMED MIDLAJ P</td> 
+
+<td style="border : 2px solid green;"></td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUHAMMED-MIDLAJ-P-g4-gen-ai</td> 
+</tr>
