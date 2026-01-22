@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RANVEER-BAJIRAO-JOGDANDE-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAHIP BANSAL</td> 
+
+<td style="border : 2px solid green;">mahipbansal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAHIP-BANSAL-g4-gen-ai</td> 
+</tr>
