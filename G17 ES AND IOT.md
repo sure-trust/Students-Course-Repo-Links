@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DUDDU-SIDDARTH-g17-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUCHI KUMARI</td> 
+
+<td style="border : 2px solid green;">puchic</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUCHI-KUMARI-g17-es-and-iot</td> 
+</tr>
