@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VISHNUVARDHAN-KUMMARA-g17-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOTHAPALLI MARUTHI</td> 
+
+<td style="border : 2px solid green;">kothapallimaruthig17esiot</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOTHAPALLI-MARUTHI-g17-es-and-iot</td> 
+</tr>
