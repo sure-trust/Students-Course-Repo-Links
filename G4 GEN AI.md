@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NEHA-SEHGAL-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAJAT UTTAM RANVIR</td> 
+
+<td style="border : 2px solid green;">rajat3154</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAJAT-UTTAM-RANVIR-g4-gen-ai</td> 
+</tr>
