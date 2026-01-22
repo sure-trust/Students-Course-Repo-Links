@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUCHI-KUMARI-g17-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARTHIK N R</td> 
+
+<td style="border : 2px solid green;">karthik184312</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARTHIK-N-R-g17-es-and-iot</td> 
+</tr>
