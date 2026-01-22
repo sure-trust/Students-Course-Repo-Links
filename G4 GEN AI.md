@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAJAT-UTTAM-RANVIR-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPIKA GANDLA</td> 
+
+<td style="border : 2px solid green;">deepikagandla7456</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPIKA-GANDLA-g4-gen-ai</td> 
+</tr>
