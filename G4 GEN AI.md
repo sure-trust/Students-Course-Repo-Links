@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KINJEL-SHARMA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NEHA SEHGAL</td> 
+
+<td style="border : 2px solid green;">nehasehgal18</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NEHA-SEHGAL-g4-gen-ai</td> 
+</tr>
