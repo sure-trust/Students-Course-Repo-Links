@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAGAR-BIRAJADAR-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUMAR SATYAM</td> 
+
+<td style="border : 2px solid green;">kumarsatyam51</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUMAR-SATYAM-g4-gen-ai</td> 
+</tr>
