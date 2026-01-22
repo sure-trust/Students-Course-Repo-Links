@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAKTHIVEL-V-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KODAVATI SAI SANDEEP</td> 
+
+<td style="border : 2px solid green;">sandeepkodavati98</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KODAVATI-SAI-SANDEEP-g4-gen-ai</td> 
+</tr>
