@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KODAVATI-SAI-SANDEEP-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MRIDULTECH</td> 
+
+<td style="border : 2px solid green;">mridultech</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MRIDULTECH-g4-gen-ai</td> 
+</tr>
