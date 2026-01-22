@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-KUMAR-GUPTA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RANVEER BAJIRAO JOGDANDE</td> 
+
+<td style="border : 2px solid green;">ranveer-jogdande</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RANVEER-BAJIRAO-JOGDANDE-g4-gen-ai</td> 
+</tr>
