@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEEPIKA-GANDLA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ISHAN PANKAJ JADHAV</td> 
+
+<td style="border : 2px solid green;">ishanjadhav26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ISHAN-PANKAJ-JADHAV-g4-gen-ai</td> 
+</tr>
