@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUHAMMED-MIDLAJ-P-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOUMYARUP BASU</td> 
+
+<td style="border : 2px solid green;">soumyarupg3genai-ui</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOUMYARUP-BASU-g4-gen-ai</td> 
+</tr>
