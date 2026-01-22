@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAHIP-BANSAL-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIVEK PANDURANG VARUDE</td> 
+
+<td style="border : 2px solid green;">vivekvarude</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIVEK-PANDURANG-VARUDE-g4-gen-ai</td> 
+</tr>
