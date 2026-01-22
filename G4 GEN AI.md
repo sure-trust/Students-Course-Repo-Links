@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VISHAKHA-KESHAV-GHATOLE-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKASH KUMAR GUPTA</td> 
+
+<td style="border : 2px solid green;">akashgupta-06</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-KUMAR-GUPTA-g4-gen-ai</td> 
+</tr>
