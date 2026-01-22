@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RATIK-P-R-g17-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DUDDU SIDDARTH</td> 
+
+<td style="border : 2px solid green;">duddusiddarth</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DUDDU-SIDDARTH-g17-es-and-iot</td> 
+</tr>
