@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHITIMINENI-SURYASARIKA-g17-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NISHA MANDAL S</td> 
+
+<td style="border : 2px solid green;">nishamandal980-glitch</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NISHA-MANDAL-S-g17-es-and-iot</td> 
+</tr>
