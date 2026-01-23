@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DIVYA-L-g17-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KALPANA CHAWLA S</td> 
+
+<td style="border : 2px solid green;">keerthana122003</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KALPANA-CHAWLA-S-g17-es-and-iot</td> 
+</tr>
