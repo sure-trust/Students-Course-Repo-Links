@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARYAN-CHAUHAN-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DILPREET SINGH</td> 
+
+<td style="border : 2px solid green;">dilpreet-mann</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DILPREET-SINGH-g4-gen-ai</td> 
+</tr>
