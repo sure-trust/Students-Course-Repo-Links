@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ALYANA-PRADEEP-KUMAR-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOWMIYA R</td> 
+
+<td style="border : 2px solid green;">genai-internship</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOWMIYA-R-g4-gen-ai</td> 
+</tr>
