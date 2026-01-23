@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANDLAMUDI-ROHINI-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KESEPALLI BHARATH KUMAR</td> 
+
+<td style="border : 2px solid green;">bharathkbk12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KESEPALLI-BHARATH-KUMAR-g4-gen-ai</td> 
+</tr>
