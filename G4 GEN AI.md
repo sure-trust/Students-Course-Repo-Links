@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VARPE-KALYANI-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDARU RAM JAYADEEP</td> 
+
+<td style="border : 2px solid green;">ramjayadeepb</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDARU-RAM-JAYADEEP-g4-gen-ai</td> 
+</tr>
