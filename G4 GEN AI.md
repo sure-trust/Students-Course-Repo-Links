@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADIB-HUSSAIN-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOMA NIKHITHA</td> 
+
+<td style="border : 2px solid green;">nikhitha9052</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOMA-NIKHITHA-g4-gen-ai</td> 
+</tr>
