@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUSUMA-S-g17-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHARATH SIMHA REDDY SIMHADRI</td> 
+
+<td style="border : 2px solid green;">bharathsimhareddysimhadri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHARATH-SIMHA-REDDY-SIMHADRI-g17-es-and-iot</td> 
+</tr>
