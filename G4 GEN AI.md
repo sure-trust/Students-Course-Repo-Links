@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-ROHIT-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHITA PAUL</td> 
+
+<td style="border : 2px solid green;">rishpaul04</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHITA-PAUL-g4-gen-ai</td> 
+</tr>
