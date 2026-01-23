@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANDARU-RAM-JAYADEEP-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHRIJITH M D</td> 
+
+<td style="border : 2px solid green;">shadowmonarchui</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHRIJITH-M-D-g4-gen-ai</td> 
+</tr>
