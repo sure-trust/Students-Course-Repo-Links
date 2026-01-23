@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAVEEN-PRAKASH-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SWARNA SURYA RISHITHA</td> 
+
+<td style="border : 2px solid green;">rishitha-1124</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SWARNA-SURYA-RISHITHA-g4-gen-ai</td> 
+</tr>
