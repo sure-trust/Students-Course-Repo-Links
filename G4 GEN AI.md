@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARINDAM-MAHAPATRA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROHAN RAJ GUPTA</td> 
+
+<td style="border : 2px solid green;">rohan28203</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROHAN-RAJ-GUPTA-g4-gen-ai</td> 
+</tr>
