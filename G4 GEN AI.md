@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LAKSHVEER-SINGH-RATHORE-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ASHU ANIL YADAV</td> 
+
+<td style="border : 2px solid green;">ashu101200</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ASHU-ANIL-YADAV-g4-gen-ai</td> 
+</tr>
