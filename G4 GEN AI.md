@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHRUTI-KUMARI-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADIB HUSSAIN</td> 
+
+<td style="border : 2px solid green;">aadibhussain</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADIB-HUSSAIN-g4-gen-ai</td> 
+</tr>
