@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANMOHAN-SHARMA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAY BEEDKAR</td> 
+
+<td style="border : 2px solid green;">jay2244-byte</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAY-BEEDKAR-g4-gen-ai</td> 
+</tr>
