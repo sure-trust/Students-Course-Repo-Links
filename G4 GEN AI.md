@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAYATRI-SANJEEV-MAHAJAN-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAVEEN PRAKASH</td> 
+
+<td style="border : 2px solid green;">charlieneyon-sh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAVEEN-PRAKASH-g4-gen-ai</td> 
+</tr>
