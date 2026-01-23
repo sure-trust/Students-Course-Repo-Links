@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SWARANSH-MISHRA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUKSHITA G</td> 
+
+<td style="border : 2px solid green;">rukshita</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUKSHITA-G-g4-gen-ai</td> 
+</tr>
