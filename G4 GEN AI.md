@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIVEK-SHARAD-SONAWANE-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VARPE KALYANI</td> 
+
+<td style="border : 2px solid green;">varpekalyani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VARPE-KALYANI-g4-gen-ai</td> 
+</tr>
