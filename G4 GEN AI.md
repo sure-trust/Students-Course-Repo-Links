@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROHAN-RAJ-GUPTA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ALYANA PRADEEP KUMAR</td> 
+
+<td style="border : 2px solid green;">alyana-pradeep</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ALYANA-PRADEEP-KUMAR-g4-gen-ai</td> 
+</tr>
