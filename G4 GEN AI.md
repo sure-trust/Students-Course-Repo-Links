@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ASHITA-SAXENA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K ROHIT</td> 
+
+<td style="border : 2px solid green;">my-site-boop</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K-ROHIT-g4-gen-ai</td> 
+</tr>
