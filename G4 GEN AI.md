@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KESEPALLI-BHARATH-KUMAR-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SWARANSH MISHRA</td> 
+
+<td style="border : 2px solid green;">swaransh-mishra</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SWARANSH-MISHRA-g4-gen-ai</td> 
+</tr>
