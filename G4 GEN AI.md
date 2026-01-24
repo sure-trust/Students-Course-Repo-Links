@@ -454,3 +454,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TADEM-MADHURI-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JARPULA KALYAN</td> 
+
+<td style="border : 2px solid green;">kalyan0996</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JARPULA-KALYAN-g4-gen-ai</td> 
+</tr>
