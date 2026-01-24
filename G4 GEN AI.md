@@ -438,3 +438,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOLIPAKA-KEERTHANA-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SRINIVAS</td> 
+
+<td style="border : 2px solid green;">srinivas-pullela</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SRINIVAS-g4-gen-ai</td> 
+</tr>
