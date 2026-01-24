@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOWMIYA-R-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHOYAR SUJAY MADHUKAR</td> 
+
+<td style="border : 2px solid green;">sujay174</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHOYAR-SUJAY-MADHUKAR-g4-gen-ai</td> 
+</tr>
