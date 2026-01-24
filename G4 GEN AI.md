@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BHOYAR-SUJAY-MADHUKAR-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PARISHA ACHYUTH</td> 
+
+<td style="border : 2px solid green;">achyuth69</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PARISHA-ACHYUTH-g4-gen-ai</td> 
+</tr>
