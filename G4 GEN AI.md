@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-RAYVANTH-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAHEEN KHAN</td> 
+
+<td style="border : 2px solid green;">shaheen-code-cmd</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAHEEN-KHAN-g4-gen-ai</td> 
+</tr>
