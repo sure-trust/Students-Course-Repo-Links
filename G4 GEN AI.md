@@ -494,3 +494,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUBIKSHAS-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINIT MAHENDRA MARUMARDANE</td> 
+
+<td style="border : 2px solid green;">my-project</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINIT-MAHENDRA-MARUMARDANE-g4-gen-ai</td> 
+</tr>
