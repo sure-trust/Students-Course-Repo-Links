@@ -502,3 +502,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINIT-MAHENDRA-MARUMARDANE-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOMMURI SAI GOUTHAM</td> 
+
+<td style="border : 2px solid green;">goutham-kommuri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOMMURI-SAI-GOUTHAM-g4-gen-ai</td> 
+</tr>
