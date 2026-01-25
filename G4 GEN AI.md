@@ -526,3 +526,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NIRUGANTI-VYSHNAVI-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RITIK SHYAMBABU MEHTA</td> 
+
+<td style="border : 2px solid green;">ritikmehta080905</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RITIK-SHYAMBABU-MEHTA-g4-gen-ai</td> 
+</tr>
