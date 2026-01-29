@@ -542,3 +542,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AHER-ANUSHKA-YOGESH-g4-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUCHI RAJPUT</td> 
+
+<td style="border : 2px solid green;">ruchi0123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUCHI-RAJPUT-g4-gen-ai</td> 
+</tr>
