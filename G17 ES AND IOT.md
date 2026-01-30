@@ -510,3 +510,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAITRA-KRISHNA-GOUDA-g17-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANGALA JHANSI</td> 
+
+<td style="border : 2px solid green;">mangalajhansi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANGALA-JHANSI-g17-es-and-iot</td> 
+</tr>
