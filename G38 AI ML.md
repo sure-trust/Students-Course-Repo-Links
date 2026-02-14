@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GRANDHI-SUJAINA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAUDHARI ANIKET SANJAY</td> 
+
+<td style="border : 2px solid green;">aniket-876</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAUDHARI-ANIKET-SANJAY-g38-ai-ml</td> 
+</tr>
