@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANKUR-MOHAN-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YAKKALURU HARISRUJAN</td> 
+
+<td style="border : 2px solid green;">harisrujanyakkaluru</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YAKKALURU-HARISRUJAN-g1-data-analytics</td> 
+</tr>
