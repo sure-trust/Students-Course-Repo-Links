@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHUKKALA-PRANAVIKA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANUSHIKA SHARMA</td> 
+
+<td style="border : 2px solid green;">anushika22</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANUSHIKA-SHARMA-g38-ai-ml</td> 
+</tr>
