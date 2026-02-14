@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GULSHAN-KUMAR-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANJEET MUDULI</td> 
+
+<td style="border : 2px solid green;">manjeet143143</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANJEET-MUDULI-g38-ai-ml</td> 
+</tr>
