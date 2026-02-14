@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHINNABATHINI-MADHUSHALINI-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PENDYALA UDAY KRANTH</td> 
+
+<td style="border : 2px solid green;">uday2kranth</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PENDYALA-UDAY-KRANTH-g1-data-analytics</td> 
+</tr>
