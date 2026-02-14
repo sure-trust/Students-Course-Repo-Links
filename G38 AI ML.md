@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAMIDISHETTY-PUJITHA-SHRINIVAS-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VEDANT PARAG PATIL</td> 
+
+<td style="border : 2px solid green;">vedantpatil03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VEDANT-PARAG-PATIL-g38-ai-ml</td> 
+</tr>
