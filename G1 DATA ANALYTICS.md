@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BIBEK-KR-MAITY-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUNAL DEVIDAS NANDE</td> 
+
+<td style="border : 2px solid green;">kunalnande123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUNAL-DEVIDAS-NANDE-g1-data-analytics</td> 
+</tr>
