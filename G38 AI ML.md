@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BADE-PRIYANKA-RAMESH-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KORUPROLU KUMAR MAHESH</td> 
+
+<td style="border : 2px solid green;">maheshkoruprolu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KORUPROLU-KUMAR-MAHESH-g38-ai-ml</td> 
+</tr>
