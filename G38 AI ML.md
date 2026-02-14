@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRAVESH-MANOHAR-NANDANWAR-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIDHI KALURAM SANDBHOR</td> 
+
+<td style="border : 2px solid green;">nidhi1003118</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIDHI-KALURAM-SANDBHOR-g38-ai-ml</td> 
+</tr>
