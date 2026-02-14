@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KURAKU-JAGADEESH-KUMAR-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARINDAM KONWAR</td> 
+
+<td style="border : 2px solid green;">lonewolff2003</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARINDAM-KONWAR-g1-data-analytics</td> 
+</tr>
