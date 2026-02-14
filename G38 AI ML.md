@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-NAJURUNISHA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURRI NEELIMA</td> 
+
+<td style="border : 2px solid green;">neelima-18</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURRI-NEELIMA-g38-ai-ml</td> 
+</tr>
