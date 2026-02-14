@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VYSHNAVI-BAPATLA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MONDHODDI KAVYA</td> 
+
+<td style="border : 2px solid green;">kavyachowdhary02</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MONDHODDI-KAVYA-g38-ai-ml</td> 
+</tr>
