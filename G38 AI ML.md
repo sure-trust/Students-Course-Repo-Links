@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAUDHARI-ANIKET-SANJAY-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHUKKALA PRANAVIKA</td> 
+
+<td style="border : 2px solid green;">chukkala-pranavika</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHUKKALA-PRANAVIKA-g38-ai-ml</td> 
+</tr>
