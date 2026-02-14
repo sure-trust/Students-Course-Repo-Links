@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-MAHAJAN-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BADE PRIYANKA RAMESH</td> 
+
+<td style="border : 2px solid green;">priyankabade11</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BADE-PRIYANKA-RAMESH-g38-ai-ml</td> 
+</tr>
