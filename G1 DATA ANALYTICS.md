@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MALLELA-SAHITHI-REDDY-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUKHSAR PARVEEN</td> 
+
+<td style="border : 2px solid green;">rukhsar-parveen2001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUKHSAR-PARVEEN-g1-data-analytics</td> 
+</tr>
