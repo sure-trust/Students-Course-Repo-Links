@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANDLA-SHRUTHI-KIRTHANA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VAISHAL DSOUZA</td> 
+
+<td style="border : 2px solid green;">vaishaldsouza</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VAISHAL-DSOUZA-g38-ai-ml</td> 
+</tr>
