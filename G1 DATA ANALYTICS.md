@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PENDYALA-UDAY-KRANTH-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GORLI RUPENDRA</td> 
+
+<td style="border : 2px solid green;">rupendragorli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GORLI-RUPENDRA-g1-data-analytics</td> 
+</tr>
