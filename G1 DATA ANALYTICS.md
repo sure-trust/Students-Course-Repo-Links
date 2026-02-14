@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUKHSAR-PARVEEN-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAYANK KHANDELWAL</td> 
+
+<td style="border : 2px solid green;">manavkhandelwal401</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAYANK-KHANDELWAL-g1-data-analytics</td> 
+</tr>
