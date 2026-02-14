@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VAISHAL-DSOUZA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BUDDA NAGA SAMBA S V DURGA SAI</td> 
+
+<td style="border : 2px solid green;">durgasai28</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BUDDA-NAGA-SAMBA-S-V-DURGA-SAI-g38-ai-ml</td> 
+</tr>
