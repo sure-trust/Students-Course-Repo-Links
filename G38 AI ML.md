@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-SUNDAR-P-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHHAVI VARSHNEY</td> 
+
+<td style="border : 2px solid green;">chhavi-varshney</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHHAVI-VARSHNEY-g38-ai-ml</td> 
+</tr>
