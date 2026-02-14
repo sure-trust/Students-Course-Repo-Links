@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANSHU-RANJAN-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ERAKALA SRINADH</td> 
+
+<td style="border : 2px solid green;">srinadh1707</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ERAKALA-SRINADH-g38-ai-ml</td> 
+</tr>
