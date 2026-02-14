@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAURABH-KUMAR-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOWTHAM CHOWDARY N C</td> 
+
+<td style="border : 2px solid green;">chowdary651</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOWTHAM-CHOWDARY-N-C-g38-ai-ml</td> 
+</tr>
