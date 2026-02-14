@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MADEM-LAKSHMI-ROHITHA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHAMMAD SAMEER RANGREJ</td> 
+
+<td style="border : 2px solid green;">mdsam7773</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMAD-SAMEER-RANGREJ-g38-ai-ml</td> 
+</tr>
