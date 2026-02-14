@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARINDAM-KONWAR-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURUBA JAGADEESH</td> 
+
+<td style="border : 2px solid green;">jagadeesh-123-k</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-JAGADEESH-g1-data-analytics</td> 
+</tr>
