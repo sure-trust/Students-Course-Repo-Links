@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JAWANJAL-PIYUSH-ASHOK-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALAK GUPTA</td> 
+
+<td style="border : 2px solid green;">palakgupta29</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALAK-GUPTA-g1-data-analytics</td> 
+</tr>
