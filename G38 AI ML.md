@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NIDHI-KALURAM-SANDBHOR-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAMIDISHETTY PUJITHA SHRINIVAS</td> 
+
+<td style="border : 2px solid green;">pujitha1809</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAMIDISHETTY-PUJITHA-SHRINIVAS-g38-ai-ml</td> 
+</tr>
