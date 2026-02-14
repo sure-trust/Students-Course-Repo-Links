@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-JAGADEESH-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHURE GAURI SANTOSH</td> 
+
+<td style="border : 2px solid green;">gauribhureg1da</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHURE-GAURI-SANTOSH-g1-data-analytics</td> 
+</tr>
