@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MONDHODDI-KAVYA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRIYANSHU RANJAN</td> 
+
+<td style="border : 2px solid green;">priyanshu7275</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANSHU-RANJAN-g38-ai-ml</td> 
+</tr>
