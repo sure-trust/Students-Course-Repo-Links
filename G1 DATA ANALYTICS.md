@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEBANSU SEKHAR ROUT</td> 
+
+<td style="border : 2px solid green;">debansur12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEBANSU-SEKHAR-ROUT-g1-data-analytics</td> 
+</tr>
