@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GORLI-RUPENDRA-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUBHADIP PAL</td> 
+
+<td style="border : 2px solid green;">subhadip32</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUBHADIP-PAL-g1-data-analytics</td> 
+</tr>
