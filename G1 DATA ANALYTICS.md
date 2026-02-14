@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LAKUM-HARDIP-DINESHBHAI-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JINKALA VISHNU VARDHAN</td> 
+
+<td style="border : 2px solid green;">jinkalavishnuvardhan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JINKALA-VISHNU-VARDHAN-g1-data-analytics</td> 
+</tr>
