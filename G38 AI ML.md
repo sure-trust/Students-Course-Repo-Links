@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KORUPROLU-KUMAR-MAHESH-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">FAISAL MOHSIN</td> 
+
+<td style="border : 2px solid green;">faisalmohsin03-ctrl</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/FAISAL-MOHSIN-g38-ai-ml</td> 
+</tr>
