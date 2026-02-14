@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KALASH-UPADHYAY-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSH MAHAJAN</td> 
+
+<td style="border : 2px solid green;">theharshmahajan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-MAHAJAN-g38-ai-ml</td> 
+</tr>
