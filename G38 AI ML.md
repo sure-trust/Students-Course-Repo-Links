@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUKKU-YASASWINE-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VAISHNAVI RAJABHAU UGALE</td> 
+
+<td style="border : 2px solid green;">vaishnavi-2003py</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VAISHNAVI-RAJABHAU-UGALE-g38-ai-ml</td> 
+</tr>
