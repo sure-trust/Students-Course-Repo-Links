@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHHAVI-VARSHNEY-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VEMURI VENNELA SIRI</td> 
+
+<td style="border : 2px solid green;">vennela-siri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VEMURI-VENNELA-SIRI-g38-ai-ml</td> 
+</tr>
