@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMAD-SAMEER-RANGREJ-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KALASH UPADHYAY</td> 
+
+<td style="border : 2px solid green;">kalashu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KALASH-UPADHYAY-g38-ai-ml</td> 
+</tr>
