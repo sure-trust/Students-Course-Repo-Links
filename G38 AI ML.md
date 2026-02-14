@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHREYANSH-KUMAR-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAVESH MANOHAR NANDANWAR</td> 
+
+<td style="border : 2px solid green;">pn-dev-in</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAVESH-MANOHAR-NANDANWAR-g38-ai-ml</td> 
+</tr>
