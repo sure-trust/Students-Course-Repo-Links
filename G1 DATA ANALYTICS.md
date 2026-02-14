@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARTI-KUMARI-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MALLELA SAHITHI REDDY</td> 
+
+<td style="border : 2px solid green;">sahithimallela</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MALLELA-SAHITHI-REDDY-g1-data-analytics</td> 
+</tr>
