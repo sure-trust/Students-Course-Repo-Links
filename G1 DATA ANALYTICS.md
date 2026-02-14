@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUBHADIP-PAL-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARTI KUMARI</td> 
+
+<td style="border : 2px solid green;">artikumarig1dataanalytics-droid</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARTI-KUMARI-g1-data-analytics</td> 
+</tr>
