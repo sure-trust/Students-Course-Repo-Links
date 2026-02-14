@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAYANK-KHANDELWAL-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURAKU JAGADEESH KUMAR</td> 
+
+<td style="border : 2px solid green;">call-sign-mj</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURAKU-JAGADEESH-KUMAR-g1-data-analytics</td> 
+</tr>
