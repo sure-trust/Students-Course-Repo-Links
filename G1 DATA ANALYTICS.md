@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JINKALA-VISHNU-VARDHAN-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHITH RAJ PUROHIT</td> 
+
+<td style="border : 2px solid green;">harshithrajpurohit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHITH-RAJ-PUROHIT-g1-data-analytics</td> 
+</tr>
