@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUNAL-DEVIDAS-NANDE-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K JAHNAVI</td> 
+
+<td style="border : 2px solid green;">jahnavik-0705</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K-JAHNAVI-g1-data-analytics</td> 
+</tr>
