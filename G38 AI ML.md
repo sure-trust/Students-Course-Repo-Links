@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/FAISAL-MOHSIN-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHITAL DAYANAND KOHARE</td> 
+
+<td style="border : 2px solid green;">shitalkohare4-create</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHITAL-DAYANAND-KOHARE-g38-ai-ml</td> 
+</tr>
