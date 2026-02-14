@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOSHIREDDY-MANIKANTA-HARILAKSHMI-SHANMUKHI-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YAKKALA SIVA SAI KUMAR</td> 
+
+<td style="border : 2px solid green;">yakkala-siva-sai-kumar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YAKKALA-SIVA-SAI-KUMAR-g1-data-analytics</td> 
+</tr>
