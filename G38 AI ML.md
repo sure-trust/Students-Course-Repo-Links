@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ERAKALA-SRINADH-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GRANDHI SUJAINA</td> 
+
+<td style="border : 2px solid green;">sujaina-2005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GRANDHI-SUJAINA-g38-ai-ml</td> 
+</tr>
