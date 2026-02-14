@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GADIBIDI-ALEKHYA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAPARIVENU VAISHNAVI</td> 
+
+<td style="border : 2px solid green;">vaishnavi25-12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAPARIVENU-VAISHNAVI-g38-ai-ml</td> 
+</tr>
