@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BUDDA-NAGA-SAMBA-S-V-DURGA-SAI-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VYSHNAVI BAPATLA</td> 
+
+<td style="border : 2px solid green;">vyshnavibapatla</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VYSHNAVI-BAPATLA-g38-ai-ml</td> 
+</tr>
