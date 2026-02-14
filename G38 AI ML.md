@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOWTHAM-CHOWDARY-N-C-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GADIBIDI ALEKHYA</td> 
+
+<td style="border : 2px solid green;">alekhyagadibidi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GADIBIDI-ALEKHYA-g38-ai-ml</td> 
+</tr>
