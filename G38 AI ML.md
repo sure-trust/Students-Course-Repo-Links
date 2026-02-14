@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANUSHKA-BAIDYA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUKKU YASASWINE</td> 
+
+<td style="border : 2px solid green;">yasaswineee</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUKKU-YASASWINE-g38-ai-ml</td> 
+</tr>
