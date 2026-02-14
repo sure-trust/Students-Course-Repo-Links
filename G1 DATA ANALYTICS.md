@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-JAHNAVI-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AARUSHI SACHDEVA</td> 
+
+<td style="border : 2px solid green;">aarushi1905</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AARUSHI-SACHDEVA-g1-data-analytics</td> 
+</tr>
