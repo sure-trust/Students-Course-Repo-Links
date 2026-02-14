@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/IMANUVEL-K-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIGVIJAY KUMBHAR</td> 
+
+<td style="border : 2px solid green;">digvijaydk15</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIGVIJAY-KUMBHAR-g38-ai-ml</td> 
+</tr>
