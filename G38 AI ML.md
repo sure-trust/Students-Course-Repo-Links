@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHAY-RAJ-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIK NAJURUNISHA</td> 
+
+<td style="border : 2px solid green;">najurunisha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-NAJURUNISHA-g38-ai-ml</td> 
+</tr>
