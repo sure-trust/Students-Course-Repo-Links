@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VEDANT-PARAG-PATIL-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJAS NARAYAN JADHAV</td> 
+
+<td style="border : 2px solid green;">tejas-130704</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJAS-NARAYAN-JADHAV-g38-ai-ml</td> 
+</tr>
