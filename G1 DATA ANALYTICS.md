@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAYATRI-NARAYAN-SHIRSATH-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GAGANDEEP SINGH BANSAL</td> 
+
+<td style="border : 2px solid green;">gagandeepg1dataanalytics-svg</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GAGANDEEP-SINGH-BANSAL-g1-data-analytics</td> 
+</tr>
