@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VARIKUNTA-HIMESHWARA-RAJU-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIMMA RAKESH</td> 
+
+<td style="border : 2px solid green;">simmarakesh-ai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIMMA-RAKESH-g1-data-analytics</td> 
+</tr>
