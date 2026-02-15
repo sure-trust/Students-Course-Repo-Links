@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANPREET-KAUR-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIMRANJOT KAUR</td> 
+
+<td style="border : 2px solid green;">simranjot21</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIMRANJOT-KAUR-g1-data-analytics</td> 
+</tr>
