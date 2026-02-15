@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TEJAS-NARAYAN-JADHAV-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMRUDDHI ANANT MORE</td> 
+
+<td style="border : 2px solid green;">samruddhimore019</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMRUDDHI-ANANT-MORE-g38-ai-ml</td> 
+</tr>
