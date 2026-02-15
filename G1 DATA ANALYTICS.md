@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAGANDEEP-SINGH-BANSAL-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JOANNA LETICIA PINTO</td> 
+
+<td style="border : 2px solid green;">joannapinto</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JOANNA-LETICIA-PINTO-g1-data-analytics</td> 
+</tr>
