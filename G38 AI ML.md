@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMRUDDHI-ANANT-MORE-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NILUROWTU MANIKANTA</td> 
+
+<td style="border : 2px solid green;">nmanikantag38aiml-arch</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NILUROWTU-MANIKANTA-g38-ai-ml</td> 
+</tr>
