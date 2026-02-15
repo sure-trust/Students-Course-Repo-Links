@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LAGISETTI-KARTHEEK-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MATHEW GEORGE</td> 
+
+<td style="border : 2px solid green;">mathewgeorge24</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MATHEW-GEORGE-g1-data-analytics</td> 
+</tr>
