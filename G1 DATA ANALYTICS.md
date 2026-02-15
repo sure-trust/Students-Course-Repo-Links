@@ -486,3 +486,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKSHAY-PARMAR-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMRIDHI MAJUMDER</td> 
+
+<td style="border : 2px solid green;">samridhimajumder27</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMRIDHI-MAJUMDER-g1-data-analytics</td> 
+</tr>
