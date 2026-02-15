@@ -446,3 +446,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEDA-SRINIVASA-RAO-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHAL NINAWE</td> 
+
+<td style="border : 2px solid green;">harshal-ninawe</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHAL-NINAWE-g1-data-analytics</td> 
+</tr>
