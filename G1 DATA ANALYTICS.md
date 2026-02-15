@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIMRANJOT-KAUR-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GAYATRI NARAYAN SHIRSATH</td> 
+
+<td style="border : 2px solid green;">gayatrishirsath73-cyber</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GAYATRI-NARAYAN-SHIRSATH-g1-data-analytics</td> 
+</tr>
