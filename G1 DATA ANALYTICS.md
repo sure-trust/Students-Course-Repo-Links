@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UTKARSH-PRAVINRAO-PAWAR-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANPREET KAUR</td> 
+
+<td style="border : 2px solid green;">manpreet7053</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANPREET-KAUR-g1-data-analytics</td> 
+</tr>
