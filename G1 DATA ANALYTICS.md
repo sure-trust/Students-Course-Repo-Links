@@ -478,3 +478,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIMMA-RAKESH-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKSHAY PARMAR</td> 
+
+<td style="border : 2px solid green;">akshay928parmar-max</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKSHAY-PARMAR-g1-data-analytics</td> 
+</tr>
