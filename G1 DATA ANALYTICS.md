@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VISHAL-KUMAR-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UTKARSH PRAVINRAO PAWAR</td> 
+
+<td style="border : 2px solid green;">utkashpawar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UTKARSH-PRAVINRAO-PAWAR-g1-data-analytics</td> 
+</tr>
