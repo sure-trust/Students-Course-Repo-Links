@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KONCHADA-CHATRESH-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VARANASI KOUSHIK KUMAR</td> 
+
+<td style="border : 2px solid green;">koushik-v26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VARANASI-KOUSHIK-KUMAR-g1-data-analytics</td> 
+</tr>
