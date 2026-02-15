@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VARANASI-KOUSHIK-KUMAR-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VISHAL KUMAR</td> 
+
+<td style="border : 2px solid green;">vishalkumar1218</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VISHAL-KUMAR-g1-data-analytics</td> 
+</tr>
