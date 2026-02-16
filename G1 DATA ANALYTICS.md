@@ -518,3 +518,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JUKANTI-MEGHANA-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHINGI MANOJ</td> 
+
+<td style="border : 2px solid green;">bmanoj93</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHINGI-MANOJ-g1-data-analytics</td> 
+</tr>
