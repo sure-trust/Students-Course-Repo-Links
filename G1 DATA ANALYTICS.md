@@ -542,3 +542,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAURABH-DUBEY-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JANHAVI KIRAN MAHAJAN</td> 
+
+<td style="border : 2px solid green;">janhavimahajan123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JANHAVI-KIRAN-MAHAJAN-g1-data-analytics</td> 
+</tr>
