@@ -550,3 +550,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JANHAVI-KIRAN-MAHAJAN-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MITRAJ KUMAR</td> 
+
+<td style="border : 2px solid green;">mitraj75kumar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MITRAJ-KUMAR-g1-data-analytics</td> 
+</tr>
