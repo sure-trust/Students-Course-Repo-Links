@@ -566,3 +566,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAMPELLI-AKHILESH-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THODETI VENU</td> 
+
+<td style="border : 2px solid green;">venuthodeti</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THODETI-VENU-g1-data-analytics</td> 
+</tr>
