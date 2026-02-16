@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NILUROWTU-MANIKANTA-g38-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YASH PATIDAR</td> 
+
+<td style="border : 2px solid green;">yassh01</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YASH-PATIDAR-g38-ai-ml</td> 
+</tr>
