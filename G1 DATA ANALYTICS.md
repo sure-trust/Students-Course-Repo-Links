@@ -574,3 +574,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THODETI-VENU-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPAK KUMAR S</td> 
+
+<td style="border : 2px solid green;">deepakkumar29th</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-KUMAR-S-g1-data-analytics</td> 
+</tr>
