@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROUNAK-SHIT-g7-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UJJWAL MANDAL</td> 
+
+<td style="border : 2px solid green;">ujjwalmandal2119</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UJJWAL-MANDAL-g7-cc</td> 
+</tr>
