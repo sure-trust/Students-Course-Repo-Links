@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHISHEK-ASHOK-MAHADIK-g7-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARYA PRAKASH SINGH</td> 
+
+<td style="border : 2px solid green;">singharya-btech</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARYA-PRAKASH-SINGH-g7-cc</td> 
+</tr>
