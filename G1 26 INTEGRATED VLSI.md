@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TEJO-PRIYA-BODDU-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DANDE GNANESWARI</td> 
+
+<td style="border : 2px solid green;">gnaneswaridande</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DANDE-GNANESWARI-g1-26-integrated-vlsi</td> 
+</tr>
