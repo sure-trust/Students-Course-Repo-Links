@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SNEHA-KATTI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIK CHANDINI</td> 
+
+<td style="border : 2px solid green;">skchandini345-del</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-CHANDINI-g1-26-integrated-vlsi</td> 
+</tr>
