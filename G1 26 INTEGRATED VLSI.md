@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DANDE-GNANESWARI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KONARI JAYASREE</td> 
+
+<td style="border : 2px solid green;">jayasreekonari-23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KONARI-JAYASREE-g1-26-integrated-vlsi</td> 
+</tr>
