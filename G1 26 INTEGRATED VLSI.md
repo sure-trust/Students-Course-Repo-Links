@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DASARI-SNEHANJALI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">M R RUDRAMOORTHY</td> 
+
+<td style="border : 2px solid green;">rudramr</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/M-R-RUDRAMOORTHY-g1-26-integrated-vlsi</td> 
+</tr>
