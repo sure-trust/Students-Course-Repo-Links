@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAMU-SATHVIK-KUMAR-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDI ANUSHA</td> 
+
+<td style="border : 2px solid green;">anushag126integratedvlsi-code</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDI-ANUSHA-g1-26-integrated-vlsi</td> 
+</tr>
