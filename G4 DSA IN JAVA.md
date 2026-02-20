@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RICHA-SINGH-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANNE VENKAT PAVAN</td> 
+
+<td style="border : 2px solid green;">pavanbanne</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANNE-VENKAT-PAVAN-g4-dsa-in-java</td> 
+</tr>
