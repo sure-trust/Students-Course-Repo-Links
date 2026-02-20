@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MARUGANI-SIRI-LAKSHMI-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YEGIREDDI NIKHITHA</td> 
+
+<td style="border : 2px solid green;">nikhitha20092005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YEGIREDDI-NIKHITHA-g4-dsa-in-java</td> 
+</tr>
