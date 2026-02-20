@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ASHWINI-MOHAN-BHAT-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VENKATAREDDYGARI CHARAN KUMAR REDDDY</td> 
+
+<td style="border : 2px solid green;">charan-redde02</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VENKATAREDDYGARI-CHARAN-KUMAR-REDDDY-g1-26-integrated-vlsi</td> 
+</tr>
