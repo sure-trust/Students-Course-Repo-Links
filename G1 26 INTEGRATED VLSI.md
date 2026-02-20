@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SEEGE-SAI-PAVAN-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAMITH GOWDA C S</td> 
+
+<td style="border : 2px solid green;">namith-gowda-03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAMITH-GOWDA-C-S-g1-26-integrated-vlsi</td> 
+</tr>
