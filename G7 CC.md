@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHITH-S-g7-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JARPULA KALYAN</td> 
+
+<td style="border : 2px solid green;">kalyan0996</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JARPULA-KALYAN-g7-cc</td> 
+</tr>
