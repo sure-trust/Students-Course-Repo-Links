@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THATHIREDDY-RAJASEKHAR-REDDY-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GANGANABOINA HARSHITHA</td> 
+
+<td style="border : 2px solid green;">harshithaganganaboina</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GANGANABOINA-HARSHITHA-g1-26-integrated-vlsi</td> 
+</tr>
