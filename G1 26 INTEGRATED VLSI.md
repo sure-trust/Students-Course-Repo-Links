@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHAIK-CHANDINI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJO PRIYA BODDU</td> 
+
+<td style="border : 2px solid green;">tejo-priya-boddu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJO-PRIYA-BODDU-g1-26-integrated-vlsi</td> 
+</tr>
