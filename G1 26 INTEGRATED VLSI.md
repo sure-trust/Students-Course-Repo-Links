@@ -478,3 +478,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/M-R-RUDRAMOORTHY-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANUJ</td> 
+
+<td style="border : 2px solid green;">anujbishnoi29</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANUJ-g1-26-integrated-vlsi</td> 
+</tr>
