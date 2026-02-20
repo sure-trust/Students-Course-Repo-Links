@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ALIGETI-SHIVANI-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOPPARTHI JWALAPATHIGARI NIKITHA</td> 
+
+<td style="border : 2px solid green;">k-j-nikitha</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOPPARTHI-JWALAPATHIGARI-NIKITHA-g4-dsa-in-java</td> 
+</tr>
