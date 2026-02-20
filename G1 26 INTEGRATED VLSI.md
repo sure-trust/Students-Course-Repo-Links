@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARIPRIYA-K-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GURRAM AKSHAY</td> 
+
+<td style="border : 2px solid green;">gurramakshay</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GURRAM-AKSHAY-g1-26-integrated-vlsi</td> 
+</tr>
