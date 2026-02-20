@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARNAVARAM-KARTHEEK-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BAGATI AKHILA</td> 
+
+<td style="border : 2px solid green;">akhila-22-hub</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BAGATI-AKHILA-g1-26-integrated-vlsi</td> 
+</tr>
