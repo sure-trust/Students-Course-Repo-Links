@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/URITI-PAVAN-KALYAN-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ILLURI MANASA</td> 
+
+<td style="border : 2px solid green;">integrated-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ILLURI-MANASA-g1-26-integrated-vlsi</td> 
+</tr>
