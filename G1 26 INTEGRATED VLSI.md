@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HRISABH-SOLANKI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARIPRIYA K</td> 
+
+<td style="border : 2px solid green;">haripriyak0404</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARIPRIYA-K-g1-26-integrated-vlsi</td> 
+</tr>
