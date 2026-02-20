@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DIWAKAR-P-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRATIK PUJARI</td> 
+
+<td style="border : 2px solid green;">pratikjpujari</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRATIK-PUJARI-g1-26-integrated-vlsi</td> 
+</tr>
