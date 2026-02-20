@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANDI-ANUSHA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMOGH SHIVAPRAKASH HANAMAGOUDAR</td> 
+
+<td style="border : 2px solid green;">amoghsh---g1-26-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMOGH-SHIVAPRAKASH-HANAMAGOUDAR-g1-26-integrated-vlsi</td> 
+</tr>
