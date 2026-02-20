@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/D.-LIKHILA-DEVIPRIYA-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAGAM PRAKASH REDDY</td> 
+
+<td style="border : 2px solid green;">akkiprakash</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAGAM-PRAKASH-REDDY-g4-dsa-in-java</td> 
+</tr>
