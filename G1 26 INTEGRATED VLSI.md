@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PENUGURTHI-SUNEETHA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GURRAM JAGADEESH</td> 
+
+<td style="border : 2px solid green;">gurram-jagadeesh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GURRAM-JAGADEESH-g1-26-integrated-vlsi</td> 
+</tr>
