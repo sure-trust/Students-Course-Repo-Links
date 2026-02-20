@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BALLA-YASASWINI-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUGADA NANDITHA</td> 
+
+<td style="border : 2px solid green;">nandithamugada03</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUGADA-NANDITHA-g4-dsa-in-java</td> 
+</tr>
