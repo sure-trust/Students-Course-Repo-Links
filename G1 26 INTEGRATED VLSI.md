@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VENKATAREDDYGARI-CHARAN-KUMAR-REDDDY-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SEEGE SAI PAVAN</td> 
+
+<td style="border : 2px solid green;">saipavans05</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SEEGE-SAI-PAVAN-g1-26-integrated-vlsi</td> 
+</tr>
