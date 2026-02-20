@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOLANI-DIVYA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRADNYA HANAMANTH GUGGARI</td> 
+
+<td style="border : 2px solid green;">pradnya05-guggari</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRADNYA-HANAMANTH-GUGGARI-g1-26-integrated-vlsi</td> 
+</tr>
