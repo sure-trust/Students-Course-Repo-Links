@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRATIK-PUJARI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">A ARATHI</td> 
+
+<td style="border : 2px solid green;">arathi148</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/A-ARATHI-g1-26-integrated-vlsi</td> 
+</tr>
