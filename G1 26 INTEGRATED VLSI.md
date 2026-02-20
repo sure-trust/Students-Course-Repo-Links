@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRADNYA-HANAMANTH-GUGGARI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAVITRA N KARJOL</td> 
+
+<td style="border : 2px solid green;">15pavitra</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAVITRA-N-KARJOL-g1-26-integrated-vlsi</td> 
+</tr>
