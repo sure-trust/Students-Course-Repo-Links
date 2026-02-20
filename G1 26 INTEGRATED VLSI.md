@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANJAY-BUDNI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NARNAVARAM KARTHEEK</td> 
+
+<td style="border : 2px solid green;">narnavaramkarthik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NARNAVARAM-KARTHEEK-g1-26-integrated-vlsi</td> 
+</tr>
