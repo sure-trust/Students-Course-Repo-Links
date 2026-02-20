@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-DEEP-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YAKKALA NAGA SATHWIKA</td> 
+
+<td style="border : 2px solid green;">sathwika-mern</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YAKKALA-NAGA-SATHWIKA-g4-dsa-in-java</td> 
+</tr>
