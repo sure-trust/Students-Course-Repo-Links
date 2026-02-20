@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAMIKSHA-C-SHETTY-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DHRONAMRAJU KARTHIKEYA</td> 
+
+<td style="border : 2px solid green;">karthikeya026</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DHRONAMRAJU-KARTHIKEYA-g1-26-integrated-vlsi</td> 
+</tr>
