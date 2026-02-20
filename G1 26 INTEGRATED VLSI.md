@@ -486,3 +486,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANUJ-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TADIBOINA LAKSHMI SRAVANI</td> 
+
+<td style="border : 2px solid green;">lakshmisravani1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TADIBOINA-LAKSHMI-SRAVANI-g1-26-integrated-vlsi</td> 
+</tr>
