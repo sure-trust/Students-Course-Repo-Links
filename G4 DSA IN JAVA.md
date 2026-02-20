@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANGALA-YAZHINI-E-S-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NALLA PREM TEJA</td> 
+
+<td style="border : 2px solid green;">nallapremteja04</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NALLA-PREM-TEJA-g4-dsa-in-java</td> 
+</tr>
