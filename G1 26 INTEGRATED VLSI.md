@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMOGH-SHIVAPRAKASH-HANAMAGOUDAR-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SYEDA ASGHARI FATIMA</td> 
+
+<td style="border : 2px solid green;">syeda-fatim</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SYEDA-ASGHARI-FATIMA-g1-26-integrated-vlsi</td> 
+</tr>
