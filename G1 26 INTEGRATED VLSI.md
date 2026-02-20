@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SYEDA-ASGHARI-FATIMA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAKALI MANJULA</td> 
+
+<td style="border : 2px solid green;">chakalimanjula</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAKALI-MANJULA-g1-26-integrated-vlsi</td> 
+</tr>
