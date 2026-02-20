@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMIT-TRIPATHI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HRISABH SOLANKI</td> 
+
+<td style="border : 2px solid green;">hrishabhsolanki007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HRISABH-SOLANKI-g1-26-integrated-vlsi</td> 
+</tr>
