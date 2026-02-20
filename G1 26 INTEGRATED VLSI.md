@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHRONAMRAJU-KARTHIKEYA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUNNA RAKESH</td> 
+
+<td style="border : 2px solid green;">gunnarakesh256-cell</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUNNA-RAKESH-g1-26-integrated-vlsi</td> 
+</tr>
