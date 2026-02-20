@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GURRAM-JAGADEESH-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKKIREDDI KUMAR</td> 
+
+<td style="border : 2px solid green;">akki614</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKKIREDDI-KUMAR-g1-26-integrated-vlsi</td> 
+</tr>
