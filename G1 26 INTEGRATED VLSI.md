@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GURRAM-AKSHAY-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHARATH C</td> 
+
+<td style="border : 2px solid green;">bharathc29</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHARATH-C-g1-26-integrated-vlsi</td> 
+</tr>
