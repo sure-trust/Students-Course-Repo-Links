@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANDAVENI-SUSHILKUMAR-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIWAKAR P</td> 
+
+<td style="border : 2px solid green;">diwakar3124</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIWAKAR-P-g1-26-integrated-vlsi</td> 
+</tr>
