@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VALLIPOLLI-DHANUSH-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RICHA SINGH</td> 
+
+<td style="border : 2px solid green;">richasingh484117-collab</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RICHA-SINGH-g4-dsa-in-java</td> 
+</tr>
