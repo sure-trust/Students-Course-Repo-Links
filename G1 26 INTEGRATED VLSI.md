@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAVITRA-N-KARJOL-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOLLATI ROHITH VARMA</td> 
+
+<td style="border : 2px solid green;">rohithvarma24</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOLLATI-ROHITH-VARMA-g1-26-integrated-vlsi</td> 
+</tr>
