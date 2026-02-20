@@ -446,3 +446,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUJARATHI-LOHITHA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">R PRAJWAL</td> 
+
+<td style="border : 2px solid green;">rprajwalg126integratedvlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/R-PRAJWAL-g1-26-integrated-vlsi</td> 
+</tr>
