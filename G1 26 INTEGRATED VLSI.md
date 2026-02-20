@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BAGATI-AKHILA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PENUGURTHI SUNEETHA</td> 
+
+<td style="border : 2px solid green;">suneethag126</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PENUGURTHI-SUNEETHA-g1-26-integrated-vlsi</td> 
+</tr>
