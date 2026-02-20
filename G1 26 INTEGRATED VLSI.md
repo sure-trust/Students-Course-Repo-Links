@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANDIMALLA-LAKSHMI-BHAVANA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOLANI DIVYA</td> 
+
+<td style="border : 2px solid green;">divyakolani484-bit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOLANI-DIVYA-g1-26-integrated-vlsi</td> 
+</tr>
