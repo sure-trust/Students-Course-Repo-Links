@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOSHIKA-SNEHA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINAYAK CHANNABASAPPA YALABURGI</td> 
+
+<td style="border : 2px solid green;">vinayak-07-bit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINAYAK-CHANNABASAPPA-YALABURGI-g1-26-integrated-vlsi</td> 
+</tr>
