@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAVALI-SAI-RAJ-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAHESH MANDALA</td> 
+
+<td style="border : 2px solid green;">mahesh45-cyber</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAHESH-MANDALA-g4-dsa-in-java</td> 
+</tr>
