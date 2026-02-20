@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VINAYAK-CHANNABASAPPA-YALABURGI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MASARAM NAVYA</td> 
+
+<td style="border : 2px solid green;">navyamasaram</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MASARAM-NAVYA-g1-26-integrated-vlsi</td> 
+</tr>
