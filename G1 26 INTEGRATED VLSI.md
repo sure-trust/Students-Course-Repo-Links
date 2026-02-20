@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/A-ARATHI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHANDAN L</td> 
+
+<td style="border : 2px solid green;">chandan-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHANDAN-L-g1-26-integrated-vlsi</td> 
+</tr>
