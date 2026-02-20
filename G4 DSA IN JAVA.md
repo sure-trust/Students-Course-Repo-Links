@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUGADA-NANDITHA-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOKKU VENKATA SUNEETHA</td> 
+
+<td style="border : 2px solid green;">venkatasuneethakokku</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOKKU-VENKATA-SUNEETHA-g4-dsa-in-java</td> 
+</tr>
