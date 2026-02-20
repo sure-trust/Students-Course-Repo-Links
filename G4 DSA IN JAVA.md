@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANNAGONI-SAI-KUMAR-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANGALA YAZHINI E S</td> 
+
+<td style="border : 2px solid green;">mangalayazhinies</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANGALA-YAZHINI-E-S-g4-dsa-in-java</td> 
+</tr>
