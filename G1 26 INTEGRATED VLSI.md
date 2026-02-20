@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOLLATI-ROHITH-VARMA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHILINTHALA DEVIKA</td> 
+
+<td style="border : 2px solid green;">devika-625</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHILINTHALA-DEVIKA-g1-26-integrated-vlsi</td> 
+</tr>
