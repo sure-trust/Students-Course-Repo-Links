@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARASIMHAMURTHY-B-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ASHWINI MOHAN BHAT</td> 
+
+<td style="border : 2px solid green;">ashwinimohanbhat</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ASHWINI-MOHAN-BHAT-g1-26-integrated-vlsi</td> 
+</tr>
