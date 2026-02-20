@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MASARAM-NAVYA-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRAJWAL L</td> 
+
+<td style="border : 2px solid green;">prajwallokesh007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRAJWAL-L-g1-26-integrated-vlsi</td> 
+</tr>
