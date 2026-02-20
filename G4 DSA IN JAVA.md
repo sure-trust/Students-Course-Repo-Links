@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-VEERANJANEYULU-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIKHIL KUMAR</td> 
+
+<td style="border : 2px solid green;">it-nikhilthakur</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIKHIL-KUMAR-g4-dsa-in-java</td> 
+</tr>
