@@ -494,3 +494,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TADIBOINA-LAKSHMI-SRAVANI-g1-26-integrated-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MALLAPPA BAGOJI</td> 
+
+<td style="border : 2px solid green;">mallappabagoji</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MALLAPPA-BAGOJI-g1-26-integrated-vlsi</td> 
+</tr>
