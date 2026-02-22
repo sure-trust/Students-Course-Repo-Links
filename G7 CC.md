@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARBAJ-ANSARI-g7-cc</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PARIKSHIT PRASHANT</td> 
+
+<td style="border : 2px solid green;">parikshitthakre5</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PARIKSHIT-PRASHANT-g7-cc</td> 
+</tr>
