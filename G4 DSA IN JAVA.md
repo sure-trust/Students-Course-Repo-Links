@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOMAL-MAHADEV-g4-dsa-in-java</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PREETHA</td> 
+
+<td style="border : 2px solid green;">preetha-152005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PREETHA-g4-dsa-in-java</td> 
+</tr>
