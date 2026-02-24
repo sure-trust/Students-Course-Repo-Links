@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADITYA-PRASHANTH-g15-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUREDDY JITHENDRA REDDY</td> 
+
+<td style="border : 2px solid green;">sureddyjithendrareddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUREDDY-JITHENDRA-REDDY-g15-cs</td> 
+</tr>
