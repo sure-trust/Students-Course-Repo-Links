@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BAGALI-BIBI-SUMAYYA-g15-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PENNALURUPETA VENU GOPAL</td> 
+
+<td style="border : 2px solid green;">venu-gopal-p</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PENNALURUPETA-VENU-GOPAL-g15-cs</td> 
+</tr>
