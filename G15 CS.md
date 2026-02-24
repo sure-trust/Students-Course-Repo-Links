@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LALUVADIYA-PRAJESH-BHAVESHBHAI-g15-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUMIT CHANDUBHAI SOLANKI</td> 
+
+<td style="border : 2px solid green;">solankisumit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUMIT-CHANDUBHAI-SOLANKI-g15-cs</td> 
+</tr>
