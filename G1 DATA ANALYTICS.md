@@ -590,3 +590,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DHARAVATH-LAXMAN-NAYAK-g1-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANOJ KUMAR MANDAL</td> 
+
+<td style="border : 2px solid green;">manoj333565</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-KUMAR-MANDAL-g1-data-analytics</td> 
+</tr>
