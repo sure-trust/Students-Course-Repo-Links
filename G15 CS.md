@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PENNALURUPETA-VENU-GOPAL-g15-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BOMMIDENI NAVYA SHREE</td> 
+
+<td style="border : 2px solid green;">navyashree-01</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BOMMIDENI-NAVYA-SHREE-g15-cs</td> 
+</tr>
