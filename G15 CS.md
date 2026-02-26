@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SEGIREDDY-RAGHUNATHREDDY-g15-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UJJWAL PRATAP SINGH</td> 
+
+<td style="border : 2px solid green;">12345ujjwal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UJJWAL-PRATAP-SINGH-g15-cs</td> 
+</tr>
