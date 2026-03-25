@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRATIKSHA-VITTHAL-MANE-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDI KAVYASRI</td> 
+
+<td style="border : 2px solid green;">kavyabandi596</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDI-KAVYASRI-g39-ai-ml</td> 
+</tr>
