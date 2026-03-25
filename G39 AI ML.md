@@ -438,3 +438,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARCHIT-MAHAJAN-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PATEL PAVAN</td> 
+
+<td style="border : 2px solid green;">pavanpatel14</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PATEL-PAVAN-g39-ai-ml</td> 
+</tr>
