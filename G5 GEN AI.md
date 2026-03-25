@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAILAPAKA-SAI-SREE-MAHATHI-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YEDLA LIKITHA</td> 
+
+<td style="border : 2px solid green;">yedlalikitha02</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YEDLA-LIKITHA-g5-gen-ai</td> 
+</tr>
