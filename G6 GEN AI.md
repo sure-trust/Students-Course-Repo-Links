@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UTKARSH-VERMA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUNASELVI H</td> 
+
+<td style="border : 2px solid green;">gunaselvih29</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUNASELVI-H-g6-gen-ai</td> 
+</tr>
