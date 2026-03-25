@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TIPPARTHI-DIVYA-SRI-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PABBISETTY SARAT CHANDRA AKASH</td> 
+
+<td style="border : 2px solid green;">akash-gen-ai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PABBISETTY-SARAT-CHANDRA-AKASH-g5-gen-ai</td> 
+</tr>
