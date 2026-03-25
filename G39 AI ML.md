@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAMISETTY-GOPIKA-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADITYA RAJ</td> 
+
+<td style="border : 2px solid green;">araj18167</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADITYA-RAJ-g39-ai-ml</td> 
+</tr>
