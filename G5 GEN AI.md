@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUCHITA-VIJAY-KASHIWAR-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAGABOINA NAVEEN</td> 
+
+<td style="border : 2px solid green;">naveennagaboina</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAGABOINA-NAVEEN-g5-gen-ai</td> 
+</tr>
