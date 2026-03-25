@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GADDE.SRI-LAKSHMI-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMPATHIRAO MANISHA</td> 
+
+<td style="border : 2px solid green;">manisha4518i</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMPATHIRAO-MANISHA-g6-gen-ai</td> 
+</tr>
