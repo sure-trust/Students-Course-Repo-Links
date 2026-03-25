@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ASHWITH-A-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NEELA RUTHVIK CHANDRA</td> 
+
+<td style="border : 2px solid green;">neelaruthvik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NEELA-RUTHVIK-CHANDRA-g5-gen-ai</td> 
+</tr>
