@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANGLE-PRAJWAL-SUDAM-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">M G KRISHNA SAI</td> 
+
+<td style="border : 2px solid green;">mgkrishnasai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/M-G-KRISHNA-SAI-g39-ai-ml</td> 
+</tr>
