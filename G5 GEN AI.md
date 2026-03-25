@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NEELA-RUTHVIK-CHANDRA-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UMA SRI ADITHYA JALADI</td> 
+
+<td style="border : 2px solid green;">adithyaf0</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UMA-SRI-ADITHYA-JALADI-g5-gen-ai</td> 
+</tr>
