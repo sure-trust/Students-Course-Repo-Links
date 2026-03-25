@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHPREET-SINGH-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEGHA NAMDEO TAGADE</td> 
+
+<td style="border : 2px solid green;">m1e2g3h4a5</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEGHA-NAMDEO-TAGADE-g5-gen-ai</td> 
+</tr>
