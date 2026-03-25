@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUMMETHA-PRAVALLIKA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHABH SINDHWAL</td> 
+
+<td style="border : 2px solid green;">sindhwalrishabh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHABH-SINDHWAL-g6-gen-ai</td> 
+</tr>
