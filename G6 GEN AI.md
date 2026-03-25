@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRANALI-APPASAHEB-KAWADE-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIPTIKONA ACHARIYA</td> 
+
+<td style="border : 2px solid green;">diptiachariya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIPTIKONA-ACHARIYA-g6-gen-ai</td> 
+</tr>
