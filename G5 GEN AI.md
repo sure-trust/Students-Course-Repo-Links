@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PINNAMAREDDY-DHANA-VIKHYAT-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMIKSHYA DASH</td> 
+
+<td style="border : 2px solid green;">samikshyadash11</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMIKSHYA-DASH-g5-gen-ai</td> 
+</tr>
