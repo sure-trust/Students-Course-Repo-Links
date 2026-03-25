@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MITHUNA-H-R-g15-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINAYAK B KABBURI</td> 
+
+<td style="border : 2px solid green;">dashboard</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINAYAK-B-KABBURI-g15-autocad</td> 
+</tr>
