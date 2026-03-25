@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AAYUSH-GUPTA-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MALISHETTI ARVIND</td> 
+
+<td style="border : 2px solid green;">arvindmalishetti95024-lang</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MALISHETTI-ARVIND-g39-ai-ml</td> 
+</tr>
