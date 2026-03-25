@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GEETA-JITENDRA-CHOUKSEY-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">R.MANIKANTAREDDY</td> 
+
+<td style="border : 2px solid green;">manikantareddyg6genai-alt</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/R.MANIKANTAREDDY-g6-gen-ai</td> 
+</tr>
