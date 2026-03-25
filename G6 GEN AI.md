@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIVEK-BARI-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UTKARSH VERMA</td> 
+
+<td style="border : 2px solid green;">utkarshv0610</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UTKARSH-VERMA-g6-gen-ai</td> 
+</tr>
