@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUMBAM-SAIDIVYA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RADE DIYA MAHESH</td> 
+
+<td style="border : 2px solid green;">diyarade</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RADE-DIYA-MAHESH-g6-gen-ai</td> 
+</tr>
