@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PASI-KETANSAI-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANYAM GEETHA SREE</td> 
+
+<td style="border : 2px solid green;">geethasree0713</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANYAM-GEETHA-SREE-g5-gen-ai</td> 
+</tr>
