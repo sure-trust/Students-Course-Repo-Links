@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VISSA-V-SAI-HARI-KESAVA-PRABHAKARA-PRASAD-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHIT KALOUNI</td> 
+
+<td style="border : 2px solid green;">harshitkalouni5genai-boop</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHIT-KALOUNI-g5-gen-ai</td> 
+</tr>
