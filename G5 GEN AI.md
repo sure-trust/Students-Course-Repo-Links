@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUPSA-PRAMANIK-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANAN FATHIMA SIRAJ</td> 
+
+<td style="border : 2px solid green;">ananfathimasirajg5genai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANAN-FATHIMA-SIRAJ-g5-gen-ai</td> 
+</tr>
