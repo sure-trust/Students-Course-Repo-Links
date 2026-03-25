@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVATHOTI-MOHANA-KUMARI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TAMOJYOTI MAITRA</td> 
+
+<td style="border : 2px solid green;">tamojyoti-2005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TAMOJYOTI-MAITRA-g39-ai-ml</td> 
+</tr>
