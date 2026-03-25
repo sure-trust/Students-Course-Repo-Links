@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SALUMURI-TEJASWINI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUPA KUMARI</td> 
+
+<td style="border : 2px solid green;">mandal-rupa</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUPA-KUMARI-g39-ai-ml</td> 
+</tr>
