@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RADE-DIYA-MAHESH-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GEETA JITENDRA CHOUKSEY</td> 
+
+<td style="border : 2px solid green;">geetachouksey</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GEETA-JITENDRA-CHOUKSEY-g6-gen-ai</td> 
+</tr>
