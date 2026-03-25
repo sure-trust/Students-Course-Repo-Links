@@ -350,3 +350,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANSHUMAN-THAKUR-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DIVYA GOYAL</td> 
+
+<td style="border : 2px solid green;">di-vya1211</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DIVYA-GOYAL-g39-ai-ml</td> 
+</tr>
