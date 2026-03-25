@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KRITIKA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RISHI RAJ</td> 
+
+<td style="border : 2px solid green;">rishi2613</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RISHI-RAJ-g6-gen-ai</td> 
+</tr>
