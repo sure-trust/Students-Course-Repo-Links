@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAGABOINA-NAVEEN-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRINCE BEURIA</td> 
+
+<td style="border : 2px solid green;">prince-beuria</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRINCE-BEURIA-g5-gen-ai</td> 
+</tr>
