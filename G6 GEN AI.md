@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BELLAMKONDA-ANIL-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROHAN DHAR</td> 
+
+<td style="border : 2px solid green;">rohandhar6824-debug</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROHAN-DHAR-g6-gen-ai</td> 
+</tr>
