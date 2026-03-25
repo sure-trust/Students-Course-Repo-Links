@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DAHIVALIKAR-SHRUTI-SURYAKANT-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOHAM KUMAR GHOSH</td> 
+
+<td style="border : 2px solid green;">skg-ai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOHAM-KUMAR-GHOSH-g6-gen-ai</td> 
+</tr>
