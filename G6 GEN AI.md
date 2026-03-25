@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVA-SINGH-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DAHIVALIKAR SHRUTI SURYAKANT</td> 
+
+<td style="border : 2px solid green;">shrutidahivalikar06</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DAHIVALIKAR-SHRUTI-SURYAKANT-g6-gen-ai</td> 
+</tr>
