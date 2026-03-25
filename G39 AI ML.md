@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAIF-REHMAN-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GURRAM USHASWININ</td> 
+
+<td style="border : 2px solid green;">gurramushaswini</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GURRAM-USHASWININ-g39-ai-ml</td> 
+</tr>
