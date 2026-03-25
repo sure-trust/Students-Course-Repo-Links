@@ -446,3 +446,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PATEL-PAVAN-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAYANT CHAUDHARY</td> 
+
+<td style="border : 2px solid green;">jayantchaudhary0715</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAYANT-CHAUDHARY-g39-ai-ml</td> 
+</tr>
