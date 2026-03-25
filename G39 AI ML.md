@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-KUMAR-PANDIT-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJAS RAMESH POCCHI</td> 
+
+<td style="border : 2px solid green;">tejaspocchi-bit</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJAS-RAMESH-POCCHI-g39-ai-ml</td> 
+</tr>
