@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANAN-FATHIMA-SIRAJ-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHPREET SINGH</td> 
+
+<td style="border : 2px solid green;">harshpreetgenai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHPREET-SINGH-g5-gen-ai</td> 
+</tr>
