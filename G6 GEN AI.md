@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KALAVANTHULA-SEKHAR-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PULAK MONDAL</td> 
+
+<td style="border : 2px solid green;">useofgad</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PULAK-MONDAL-g6-gen-ai</td> 
+</tr>
