@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADITYA-RAJ-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DODDI ESWAR AKASH</td> 
+
+<td style="border : 2px solid green;">akasheswar7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DODDI-ESWAR-AKASH-g39-ai-ml</td> 
+</tr>
