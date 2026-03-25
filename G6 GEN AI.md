@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHEETAL-N-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANSHUL RAJPUT</td> 
+
+<td style="border : 2px solid green;">anshull-rajput</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANSHUL-RAJPUT-g6-gen-ai</td> 
+</tr>
