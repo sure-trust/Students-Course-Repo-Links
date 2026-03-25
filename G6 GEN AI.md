@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHRIYA-NAMDEO-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANO SHRUTHI S</td> 
+
+<td style="border : 2px solid green;">manoshruthis</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANO-SHRUTHI-S-g6-gen-ai</td> 
+</tr>
