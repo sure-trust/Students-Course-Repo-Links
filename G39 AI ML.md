@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANDI-KAVYASRI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARKA RAGHAVENDRA</td> 
+
+<td style="border : 2px solid green;">karkaraghavendra</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARKA-RAGHAVENDRA-g39-ai-ml</td> 
+</tr>
