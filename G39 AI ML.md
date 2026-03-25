@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ELAKIYA-R-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANANTHULA USHARANI</td> 
+
+<td style="border : 2px solid green;">ananthulausharani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANANTHULA-USHARANI-g39-ai-ml</td> 
+</tr>
