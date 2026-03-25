@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PABBISETTY-SARAT-CHANDRA-AKASH-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAILAPAKA SAI SREE MAHATHI</td> 
+
+<td style="border : 2px solid green;">mailapakamahathi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAILAPAKA-SAI-SREE-MAHATHI-g5-gen-ai</td> 
+</tr>
