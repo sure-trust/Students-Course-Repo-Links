@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TAMOJYOTI-MAITRA-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HIMANSHU NARAYAN PATLE</td> 
+
+<td style="border : 2px solid green;">imanshu-01</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HIMANSHU-NARAYAN-PATLE-g39-ai-ml</td> 
+</tr>
