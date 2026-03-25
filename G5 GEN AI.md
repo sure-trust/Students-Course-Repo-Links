@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMAN-KUMAR-SINGH-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUSKAN PATEL</td> 
+
+<td style="border : 2px solid green;">muskanpatel98</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUSKAN-PATEL-g5-gen-ai</td> 
+</tr>
