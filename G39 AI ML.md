@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANOJKUMAR-SHRINIWAS-BEDKE-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AAKANCHA VERMA</td> 
+
+<td style="border : 2px solid green;">aakanchaverma</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AAKANCHA-VERMA-g39-ai-ml</td> 
+</tr>
