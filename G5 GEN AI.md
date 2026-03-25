@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANSH-RATURI-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RUCHITA VIJAY KASHIWAR</td> 
+
+<td style="border : 2px solid green;">ruchita1306</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RUCHITA-VIJAY-KASHIWAR-g5-gen-ai</td> 
+</tr>
