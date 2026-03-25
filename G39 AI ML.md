@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AAKANCHA-VERMA-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VANGARA RISHIK SAI</td> 
+
+<td style="border : 2px solid green;">rishik-sai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VANGARA-RISHIK-SAI-g39-ai-ml</td> 
+</tr>
