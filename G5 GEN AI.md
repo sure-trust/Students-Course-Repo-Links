@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YUTHIKA-M-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUNEET KUMAR DEWANGAN</td> 
+
+<td style="border : 2px solid green;">guneetdewangan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUNEET-KUMAR-DEWANGAN-g5-gen-ai</td> 
+</tr>
