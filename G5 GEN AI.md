@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARISH-D-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAMMARI KRANTHI VEER</td> 
+
+<td style="border : 2px solid green;">kranthiveer25</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAMMARI-KRANTHI-VEER-g5-gen-ai</td> 
+</tr>
