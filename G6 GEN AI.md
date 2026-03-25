@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUNDE-PIYUSH-DILIP-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANISETTI HASINI</td> 
+
+<td style="border : 2px solid green;">hasini-03-glitch</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANISETTI-HASINI-g6-gen-ai</td> 
+</tr>
