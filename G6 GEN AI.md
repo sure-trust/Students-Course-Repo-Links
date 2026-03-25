@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROHAN-DHAR-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GORU NAGA VENKATA MAHA LAKSHMI</td> 
+
+<td style="border : 2px solid green;">gorumahalakshmi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GORU-NAGA-VENKATA-MAHA-LAKSHMI-g6-gen-ai</td> 
+</tr>
