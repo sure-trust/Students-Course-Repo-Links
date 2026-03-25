@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GORU-NAGA-VENKATA-MAHA-LAKSHMI-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KALAVANTHULA SEKHAR</td> 
+
+<td style="border : 2px solid green;">kalavanthulasekhar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KALAVANTHULA-SEKHAR-g6-gen-ai</td> 
+</tr>
