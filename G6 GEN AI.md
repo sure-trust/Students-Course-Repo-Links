@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHREYA-SARVESH-SHARMA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MUNDE PIYUSH DILIP</td> 
+
+<td style="border : 2px solid green;">piyushmunde</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MUNDE-PIYUSH-DILIP-g6-gen-ai</td> 
+</tr>
