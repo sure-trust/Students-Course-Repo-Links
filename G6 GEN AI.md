@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MRINAL-ONKAR-MANKAR-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KATTHULWAR VIGNITHA</td> 
+
+<td style="border : 2px solid green;">vignitha1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KATTHULWAR-VIGNITHA-g6-gen-ai</td> 
+</tr>
