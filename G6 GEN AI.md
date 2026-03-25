@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEDARAMETLA-ALEKHYA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ULLASA LAHARI</td> 
+
+<td style="border : 2px solid green;">ullasalahari</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ULLASA-LAHARI-g6-gen-ai</td> 
+</tr>
