@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VANGARA-RISHIK-SAI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRATIKSHA VITTHAL MANE</td> 
+
+<td style="border : 2px solid green;">pratikshamane10</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRATIKSHA-VITTHAL-MANE-g39-ai-ml</td> 
+</tr>
