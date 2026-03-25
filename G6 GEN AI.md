@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DIPTIKONA-ACHARIYA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GADDE.SRI LAKSHMI</td> 
+
+<td style="border : 2px solid green;">srilakshmi891</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GADDE.SRI-LAKSHMI-g6-gen-ai</td> 
+</tr>
