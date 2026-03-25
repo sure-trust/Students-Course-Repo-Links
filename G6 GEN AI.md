@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PULAK-MONDAL-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARJUNGAJI</td> 
+
+<td style="border : 2px solid green;">arjungaji420-lgtm</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARJUNGAJI-g6-gen-ai</td> 
+</tr>
