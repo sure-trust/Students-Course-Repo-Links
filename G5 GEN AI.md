@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUPTA-AMANKUMAR-ANUPKUMAR-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANSH RATURI</td> 
+
+<td style="border : 2px solid green;">anshraturi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANSH-RATURI-g5-gen-ai</td> 
+</tr>
