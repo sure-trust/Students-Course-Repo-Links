@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHIYAVARAM-NITHIN-KUMAR-REDDY-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RIA DURWAS</td> 
+
+<td style="border : 2px solid green;">durwasria-bot</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RIA-DURWAS-g5-gen-ai</td> 
+</tr>
