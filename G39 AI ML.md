@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANTENA-VASU-DEVA-RAJU-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVAM KESHAV GIRAM</td> 
+
+<td style="border : 2px solid green;">shivamspectral?tab=repositories</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-KESHAV-GIRAM-g39-ai-ml</td> 
+</tr>
