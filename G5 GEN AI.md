@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMIKSHYA-DASH-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TIPPARTHI DIVYA SRI</td> 
+
+<td style="border : 2px solid green;">divya-sri18</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TIPPARTHI-DIVYA-SRI-g5-gen-ai</td> 
+</tr>
