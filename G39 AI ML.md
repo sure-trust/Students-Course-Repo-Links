@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUGGALA-VYSHNAVI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SALUMURI TEJASWINI</td> 
+
+<td style="border : 2px solid green;">teju5479</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SALUMURI-TEJASWINI-g39-ai-ml</td> 
+</tr>
