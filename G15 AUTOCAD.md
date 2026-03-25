@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DARSHAN-SHIVANAND-AGASAR-g15-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LAVANI CHOUDHARI</td> 
+
+<td style="border : 2px solid green;">lavanichoudhari940-ai</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LAVANI-CHOUDHARI-g15-autocad</td> 
+</tr>
