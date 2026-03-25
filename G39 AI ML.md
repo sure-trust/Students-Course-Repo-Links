@@ -334,3 +334,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UJJWAL-GHAI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MODI SAMARTH SANJAY</td> 
+
+<td style="border : 2px solid green;">sam126599</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MODI-SAMARTH-SANJAY-g39-ai-ml</td> 
+</tr>
