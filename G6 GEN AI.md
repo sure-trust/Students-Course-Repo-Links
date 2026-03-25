@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/A-KEERTHANA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHRIYA NAMDEO</td> 
+
+<td style="border : 2px solid green;">shriyanamdeo</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHRIYA-NAMDEO-g6-gen-ai</td> 
+</tr>
