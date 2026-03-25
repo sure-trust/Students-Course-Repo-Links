@@ -342,3 +342,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUNEET-KUMAR-DEWANGAN-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHRUTI KUMARI SAHU</td> 
+
+<td style="border : 2px solid green;">shrutirita414-hub</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHRUTI-KUMARI-SAHU-g5-gen-ai</td> 
+</tr>
