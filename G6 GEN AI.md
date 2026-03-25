@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAIDAM-SHIVA-KUMAR-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUMBAM SAIDIVYA</td> 
+
+<td style="border : 2px solid green;">kumbhamsaidivya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUMBAM-SAIDIVYA-g6-gen-ai</td> 
+</tr>
