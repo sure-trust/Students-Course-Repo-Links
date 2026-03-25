@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHISHEK-YADAV-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">LANKOJI LEELA VENKATA PARAMESWARI</td> 
+
+<td style="border : 2px solid green;">leela2025</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/LANKOJI-LEELA-VENKATA-PARAMESWARI-g39-ai-ml</td> 
+</tr>
