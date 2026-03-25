@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BARRE-ARCHITHA-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAMISETTY GOPIKA</td> 
+
+<td style="border : 2px solid green;">sure-trust_assignments</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAMISETTY-GOPIKA-g39-ai-ml</td> 
+</tr>
