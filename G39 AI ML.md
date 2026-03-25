@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PALAVELLI-UMA-MAHESWAR-RAO-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARCHIT MAHAJAN</td> 
+
+<td style="border : 2px solid green;">architmhajn</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARCHIT-MAHAJAN-g39-ai-ml</td> 
+</tr>
