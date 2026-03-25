@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LANKOJI-LEELA-VENKATA-PARAMESWARI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PENUGONDA NAGA VENKATA LAKSHMI ROHITH</td> 
+
+<td style="border : 2px solid green;">penugondarohith</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PENUGONDA-NAGA-VENKATA-LAKSHMI-ROHITH-g39-ai-ml</td> 
+</tr>
