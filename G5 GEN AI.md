@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANYAM-GEETHA-SREE-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JADHAV VISHNU HARICHANDRA</td> 
+
+<td style="border : 2px solid green;">logicwithvj</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JADHAV-VISHNU-HARICHANDRA-g5-gen-ai</td> 
+</tr>
