@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUDIMELLA-RAJASHEKAR-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KONDOJU ABHINAV</td> 
+
+<td style="border : 2px solid green;">abhinavkondoju76</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KONDOJU-ABHINAV-g6-gen-ai</td> 
+</tr>
