@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GOPIKA-P-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIVEK BARI</td> 
+
+<td style="border : 2px solid green;">barivivek12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIVEK-BARI-g6-gen-ai</td> 
+</tr>
