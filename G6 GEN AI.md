@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ULLASA-LAHARI-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHIVA SINGH</td> 
+
+<td style="border : 2px solid green;">shiva272001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHIVA-SINGH-g6-gen-ai</td> 
+</tr>
