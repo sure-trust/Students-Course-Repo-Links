@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KHUSHI-KOUL-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANOJKUMAR SHRINIWAS BEDKE</td> 
+
+<td style="border : 2px solid green;">bedkemanojkumar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANOJKUMAR-SHRINIWAS-BEDKE-g39-ai-ml</td> 
+</tr>
