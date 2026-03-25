@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIKASH-SHARMA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIMRAN KUMARI</td> 
+
+<td style="border : 2px solid green;">simranps</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIMRAN-KUMARI-g6-gen-ai</td> 
+</tr>
