@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ITHARAJU-SAITEJA-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PASI KETANSAI</td> 
+
+<td style="border : 2px solid green;">pasiketansaig5genai-blip</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PASI-KETANSAI-g5-gen-ai</td> 
+</tr>
