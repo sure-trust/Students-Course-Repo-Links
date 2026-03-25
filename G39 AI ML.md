@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAWAR-KETHAN-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UJJWAL GHAI</td> 
+
+<td style="border : 2px solid green;">ujjwalghai07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UJJWAL-GHAI-g39-ai-ml</td> 
+</tr>
