@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DODDI-ESWAR-AKASH-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AAYUSH GUPTA</td> 
+
+<td style="border : 2px solid green;">aayush-ops1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AAYUSH-GUPTA-g39-ai-ml</td> 
+</tr>
