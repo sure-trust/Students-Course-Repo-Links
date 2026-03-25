@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANO-SHRUTHI-S-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MRINAL ONKAR MANKAR</td> 
+
+<td style="border : 2px solid green;">mrinalmankar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MRINAL-ONKAR-MANKAR-g6-gen-ai</td> 
+</tr>
