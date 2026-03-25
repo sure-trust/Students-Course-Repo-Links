@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TANISHKA-SHARMA-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PINNAMAREDDY DHANA VIKHYAT</td> 
+
+<td style="border : 2px solid green;">dhanavikhyatpinnamareddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PINNAMAREDDY-DHANA-VIKHYAT-g5-gen-ai</td> 
+</tr>
