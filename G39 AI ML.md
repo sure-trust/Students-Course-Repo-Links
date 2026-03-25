@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KALDATE-HARSHADA-PRAVIN-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAWAR KETHAN</td> 
+
+<td style="border : 2px solid green;">pawarkethan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAWAR-KETHAN-g39-ai-ml</td> 
+</tr>
