@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUMARESAN-V-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARADI BHANU SRUTHI</td> 
+
+<td style="border : 2px solid green;">bhanusruthi-k</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARADI-BHANU-SRUTHI-g39-ai-ml</td> 
+</tr>
