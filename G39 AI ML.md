@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TEJAS-RAMESH-POCCHI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BARRE ARCHITHA</td> 
+
+<td style="border : 2px solid green;">architha-9676</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BARRE-ARCHITHA-g39-ai-ml</td> 
+</tr>
