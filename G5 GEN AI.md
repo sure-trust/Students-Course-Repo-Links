@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIDDAMURTHY-MEGHANA-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVUPALLI JAYANTH</td> 
+
+<td style="border : 2px solid green;">jayanthdevupalli</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVUPALLI-JAYANTH-g5-gen-ai</td> 
+</tr>
