@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARADI-BHANU-SRUTHI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KALDATE HARSHADA PRAVIN</td> 
+
+<td style="border : 2px solid green;">harshadapk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KALDATE-HARSHADA-PRAVIN-g39-ai-ml</td> 
+</tr>
