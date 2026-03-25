@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VEMULAPALLI-SRESHTA-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PALAVELLI UMA MAHESWAR RAO</td> 
+
+<td style="border : 2px solid green;">codsoft.git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PALAVELLI-UMA-MAHESWAR-RAO-g39-ai-ml</td> 
+</tr>
