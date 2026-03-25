@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POTNURU-NITISH-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KUMARESAN V</td> 
+
+<td style="border : 2px solid green;">task_1</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KUMARESAN-V-g39-ai-ml</td> 
+</tr>
