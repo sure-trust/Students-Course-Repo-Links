@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MELLACHERUVU-VENKATA-ABHIRAM-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRANALI APPASAHEB KAWADE</td> 
+
+<td style="border : 2px solid green;">pranali-1005</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRANALI-APPASAHEB-KAWADE-g6-gen-ai</td> 
+</tr>
