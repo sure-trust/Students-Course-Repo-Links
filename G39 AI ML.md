@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PARAS-JAIN-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUGGALA VYSHNAVI</td> 
+
+<td style="border : 2px solid green;">vyshnavi-suggala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUGGALA-VYSHNAVI-g39-ai-ml</td> 
+</tr>
