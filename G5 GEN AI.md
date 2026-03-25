@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UMA-SRI-ADITHYA-JALADI-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARISH D</td> 
+
+<td style="border : 2px solid green;">harish7221</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARISH-D-g5-gen-ai</td> 
+</tr>
