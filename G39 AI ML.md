@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THOTLA-AKASH-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POTNURU NITISH</td> 
+
+<td style="border : 2px solid green;">potnurunitish</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POTNURU-NITISH-g39-ai-ml</td> 
+</tr>
