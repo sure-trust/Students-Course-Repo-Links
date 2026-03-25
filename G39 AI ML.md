@@ -462,3 +462,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEDI.SUPRATHIK.RAO-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANEPALLI NAGA SAI SITARAM</td> 
+
+<td style="border : 2px solid green;">12308155</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANEPALLI-NAGA-SAI-SITARAM-g39-ai-ml</td> 
+</tr>
