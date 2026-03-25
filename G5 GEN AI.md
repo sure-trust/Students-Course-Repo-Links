@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEGHA-NAMDEO-TAGADE-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANJALI</td> 
+
+<td style="border : 2px solid green;">anjaliyadav6603-hub</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-g5-gen-ai</td> 
+</tr>
