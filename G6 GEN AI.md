@@ -366,3 +366,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-YAMUNA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KRITIKA</td> 
+
+<td style="border : 2px solid green;">kritika240624</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KRITIKA-g6-gen-ai</td> 
+</tr>
