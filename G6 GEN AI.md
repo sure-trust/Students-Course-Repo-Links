@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMPATHIRAO-MANISHA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUDIMELLA RAJASHEKAR</td> 
+
+<td style="border : 2px solid green;">gudimellarajashekar1-bot</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUDIMELLA-RAJASHEKAR-g6-gen-ai</td> 
+</tr>
