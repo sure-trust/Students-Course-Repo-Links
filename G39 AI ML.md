@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RUPA-KUMARI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOSOORU NEELIMA</td> 
+
+<td style="border : 2px solid green;">mosoruneelima14-cell</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOSOORU-NEELIMA-g39-ai-ml</td> 
+</tr>
