@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-KESHAV-GIRAM-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKASH KUMAR PANDIT</td> 
+
+<td style="border : 2px solid green;">imakash45</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKASH-KUMAR-PANDIT-g39-ai-ml</td> 
+</tr>
