@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-YAMUNA-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K YAMUNA</td> 
+
+<td style="border : 2px solid green;">g6genai_yamuna</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K-YAMUNA-g6-gen-ai</td> 
+</tr>
