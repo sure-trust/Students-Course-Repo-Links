@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/OMKAR-RAJABHAU-PUJARI-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KASIREDDY SIVA REDDY</td> 
+
+<td style="border : 2px solid green;">kasireddy-sivareddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KASIREDDY-SIVA-REDDY-g5-gen-ai</td> 
+</tr>
