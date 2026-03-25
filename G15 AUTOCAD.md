@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUMBOJI-SAI-KRISHNA-g15-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRITI KUMARI</td> 
+
+<td style="border : 2px solid green;">pritikumari424</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRITI-KUMARI-g15-autocad</td> 
+</tr>
