@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVUPALLI-JAYANTH-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PUTNALA HANVITHA</td> 
+
+<td style="border : 2px solid green;">hanvithaputnala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PUTNALA-HANVITHA-g5-gen-ai</td> 
+</tr>
