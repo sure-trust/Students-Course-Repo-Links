@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VADLA-GOVARDHANACHARI-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEDARAMETLA ALEKHYA</td> 
+
+<td style="border : 2px solid green;">medarametlaalekhya05-stack</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEDARAMETLA-ALEKHYA-g6-gen-ai</td> 
+</tr>
