@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANSHUL-RAJPUT-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">D SAMIR DORA</td> 
+
+<td style="border : 2px solid green;">samirrao0605-collab</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/D-SAMIR-DORA-g6-gen-ai</td> 
+</tr>
