@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KONDOJU-ABHINAV-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">A KEERTHANA</td> 
+
+<td style="border : 2px solid green;">keerthanareddyyy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/A-KEERTHANA-g6-gen-ai</td> 
+</tr>
