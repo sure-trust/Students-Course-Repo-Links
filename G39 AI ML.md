@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JAGTAP-SHREYA-SANDIP-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEVATHOTI MOHANA KUMARI</td> 
+
+<td style="border : 2px solid green;">mohana-1710</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEVATHOTI-MOHANA-KUMARI-g39-ai-ml</td> 
+</tr>
