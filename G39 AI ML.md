@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUNDELA-PREETHI-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THOTLA AKASH</td> 
+
+<td style="border : 2px solid green;">thotlaakash</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THOTLA-AKASH-g39-ai-ml</td> 
+</tr>
