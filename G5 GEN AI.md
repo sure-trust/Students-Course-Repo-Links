@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ITHARAJU SAITEJA</td> 
+
+<td style="border : 2px solid green;">saiteja8339</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ITHARAJU-SAITEJA-g5-gen-ai</td> 
+</tr>
