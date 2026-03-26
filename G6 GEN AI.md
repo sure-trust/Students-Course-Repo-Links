@@ -406,3 +406,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUNAHARI-DUBEY-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEGHANA RAMES PATIL</td> 
+
+<td style="border : 2px solid green;">meghanap290</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEGHANA-RAMES-PATIL-g6-gen-ai</td> 
+</tr>
