@@ -502,3 +502,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MEDOJU-ADITHYA-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOHIT KUMAR</td> 
+
+<td style="border : 2px solid green;">sohit780</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOHIT-KUMAR-g39-ai-ml</td> 
+</tr>
