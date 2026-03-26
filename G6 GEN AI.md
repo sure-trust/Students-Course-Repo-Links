@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PULIJALA-RAGHU-KRISHNA-VAMSHI-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUNAHARI DUBEY</td> 
+
+<td style="border : 2px solid green;">sunaharidubey0-lab</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUNAHARI-DUBEY-g6-gen-ai</td> 
+</tr>
