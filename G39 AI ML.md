@@ -478,3 +478,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SARANG-KALE-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AVVA MEGHANA</td> 
+
+<td style="border : 2px solid green;">meghanaavva</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AVVA-MEGHANA-g39-ai-ml</td> 
+</tr>
