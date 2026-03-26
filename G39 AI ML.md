@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANEPALLI-NAGA-SAI-SITARAM-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SARANG KALE</td> 
+
+<td style="border : 2px solid green;">sarangkale-27</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SARANG-KALE-g39-ai-ml</td> 
+</tr>
