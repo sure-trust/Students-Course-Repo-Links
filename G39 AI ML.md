@@ -494,3 +494,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SWETHA-R-g39-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEDOJU ADITHYA</td> 
+
+<td style="border : 2px solid green;">adithyamedoju</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEDOJU-ADITHYA-g39-ai-ml</td> 
+</tr>
