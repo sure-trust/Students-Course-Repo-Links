@@ -358,3 +358,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHISHEK-g5-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAPSE YASH</td> 
+
+<td style="border : 2px solid green;">yashkapse1110</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAPSE-YASH-g5-gen-ai</td> 
+</tr>
