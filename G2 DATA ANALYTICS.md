@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHATLA-VINAY-KUMAR-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMANTA NAYAN</td> 
+
+<td style="border : 2px solid green;">nayanksamanta</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMANTA-NAYAN-g2-data-analytics</td> 
+</tr>
