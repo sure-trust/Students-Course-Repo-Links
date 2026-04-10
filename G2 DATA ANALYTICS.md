@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PADIDHAM-NAGA-NANDINI-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BRUNGI SREEJA</td> 
+
+<td style="border : 2px solid green;">sreeja1214</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BRUNGI-SREEJA-g2-data-analytics</td> 
+</tr>
