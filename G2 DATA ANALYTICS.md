@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PERAM KISHORE</td> 
+
+<td style="border : 2px solid green;">kshr346</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PERAM-KISHORE-g2-data-analytics</td> 
+</tr>
