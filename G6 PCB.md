@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NITHISHKUMAR-S-g6-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SINGANAVENA SAHASRA</td> 
+
+<td style="border : 2px solid green;">singanavenasahasra</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SINGANAVENA-SAHASRA-g6-pcb</td> 
+</tr>
