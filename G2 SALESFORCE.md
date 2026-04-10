@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARPANA-SINHA-g2-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THANDA PRIYABHANDAVI</td> 
+
+<td style="border : 2px solid green;">peuliya-12</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THANDA-PRIYABHANDAVI-g2-salesforce</td> 
+</tr>
