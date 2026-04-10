@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KASHISH-TANEJA-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TAMANNA</td> 
+
+<td style="border : 2px solid green;">tamannadagar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TAMANNA-g2-data-analytics</td> 
+</tr>
