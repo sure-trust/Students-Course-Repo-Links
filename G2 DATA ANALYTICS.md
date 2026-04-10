@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMANTA-NAYAN-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PADIDHAM NAGA NANDINI</td> 
+
+<td style="border : 2px solid green;">nandinipadidham-lgtm</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PADIDHAM-NAGA-NANDINI-g2-data-analytics</td> 
+</tr>
