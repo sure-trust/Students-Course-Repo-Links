@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DASA-CHANDANA-g6-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K M MANIKANTA</td> 
+
+<td style="border : 2px solid green;">kmmanikanta147</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K-M-MANIKANTA-g6-pcb</td> 
+</tr>
