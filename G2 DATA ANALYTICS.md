@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHALU-PAL-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAYEE MAJUMDAR</td> 
+
+<td style="border : 2px solid green;">jayee-majumdar18</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAYEE-MAJUMDAR-g2-data-analytics</td> 
+</tr>
