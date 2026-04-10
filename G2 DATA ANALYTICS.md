@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SATYAM-KUMAR-SHRIVASTAV-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NITIN SHARMA</td> 
+
+<td style="border : 2px solid green;">nitin-sharma-001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NITIN-SHARMA-g2-data-analytics</td> 
+</tr>
