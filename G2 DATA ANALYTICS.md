@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THARUNI-VANGURU-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHALU PAL</td> 
+
+<td style="border : 2px solid green;">shalupal8315</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHALU-PAL-g2-data-analytics</td> 
+</tr>
