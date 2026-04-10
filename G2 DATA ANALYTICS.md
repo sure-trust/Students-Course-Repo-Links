@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BRUNGI-SREEJA-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HANNE JENIFER R</td> 
+
+<td style="border : 2px solid green;">hannejenifer</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics</td> 
+</tr>
