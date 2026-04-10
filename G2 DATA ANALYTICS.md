@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEVARAPALLI-VENKA-REDDY-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THARUNI VANGURU</td> 
+
+<td style="border : 2px solid green;">tharuniv</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THARUNI-VANGURU-g2-data-analytics</td> 
+</tr>
