@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JAYEE-MAJUMDAR-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMISHA JAIN</td> 
+
+<td style="border : 2px solid green;">amishajain0031-amu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMISHA-JAIN-g2-data-analytics</td> 
+</tr>
