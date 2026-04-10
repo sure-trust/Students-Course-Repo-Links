@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHIVAM-BHARTI-g2-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AYUSH CHOUDHARY</td> 
+
+<td style="border : 2px solid green;">choudharyayush2027-cmd</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AYUSH-CHOUDHARY-g2-salesforce</td> 
+</tr>
