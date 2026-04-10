@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHERUPALLI-SHARVANAND-g6-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RASAMALLA RAVIKIRAN</td> 
+
+<td style="border : 2px solid green;">ravi050607</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RASAMALLA-RAVIKIRAN-g6-pcb</td> 
+</tr>
