@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TAMANNA-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SATYAM KUMAR SHRIVASTAV</td> 
+
+<td style="border : 2px solid green;">satyamkumarshrivastav</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SATYAM-KUMAR-SHRIVASTAV-g2-data-analytics</td> 
+</tr>
