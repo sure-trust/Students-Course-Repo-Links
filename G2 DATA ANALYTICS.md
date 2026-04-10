@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NANDINI-g2-data-analytics</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KASHISH TANEJA</td> 
+
+<td style="border : 2px solid green;">kashishtan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KASHISH-TANEJA-g2-data-analytics</td> 
+</tr>
