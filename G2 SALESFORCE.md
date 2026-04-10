@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THANDA-PRIYABHANDAVI-g2-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MEDISETTI DEEPIKA</td> 
+
+<td style="border : 2px solid green;">deepika11-hub</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MEDISETTI-DEEPIKA-g2-salesforce</td> 
+</tr>
