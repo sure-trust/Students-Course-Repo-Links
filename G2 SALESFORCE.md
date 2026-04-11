@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MD-SAJID-SALIM-g2-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JYOTI KUMARI</td> 
+
+<td style="border : 2px solid green;">github</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JYOTI-KUMARI-g2-salesforce</td> 
+</tr>
