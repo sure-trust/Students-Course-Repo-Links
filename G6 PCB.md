@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUDESH-RAVINDRA-PANDIT-g6-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUDLA SIREESHA</td> 
+
+<td style="border : 2px solid green;">sireeshagudla</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUDLA-SIREESHA-g6-pcb</td> 
+</tr>
