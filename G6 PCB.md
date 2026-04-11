@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SINGANAVENA-SAHASRA-g6-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K HARI VIGNESH</td> 
+
+<td style="border : 2px solid green;">harivignesh2003k-svg</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K-HARI-VIGNESH-g6-pcb</td> 
+</tr>
