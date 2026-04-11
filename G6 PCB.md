@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUDLA-SIREESHA-g6-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAKESH ALLAMPALLY</td> 
+
+<td style="border : 2px solid green;">alampallirakesh-ctrl</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAKESH-ALLAMPALLY-g6-pcb</td> 
+</tr>
