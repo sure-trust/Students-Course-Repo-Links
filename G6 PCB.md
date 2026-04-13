@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THANNIRU-AJAY-BABU-g6-pcb</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VELUGU SOUJANYA</td> 
+
+<td style="border : 2px solid green;">velugusoujanya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VELUGU-SOUJANYA-g6-pcb</td> 
+</tr>
