@@ -430,3 +430,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANJALI-g6-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NIKHIL</td> 
+
+<td style="border : 2px solid green;">nikhil-kumar-2007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NIKHIL-g6-gen-ai</td> 
+</tr>
