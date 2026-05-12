@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANKITH-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANIKANTA K M</td> 
+
+<td style="border : 2px solid green;">kmmanikanta147</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANIKANTA-K-M-g2-26-vlsi</td> 
+</tr>
