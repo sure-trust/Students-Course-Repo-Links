@@ -414,3 +414,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SERU-MUKESH-ROY-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANIDEEP EMMADI</td> 
+
+<td style="border : 2px solid green;">maniemmadi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANIDEEP-EMMADI-g2-26-vlsi</td> 
+</tr>
