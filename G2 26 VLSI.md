@@ -278,3 +278,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PIR-TUFAIL-SALEEM-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADITHYAN MANI</td> 
+
+<td style="border : 2px solid green;">adithyanmani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADITHYAN-MANI-g2-26-vlsi</td> 
+</tr>
