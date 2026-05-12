@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MD-SARIM-ALI-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MANOJ KUMAR.K</td> 
+
+<td style="border : 2px solid green;">manugowda7702-star</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-KUMAR.K-g2-26-vlsi</td> 
+</tr>
