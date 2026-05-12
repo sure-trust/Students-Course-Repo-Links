@@ -310,3 +310,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YEPUGANTI-ANJI-BABU-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DODDA SUPRIYA</td> 
+
+<td style="border : 2px solid green;">supriya-hub-alt</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DODDA-SUPRIYA-g2-26-vlsi</td> 
+</tr>
