@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UDUTHA-ANUSHA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MD SARIM ALI</td> 
+
+<td style="border : 2px solid green;">sarim75</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MD-SARIM-ALI-g2-26-vlsi</td> 
+</tr>
