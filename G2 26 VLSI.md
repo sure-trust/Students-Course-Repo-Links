@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NALLAGANGULA-LOKESH-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANDUPATLA ANU REDDY</td> 
+
+<td style="border : 2px solid green;">anureddysandupatla-star</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANDUPATLA-ANU-REDDY-g2-26-vlsi</td> 
+</tr>
