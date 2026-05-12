@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BOYA-DIVYA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BATTALA REDDY AKSHAYA</td> 
+
+<td style="border : 2px solid green;">reddyakshayag226vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BATTALA-REDDY-AKSHAYA-g2-26-vlsi</td> 
+</tr>
