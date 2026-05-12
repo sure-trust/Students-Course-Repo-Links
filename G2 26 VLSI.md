@@ -398,3 +398,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DADUVAI-SAI-TEJA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JASMEEN KAUR</td> 
+
+<td style="border : 2px solid green;">jasmeenkaur4151</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JASMEEN-KAUR-g2-26-vlsi</td> 
+</tr>
