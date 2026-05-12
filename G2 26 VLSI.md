@@ -438,3 +438,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GADDAM-BALA-SAI-CHARAN-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HIMANSHU PAL</td> 
+
+<td style="border : 2px solid green;">himanshu-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HIMANSHU-PAL-g2-26-vlsi</td> 
+</tr>
