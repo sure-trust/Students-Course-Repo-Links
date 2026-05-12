@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KARANKI-SUDHEER-BABU-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GANGAVARAPU VENKATA VIDYA VANI</td> 
+
+<td style="border : 2px solid green;">venkata-vidyavani</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GANGAVARAPU-VENKATA-VIDYA-VANI-g2-26-vlsi</td> 
+</tr>
