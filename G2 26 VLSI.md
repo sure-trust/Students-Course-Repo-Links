@@ -222,3 +222,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAKTHAL-RAHUL-RAO-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAIDIPILLI PURUSHOTHAM</td> 
+
+<td style="border : 2px solid green;">purush-5268</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAIDIPILLI-PURUSHOTHAM-g2-26-vlsi</td> 
+</tr>
