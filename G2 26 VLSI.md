@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAIDIPILLI-PURUSHOTHAM-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ROKKARUKALA NANDINI</td> 
+
+<td style="border : 2px solid green;">nandini-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ROKKARUKALA-NANDINI-g2-26-vlsi</td> 
+</tr>
