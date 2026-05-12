@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANIKANTA-K-M-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHIMALADINNE VENKATA PRANAY</td> 
+
+<td style="border : 2px solid green;">venkatapranayg2-26vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHIMALADINNE-VENKATA-PRANAY-g2-26-vlsi</td> 
+</tr>
