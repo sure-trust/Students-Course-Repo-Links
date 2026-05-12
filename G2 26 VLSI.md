@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAMBHAM-LOHITHA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAKTHAL RAHUL RAO</td> 
+
+<td style="border : 2px solid green;">rahulrao-21</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAKTHAL-RAHUL-RAO-g2-26-vlsi</td> 
+</tr>
