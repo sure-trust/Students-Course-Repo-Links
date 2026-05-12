@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NARAYANASETTY-DEDEEPYA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VAJJA UMADEVI</td> 
+
+<td style="border : 2px solid green;">umadevivajja269-create</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VAJJA-UMADEVI-g2-26-vlsi</td> 
+</tr>
