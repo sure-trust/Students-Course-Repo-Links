@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUJJULA-NISHITHA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UDUTHA ANUSHA</td> 
+
+<td style="border : 2px solid green;">uduthaanushaa26</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UDUTHA-ANUSHA-g2-26-vlsi</td> 
+</tr>
