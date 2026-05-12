@@ -422,3 +422,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANIDEEP-EMMADI-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MALLU REKHA</td> 
+
+<td style="border : 2px solid green;">rekhamallu009-afk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MALLU-REKHA-g2-26-vlsi</td> 
+</tr>
