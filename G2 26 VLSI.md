@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANOJ-KUMAR.K-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ALLAPADU PRAVEENA</td> 
+
+<td style="border : 2px solid green;">praveena887</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ALLAPADU-PRAVEENA-g2-26-vlsi</td> 
+</tr>
