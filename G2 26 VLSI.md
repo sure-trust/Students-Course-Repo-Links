@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NADIMINTI-NAVYA-SREE-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">H S YASHVANTH</td> 
+
+<td style="border : 2px solid green;">yashvanthhs123-hue</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/H-S-YASHVANTH-g2-26-vlsi</td> 
+</tr>
