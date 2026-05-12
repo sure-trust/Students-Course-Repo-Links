@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAJ-KUMAR-GUPTA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOPURI PERSIS</td> 
+
+<td style="border : 2px solid green;">mopuri-persis</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOPURI-PERSIS-g2-26-vlsi</td> 
+</tr>
