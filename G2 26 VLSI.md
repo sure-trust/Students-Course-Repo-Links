@@ -462,3 +462,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANADESH-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KASI REDDY SASHIDHAR REDDY</td> 
+
+<td style="border : 2px solid green;">sashidhar077</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KASI-REDDY-SASHIDHAR-REDDY-g2-26-vlsi</td> 
+</tr>
