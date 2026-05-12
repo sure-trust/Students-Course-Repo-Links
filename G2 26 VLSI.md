@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-RAVINDRANATH-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KARANKI SUDHEER BABU</td> 
+
+<td style="border : 2px solid green;">karankisudheer1993</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KARANKI-SUDHEER-BABU-g2-26-vlsi</td> 
+</tr>
