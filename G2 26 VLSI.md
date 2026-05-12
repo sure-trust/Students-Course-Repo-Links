@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOMMULA-DURGA-BHARADWAJ-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAPURU SRI LAKSHMI</td> 
+
+<td style="border : 2px solid green;">srilakshmirapurug226vlsi-bot</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAPURU-SRI-LAKSHMI-g2-26-vlsi</td> 
+</tr>
