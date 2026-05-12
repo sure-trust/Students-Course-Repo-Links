@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARAVAPALLI-RAMYA-MOUNIKA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YEPUGANTI ANJI BABU</td> 
+
+<td style="border : 2px solid green;">anjicherry123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YEPUGANTI-ANJI-BABU-g2-26-vlsi</td> 
+</tr>
