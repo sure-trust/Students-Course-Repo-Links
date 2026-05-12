@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DODDA-SUPRIYA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NARAYANASETTY DEDEEPYA</td> 
+
+<td style="border : 2px solid green;">dedee23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NARAYANASETTY-DEDEEPYA-g2-26-vlsi</td> 
+</tr>
