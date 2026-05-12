@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SANDUPATLA-ANU-REDDY-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RAJ KUMAR GUPTA</td> 
+
+<td style="border : 2px solid green;">rajkrgupta74888-byte</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RAJ-KUMAR-GUPTA-g2-26-vlsi</td> 
+</tr>
