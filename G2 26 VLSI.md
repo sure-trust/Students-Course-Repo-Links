@@ -470,3 +470,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KASI-REDDY-SASHIDHAR-REDDY-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADITHYA</td> 
+
+<td style="border : 2px solid green;">adityaaditya0</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADITHYA-g2-26-vlsi</td> 
+</tr>
