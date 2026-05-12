@@ -382,3 +382,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MARRI-KRUTHIK-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UYYALA VISHNU VARDHAN REDDY</td> 
+
+<td style="border : 2px solid green;">uyyalavishnu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UYYALA-VISHNU-VARDHAN-REDDY-g2-26-vlsi</td> 
+</tr>
