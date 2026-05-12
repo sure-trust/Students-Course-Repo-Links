@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAPURU-SRI-LAKSHMI-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KURUBA RAVINDRANATH</td> 
+
+<td style="border : 2px solid green;">ravindranath-g2-26-vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-RAVINDRANATH-g2-26-vlsi</td> 
+</tr>
