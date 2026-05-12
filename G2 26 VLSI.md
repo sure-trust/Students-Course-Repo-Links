@@ -390,3 +390,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UYYALA-VISHNU-VARDHAN-REDDY-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DADUVAI SAI TEJA</td> 
+
+<td style="border : 2px solid green;">daduvaisaiteja</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DADUVAI-SAI-TEJA-g2-26-vlsi</td> 
+</tr>
