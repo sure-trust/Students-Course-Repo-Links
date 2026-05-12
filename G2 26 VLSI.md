@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PADIGE-LIKITHA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POOLA LIKITHA REDDY</td> 
+
+<td style="border : 2px solid green;">likithareddypoola</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POOLA-LIKITHA-REDDY-g2-26-vlsi</td> 
+</tr>
