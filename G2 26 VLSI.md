@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ROKKARUKALA-NANDINI-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BOYA DIVYA</td> 
+
+<td style="border : 2px solid green;">divyab6130</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BOYA-DIVYA-g2-26-vlsi</td> 
+</tr>
