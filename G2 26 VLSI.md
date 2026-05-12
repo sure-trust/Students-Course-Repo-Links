@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TUMMALA-PRADEEP-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAMBHAM LOHITHA</td> 
+
+<td style="border : 2px solid green;">lohithakambham</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAMBHAM-LOHITHA-g2-26-vlsi</td> 
+</tr>
