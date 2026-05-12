@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MATHAKALA-PENCHALA-LIKHITHA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TUMMALA PRADEEP</td> 
+
+<td style="border : 2px solid green;">albertpradeep-007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TUMMALA-PRADEEP-g2-26-vlsi</td> 
+</tr>
