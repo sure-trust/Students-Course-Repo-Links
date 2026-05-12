@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOPURI-PERSIS-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOMMULA DURGA BHARADWAJ</td> 
+
+<td style="border : 2px solid green;">durgabharadwajg2-26vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOMMULA-DURGA-BHARADWAJ-g2-26-vlsi</td> 
+</tr>
