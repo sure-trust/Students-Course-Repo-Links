@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/H-S-YASHVANTH-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PIR TUFAIL SALEEM</td> 
+
+<td style="border : 2px solid green;">tufailpir774-oss</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PIR-TUFAIL-SALEEM-g2-26-vlsi</td> 
+</tr>
