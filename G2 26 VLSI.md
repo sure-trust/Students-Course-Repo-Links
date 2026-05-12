@@ -374,3 +374,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GORTHI-ESWAR-VARDHAN-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MARRI KRUTHIK</td> 
+
+<td style="border : 2px solid green;">marrikruthik</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MARRI-KRUTHIK-g2-26-vlsi</td> 
+</tr>
