@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/G-SIDDARTHA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NALLAGANGULA LOKESH</td> 
+
+<td style="border : 2px solid green;">nallagangulalokesh</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NALLAGANGULA-LOKESH-g2-26-vlsi</td> 
+</tr>
