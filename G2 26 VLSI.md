@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ALLAPADU-PRAVEENA-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHA S</td> 
+
+<td style="border : 2px solid green;">harsha-s-031104</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHA-S-g2-26-vlsi</td> 
+</tr>
