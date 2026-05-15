@@ -518,3 +518,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRASANNA-KUMAR-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANKANALA SHASHI</td> 
+
+<td style="border : 2px solid green;">shashikankanala23</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANKANALA-SHASHI-g2-26-vlsi</td> 
+</tr>
