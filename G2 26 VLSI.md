@@ -502,3 +502,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PADMAVATHI-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THUPAKULA GOWTHAM</td> 
+
+<td style="border : 2px solid green;">gowthamg226vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THUPAKULA-GOWTHAM-g2-26-vlsi</td> 
+</tr>
