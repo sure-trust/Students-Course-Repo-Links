@@ -510,3 +510,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THUPAKULA-GOWTHAM-g2-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRASANNA KUMAR</td> 
+
+<td style="border : 2px solid green;">prasannakumarcn</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRASANNA-KUMAR-g2-26-vlsi</td> 
+</tr>
