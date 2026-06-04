@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUVVADI-GANESH-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YEGIREDDY HEMA SATWIKA</td> 
+
+<td style="border : 2px solid green;">satwika8523</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YEGIREDDY-HEMA-SATWIKA-g40-ai-ml</td> 
+</tr>
