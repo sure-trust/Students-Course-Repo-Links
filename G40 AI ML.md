@@ -270,3 +270,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUNDREDDY-KEERTHANA-REDDY-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DESETTY LAHARI PRASANNA</td> 
+
+<td style="border : 2px solid green;">lahari-prasanna</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DESETTY-LAHARI-PRASANNA-g40-ai-ml</td> 
+</tr>
