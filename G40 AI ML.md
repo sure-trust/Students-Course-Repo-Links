@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SATISH-HANJI-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUNDREDDY KEERTHANA REDDY</td> 
+
+<td style="border : 2px solid green;">gundreddykeerthanareddy</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUNDREDDY-KEERTHANA-REDDY-g40-ai-ml</td> 
+</tr>
