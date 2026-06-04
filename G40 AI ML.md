@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AYUSHMAN-SINGH-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SASIREKHA</td> 
+
+<td style="border : 2px solid green;">datascience-dv-</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SASIREKHA-g40-ai-ml</td> 
+</tr>
