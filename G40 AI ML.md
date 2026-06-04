@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAVITA-KANCHAN-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">REDDY SURENDRA</td> 
+
+<td style="border : 2px solid green;">surendrareddy7468</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/REDDY-SURENDRA-g40-ai-ml</td> 
+</tr>
