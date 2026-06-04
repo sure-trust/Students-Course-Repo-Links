@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VARSHITH-D-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRASHANT</td> 
+
+<td style="border : 2px solid green;">prashantkasar9980</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRASHANT-g40-ai-ml</td> 
+</tr>
