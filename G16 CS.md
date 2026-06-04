@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KALISETTI-TRISHA-g16-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">EMANI S D S VENKATA SITA SOWMYA</td> 
+
+<td style="border : 2px solid green;">sitasharma94</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/EMANI-S-D-S-VENKATA-SITA-SOWMYA-g16-cs</td> 
+</tr>
