@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ATIT-PATEL-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">T VENKATA VIVEK VARDHAN</td> 
+
+<td style="border : 2px solid green;">venkatavivekthummala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/T-VENKATA-VIVEK-VARDHAN-g40-ai-ml</td> 
+</tr>
