@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AIESHA-SHAIK-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ATIT PATEL</td> 
+
+<td style="border : 2px solid green;">atitpatel16</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ATIT-PATEL-g40-ai-ml</td> 
+</tr>
