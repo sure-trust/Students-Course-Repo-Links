@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SUMASRI-AMPILI-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAPNEET KAUR</td> 
+
+<td style="border : 2px solid green;">japneetsawhney123-png</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAPNEET-KAUR-g40-ai-ml</td> 
+</tr>
