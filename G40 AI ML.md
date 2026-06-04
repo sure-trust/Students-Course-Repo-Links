@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ABHIRAM-SAI-KODALI-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">S NITHIN KUMAR</td> 
+
+<td style="border : 2px solid green;">nithinkumar2102</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/S-NITHIN-KUMAR-g40-ai-ml</td> 
+</tr>
