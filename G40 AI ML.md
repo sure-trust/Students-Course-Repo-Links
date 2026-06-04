@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PATHAKAMURI-HARSHITHA-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PATAN SHADIK KHAN</td> 
+
+<td style="border : 2px solid green;">shadik102</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PATAN-SHADIK-KHAN-g40-ai-ml</td> 
+</tr>
