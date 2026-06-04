@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SASIREKHA-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUVVADI GANESH</td> 
+
+<td style="border : 2px solid green;">guvvadiganesh-crypto</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUVVADI-GANESH-g40-ai-ml</td> 
+</tr>
