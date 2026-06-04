@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHITA-SINGH-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TEJA SRI VADDI</td> 
+
+<td style="border : 2px solid green;">vadditejasree</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TEJA-SRI-VADDI-g40-ai-ml</td> 
+</tr>
