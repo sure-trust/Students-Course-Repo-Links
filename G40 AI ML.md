@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/S-NITHIN-KUMAR-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">G.RAJESH</td> 
+
+<td style="border : 2px solid green;">rajesh95028</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/G.RAJESH-g40-ai-ml</td> 
+</tr>
