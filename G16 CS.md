@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/J-VINAYAKA-g16-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DEEPAK CHOUDHARY</td> 
+
+<td style="border : 2px solid green;">24cyber08-debug</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-CHOUDHARY-g16-cs</td> 
+</tr>
