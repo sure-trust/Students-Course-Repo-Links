@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANANYA-g31-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ANKUR YADAV</td> 
+
+<td style="border : 2px solid green;">alphamindz</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ANKUR-YADAV-g31-fsd</td> 
+</tr>
