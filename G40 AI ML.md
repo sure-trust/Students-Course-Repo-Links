@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KINKIRI-DEEPTHI-REDDY-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PATHAKAMURI HARSHITHA</td> 
+
+<td style="border : 2px solid green;">harshitha778</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PATHAKAMURI-HARSHITHA-g40-ai-ml</td> 
+</tr>
