@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DEEPAK-CHOUDHARY-g16-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KHUSHAL DONGRE</td> 
+
+<td style="border : 2px solid green;">not-khushal404</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KHUSHAL-DONGRE-g16-cs</td> 
+</tr>
