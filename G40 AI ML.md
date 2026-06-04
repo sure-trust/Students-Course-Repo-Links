@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PATAN-SHADIK-KHAN-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAAREDDY HARSHINI</td> 
+
+<td style="border : 2px solid green;">harshinimareddy737-sudo</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAAREDDY-HARSHINI-g40-ai-ml</td> 
+</tr>
