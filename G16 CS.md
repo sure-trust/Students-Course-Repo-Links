@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAGAR-YADAV-g16-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KALISETTI TRISHA</td> 
+
+<td style="border : 2px solid green;">trishakalisetti</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KALISETTI-TRISHA-g16-cs</td> 
+</tr>
