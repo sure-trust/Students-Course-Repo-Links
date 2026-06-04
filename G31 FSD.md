@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SETTIPALLI-SAILAJA-g31-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GORE ANKITA BIRBAL</td> 
+
+<td style="border : 2px solid green;">ankita-2006-gore</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GORE-ANKITA-BIRBAL-g31-fsd</td> 
+</tr>
