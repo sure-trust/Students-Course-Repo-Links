@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRASHANT-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAVITA KANCHAN</td> 
+
+<td style="border : 2px solid green;">kavitakanchan</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAVITA-KANCHAN-g40-ai-ml</td> 
+</tr>
