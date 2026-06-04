@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NIDHI-KALURAM-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">INDRAGANTI VENKATA SAI MANOJ KUMAR</td> 
+
+<td style="border : 2px solid green;">manoj-1229</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/INDRAGANTI-VENKATA-SAI-MANOJ-KUMAR-g40-ai-ml</td> 
+</tr>
