@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KHUSHAL-DONGRE-g16-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAGARGOJE SAMARTH SURESH</td> 
+
+<td style="border : 2px solid green;">samarthnagargoje07</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAGARGOJE-SAMARTH-SURESH-g16-cs</td> 
+</tr>
