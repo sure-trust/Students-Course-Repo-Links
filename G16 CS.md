@@ -166,3 +166,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSH-SHAILESHBHAI-VASOYA-g16-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SHAIKH FAZAL NOOR MD</td> 
+
+<td style="border : 2px solid green;">fuzzy4-arch</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SHAIKH-FAZAL-NOOR-MD-g16-cs</td> 
+</tr>
