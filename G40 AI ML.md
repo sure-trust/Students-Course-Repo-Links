@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/T-VENKATA-VIVEK-VARDHAN-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DODDI SRUTHI</td> 
+
+<td style="border : 2px solid green;">sruthignanu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DODDI-SRUTHI-g40-ai-ml</td> 
+</tr>
