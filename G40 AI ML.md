@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/G.RAJESH-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAILAMURI TEJASWINI</td> 
+
+<td style="border : 2px solid green;">tejamailamuri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAILAMURI-TEJASWINI-g40-ai-ml</td> 
+</tr>
