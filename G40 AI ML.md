@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHINNANARASANAGARI-SIREESHA-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SOBANALA GAYATHRI</td> 
+
+<td style="border : 2px solid green;">gayathri-249</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SOBANALA-GAYATHRI-g40-ai-ml</td> 
+</tr>
