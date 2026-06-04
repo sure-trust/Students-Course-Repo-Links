@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GUNDOJU-MEHER-SAI-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHITA SINGH</td> 
+
+<td style="border : 2px solid green;">harshi75</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHITA-SINGH-g40-ai-ml</td> 
+</tr>
