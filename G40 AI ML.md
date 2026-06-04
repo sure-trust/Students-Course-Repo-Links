@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/INDRAGANTI-VENKATA-SAI-MANOJ-KUMAR-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AYUSHMAN SINGH</td> 
+
+<td style="border : 2px solid green;">ayushmansingh001</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AYUSHMAN-SINGH-g40-ai-ml</td> 
+</tr>
