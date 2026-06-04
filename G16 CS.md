@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMEER-PRAMOD-GAWALI-g16-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KHARTODE AAYUSH SATISH</td> 
+
+<td style="border : 2px solid green;">aayush-g16cs</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KHARTODE-AAYUSH-SATISH-g16-cs</td> 
+</tr>
