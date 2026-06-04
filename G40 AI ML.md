@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SOBANALA-GAYATHRI-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUMASRI AMPILI</td> 
+
+<td style="border : 2px solid green;">sumasri-14</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUMASRI-AMPILI-g40-ai-ml</td> 
+</tr>
