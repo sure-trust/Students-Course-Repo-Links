@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/REDDY-SURENDRA-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TOMPA ESWARA RAO</td> 
+
+<td style="border : 2px solid green;">eswar360</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TOMPA-ESWARA-RAO-g40-ai-ml</td> 
+</tr>
