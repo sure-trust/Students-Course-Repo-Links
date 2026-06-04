@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JAPNEET-KAUR-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GUNDOJU MEHER SAI</td> 
+
+<td style="border : 2px solid green;">mehersaig</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GUNDOJU-MEHER-SAI-g40-ai-ml</td> 
+</tr>
