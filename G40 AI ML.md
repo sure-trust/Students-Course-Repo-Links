@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAILAMURI-TEJASWINI-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KINKIRI DEEPTHI REDDY</td> 
+
+<td style="border : 2px solid green;">deepthireddykinkiri16</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KINKIRI-DEEPTHI-REDDY-g40-ai-ml</td> 
+</tr>
