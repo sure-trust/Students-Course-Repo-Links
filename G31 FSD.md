@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAYATHRI-NAVUDU-g31-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AYUSHI PANDEY</td> 
+
+<td style="border : 2px solid green;">ayushi280</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AYUSHI-PANDEY-g31-fsd</td> 
+</tr>
