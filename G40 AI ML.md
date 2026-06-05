@@ -326,3 +326,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NANDINI-GAUR-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SURAJ SINGH</td> 
+
+<td style="border : 2px solid green;">rajawatss8707-dev</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SURAJ-SINGH-g40-ai-ml</td> 
+</tr>
