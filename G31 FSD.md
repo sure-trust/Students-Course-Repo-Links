@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SHARIFUR-RAHMAN-g31-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GAYATHRI NAVUDU</td> 
+
+<td style="border : 2px solid green;">gayathri-navudu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GAYATHRI-NAVUDU-g31-fsd</td> 
+</tr>
