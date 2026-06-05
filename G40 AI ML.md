@@ -318,3 +318,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ADARSH-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NANDINI GAUR</td> 
+
+<td style="border : 2px solid green;">nandinigaur009-it</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NANDINI-GAUR-g40-ai-ml</td> 
+</tr>
