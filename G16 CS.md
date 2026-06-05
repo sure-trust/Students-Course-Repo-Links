@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PANYAM-HEMANTH-g16-cs</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JINUKALA ABHIRAM</td> 
+
+<td style="border : 2px solid green;">abhiramj092-stack?tab=repositories</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JINUKALA-ABHIRAM-g16-cs</td> 
+</tr>
