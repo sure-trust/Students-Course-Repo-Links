@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MANGALA-MADHAVI-g31-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUJAL BHARDWAJ</td> 
+
+<td style="border : 2px solid green;">sujalbhardwaj-hub</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUJAL-BHARDWAJ-g31-fsd</td> 
+</tr>
