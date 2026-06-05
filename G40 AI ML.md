@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAMIREDDY-NITHIN-KUMAR-REDDY-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANJANA MANTHENA</td> 
+
+<td style="border : 2px solid green;">sanjanamanthena7</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANJANA-MANTHENA-g40-ai-ml</td> 
+</tr>
