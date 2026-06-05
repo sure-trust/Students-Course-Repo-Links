@@ -294,3 +294,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SASIREKHA-V-g40-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PAMIREDDY NITHIN KUMAR REDDY</td> 
+
+<td style="border : 2px solid green;">nithinkumarreddy1634-debug</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PAMIREDDY-NITHIN-KUMAR-REDDY-g40-ai-ml</td> 
+</tr>
