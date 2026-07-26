@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/UMA-C-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VADDEPALLY VIDYA</td> 
+
+<td style="border : 2px solid green;">vidya281104</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VADDEPALLY-VIDYA-g3-data-analytics-and-sql</td> 
+</tr>
