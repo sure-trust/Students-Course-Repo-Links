@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RODAGE-GITANJALI-SUNIL-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAVITA SANJAY CHAUDHARI</td> 
+
+<td style="border : 2px solid green;">chaudharikavita2004-spe</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAVITA-SANJAY-CHAUDHARI-g3-data-analytics-and-sql</td> 
+</tr>
