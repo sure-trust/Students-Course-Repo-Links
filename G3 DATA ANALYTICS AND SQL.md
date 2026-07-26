@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MAYURI-MADAN-PINGALE-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KAKI CHANDRA TEJA</td> 
+
+<td style="border : 2px solid green;">chandrateja-spec</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KAKI-CHANDRA-TEJA-g3-data-analytics-and-sql</td> 
+</tr>
