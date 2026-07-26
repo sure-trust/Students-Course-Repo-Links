@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAITANYA-SUNIL-ROHOKALE-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JAYDIP RAMDAS MARKAD</td> 
+
+<td style="border : 2px solid green;">jaydipmarkadg3dataanalytics-ship-it</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JAYDIP-RAMDAS-MARKAD-g3-data-analytics-and-sql</td> 
+</tr>
