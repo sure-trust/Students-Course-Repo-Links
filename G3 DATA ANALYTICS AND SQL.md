@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAVITA-SANJAY-CHAUDHARI-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YASH NITIN THAKARE</td> 
+
+<td style="border : 2px solid green;">yashthakare58948</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YASH-NITIN-THAKARE-g3-data-analytics-and-sql</td> 
+</tr>
