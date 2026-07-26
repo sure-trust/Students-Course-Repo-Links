@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VADDEPALLY-VIDYA-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VIKASH JAISHWAL</td> 
+
+<td style="border : 2px solid green;">sure-trust-assignment-and-project-</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VIKASH-JAISHWAL-g3-data-analytics-and-sql</td> 
+</tr>
