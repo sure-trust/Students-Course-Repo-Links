@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PUJARI-SHANMUKHA-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOURAV BERWAL</td> 
+
+<td style="border : 2px solid green;">gouravberwal</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOURAV-BERWAL-g3-data-analytics-and-sql</td> 
+</tr>
