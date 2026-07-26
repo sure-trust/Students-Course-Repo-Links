@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YASH-NITIN-THAKARE-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHD KAIF</td> 
+
+<td style="border : 2px solid green;">mohdkaif2692</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-KAIF-g3-data-analytics-and-sql</td> 
+</tr>
