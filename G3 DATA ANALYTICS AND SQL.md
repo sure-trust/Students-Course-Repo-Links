@@ -198,3 +198,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/P.-SMRITHI-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KANAMPALLI KRISHNASAI YADAV</td> 
+
+<td style="border : 2px solid green;">kittu454</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KANAMPALLI-KRISHNASAI-YADAV-g3-data-analytics-and-sql</td> 
+</tr>
