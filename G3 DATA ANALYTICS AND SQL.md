@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAGPURE-VAISHNAVI-DILIP-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PATTI HARIKA</td> 
+
+<td style="border : 2px solid green;">harikapatti678?tab=repositories</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PATTI-HARIKA-g3-data-analytics-and-sql</td> 
+</tr>
