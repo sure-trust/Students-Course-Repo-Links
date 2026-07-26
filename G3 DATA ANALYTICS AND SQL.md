@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JYOTI-VINODKUMAR-VERMA-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANOTHU MURALI</td> 
+
+<td style="border : 2px solid green;">prem820</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANOTHU-MURALI-g3-data-analytics-and-sql</td> 
+</tr>
