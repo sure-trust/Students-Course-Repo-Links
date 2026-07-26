@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VIKASH-JAISHWAL-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">Y.TEJA VEERENDRA</td> 
+
+<td style="border : 2px solid green;">teja0077</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/Y.TEJA-VEERENDRA-g3-data-analytics-and-sql</td> 
+</tr>
