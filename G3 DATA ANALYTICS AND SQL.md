@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JAYDIP-RAMDAS-MARKAD-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PUJARI SHANMUKHA</td> 
+
+<td style="border : 2px solid green;">shanmukhapujari77-create</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PUJARI-SHANMUKHA-g3-data-analytics-and-sql</td> 
+</tr>
