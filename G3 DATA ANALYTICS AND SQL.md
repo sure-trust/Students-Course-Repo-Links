@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-KAIF-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">UMA C</td> 
+
+<td style="border : 2px solid green;">umac-g3da</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/UMA-C-g3-data-analytics-and-sql</td> 
+</tr>
