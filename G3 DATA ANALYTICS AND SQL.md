@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAKI-CHANDRA-TEJA-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NAGPURE VAISHNAVI DILIP</td> 
+
+<td style="border : 2px solid green;">vaishnavi070905</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NAGPURE-VAISHNAVI-DILIP-g3-data-analytics-and-sql</td> 
+</tr>
