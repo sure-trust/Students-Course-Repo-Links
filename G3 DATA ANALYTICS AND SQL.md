@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VENNAPU-SREE-SAI-CHANDRA-HARSHA-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MAYURI MADAN PINGALE</td> 
+
+<td style="border : 2px solid green;">mayurimpingle</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MAYURI-MADAN-PINGALE-g3-data-analytics-and-sql</td> 
+</tr>
