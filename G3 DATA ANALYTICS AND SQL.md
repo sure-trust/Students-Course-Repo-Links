@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAITANYA-SUNIL-ROHOKALE-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAITANYA SUNIL ROHOKALE</td> 
+
+<td style="border : 2px solid green;">techiecr</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAITANYA-SUNIL-ROHOKALE-g3-data-analytics-and-sql</td> 
+</tr>
