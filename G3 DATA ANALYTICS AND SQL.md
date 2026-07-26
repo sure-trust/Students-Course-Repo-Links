@@ -190,3 +190,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NITIN-TAMBAT-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">P. SMRITHI</td> 
+
+<td style="border : 2px solid green;">psmrithi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/P.-SMRITHI-g3-data-analytics-and-sql</td> 
+</tr>
