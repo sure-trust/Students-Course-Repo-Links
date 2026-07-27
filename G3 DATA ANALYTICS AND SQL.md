@@ -246,3 +246,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BURLA-BINDU-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHAMMAD FAROOQ SHAREEF</td> 
+
+<td style="border : 2px solid green;">itsfarooq-45</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMAD-FAROOQ-SHAREEF-g3-data-analytics-and-sql</td> 
+</tr>
