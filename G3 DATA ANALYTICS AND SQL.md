@@ -230,3 +230,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANTARA-SURENDRA-SARAF-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AKKIREDDY PAVAN KUMAR</td> 
+
+<td style="border : 2px solid green;">pavankumar5757</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AKKIREDDY-PAVAN-KUMAR-g3-data-analytics-and-sql</td> 
+</tr>
