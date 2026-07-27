@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GAYATRI-PRAKASH-VISPUTE-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SANIYA BEGUM SHAIKH LATEEF</td> 
+
+<td style="border : 2px solid green;">saniya-tech786</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SANIYA-BEGUM-SHAIKH-LATEEF-g3-data-analytics-and-sql</td> 
+</tr>
