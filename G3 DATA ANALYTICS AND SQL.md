@@ -286,3 +286,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POTHULA-HEMANTH-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RONANKI DEVENDRA KUMAR</td> 
+
+<td style="border : 2px solid green;">devendraronanki291-creator</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RONANKI-DEVENDRA-KUMAR-g3-data-analytics-and-sql</td> 
+</tr>
