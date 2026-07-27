@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/LOKABHIRAM-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHD SAMEER PASHA</td> 
+
+<td style="border : 2px solid green;">sameer0166</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-SAMEER-PASHA-g3-data-analytics-and-sql</td> 
+</tr>
