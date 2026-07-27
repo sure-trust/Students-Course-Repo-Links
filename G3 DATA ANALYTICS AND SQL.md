@@ -206,3 +206,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KANAMPALLI-KRISHNASAI-YADAV-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GAYATRI PRAKASH VISPUTE</td> 
+
+<td style="border : 2px solid green;">gayatri-vispute</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GAYATRI-PRAKASH-VISPUTE-g3-data-analytics-and-sql</td> 
+</tr>
