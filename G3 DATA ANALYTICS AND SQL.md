@@ -238,3 +238,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKKIREDDY-PAVAN-KUMAR-g3-data-analytics-and-sql</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BURLA BINDU</td> 
+
+<td style="border : 2px solid green;">bindu-burla</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BURLA-BINDU-g3-data-analytics-and-sql</td> 
+</tr>
