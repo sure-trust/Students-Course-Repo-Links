@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DASARI-DHANUSHREE-g16-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GANDLA GAYATHRI</td> 
+
+<td style="border : 2px solid green;">gandlagaythri16</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GANDLA-GAYATHRI-g16-autocad</td> 
+</tr>
