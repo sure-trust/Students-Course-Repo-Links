@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/DURGESH-PRAJAPAT-g16-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIRIVELU YOGESWAR</td> 
+
+<td style="border : 2px solid green;">siriveluyogeswar</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIRIVELU-YOGESWAR-g16-autocad</td> 
+</tr>
