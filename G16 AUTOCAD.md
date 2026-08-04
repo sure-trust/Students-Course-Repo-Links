@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PAMARTHI-YASWANTH-CHANDRA-g16-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RYALI GANESWARA RAO</td> 
+
+<td style="border : 2px solid green;">ganeswararaoryali-svg?tab=stars</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RYALI-GANESWARA-RAO-g16-autocad</td> 
+</tr>
