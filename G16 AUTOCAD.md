@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANDLA-GAYATHRI-g16-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KATIKALA VENKATA REDDY</td> 
+
+<td style="border : 2px solid green;">venkatareddy-9966</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KATIKALA-VENKATA-REDDY-g16-autocad</td> 
+</tr>
