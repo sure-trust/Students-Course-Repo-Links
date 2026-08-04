@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KATIKALA-VENKATA-REDDY-g16-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">DURGESH PRAJAPAT</td> 
+
+<td style="border : 2px solid green;">durgeshprajapat16</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/DURGESH-PRAJAPAT-g16-autocad</td> 
+</tr>
