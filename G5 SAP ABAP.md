@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KRUPA-DILIP-SALVE-g5-sap-abap</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JANKI DINESHBHAI SOLANKI</td> 
+
+<td style="border : 2px solid green;">janki0525</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JANKI-DINESHBHAI-SOLANKI-g5-sap-abap</td> 
+</tr>
