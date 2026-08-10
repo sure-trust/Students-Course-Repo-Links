@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TALLA-SHANMUKHARAO-g17-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">INUMARTHI RUDHRA VENKATA SATYA VINAY</td> 
+
+<td style="border : 2px solid green;">vinayg17autocad</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/INUMARTHI-RUDHRA-VENKATA-SATYA-VINAY-g17-autocad</td> 
+</tr>
