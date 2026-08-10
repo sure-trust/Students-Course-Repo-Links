@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/CHAKALI-SHIVAPRASAD-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MADDIKUNTLA YOGESWAR</td> 
+
+<td style="border : 2px solid green;">myogeswar65-cmd</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MADDIKUNTLA-YOGESWAR-g41-ai-ml</td> 
+</tr>
