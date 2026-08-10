@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JANVI-DAYANAND-PATLE-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VINIKA</td> 
+
+<td style="border : 2px solid green;">vinikasaini</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VINIKA-g41-ai-ml</td> 
+</tr>
