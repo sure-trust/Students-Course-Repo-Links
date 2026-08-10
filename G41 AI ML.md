@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AMIT-RAJ-SINGH-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ADIVEPPA DUNDAPPA MAMADAPUR</td> 
+
+<td style="border : 2px solid green;">adiveppa-git</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ADIVEPPA-DUNDAPPA-MAMADAPUR-g41-ai-ml</td> 
+</tr>
