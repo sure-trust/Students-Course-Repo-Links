@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SURYA-KOUNDINYA-C-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PITCHUKALA HAMSIKA</td> 
+
+<td style="border : 2px solid green;">hansy3345</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PITCHUKALA-HAMSIKA-g41-ai-ml</td> 
+</tr>
