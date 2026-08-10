@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KADAM-PRATIKSHA-DIPAK-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SELVA PREETHI J</td> 
+
+<td style="border : 2px solid green;">selvapreethi2006-hue</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SELVA-PREETHI-J-g41-ai-ml</td> 
+</tr>
