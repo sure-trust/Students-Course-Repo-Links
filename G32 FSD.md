@@ -182,3 +182,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHAMMAD-SAIEM-KHAN-g32-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRANAV ANIL THORAT</td> 
+
+<td style="border : 2px solid green;">pranavthorat1432</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRANAV-ANIL-THORAT-g32-fsd</td> 
+</tr>
