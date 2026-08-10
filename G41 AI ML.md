@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GURJOT-SINGH-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JANVI DAYANAND PATLE</td> 
+
+<td style="border : 2px solid green;">janvipatleg41aiml-sketch</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JANVI-DAYANAND-PATLE-g41-ai-ml</td> 
+</tr>
