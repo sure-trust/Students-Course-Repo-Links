@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ARPIT-KUMAR-MISHRA-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIRIPI UDAY KUMAR REDDY</td> 
+
+<td style="border : 2px solid green;">siripiudaykumarreddy-jpg</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIRIPI-UDAY-KUMAR-REDDY-g41-ai-ml</td> 
+</tr>
