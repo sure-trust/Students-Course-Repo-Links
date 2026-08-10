@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAYYAD-SANDANI-g17-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PUVVADA VENKATA SAI TEJA</td> 
+
+<td style="border : 2px solid green;">puvvadasaiteja</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PUVVADA-VENKATA-SAI-TEJA-g17-autocad</td> 
+</tr>
