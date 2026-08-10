@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-ASAD-AHMAD-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAYAN JANA</td> 
+
+<td style="border : 2px solid green;">cjana81594</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAYAN-JANA-g7-gen-ai</td> 
+</tr>
