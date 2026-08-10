@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BADDUGU-KARUNAKAR-g17-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMJURI SURYA PRAKASH</td> 
+
+<td style="border : 2px solid green;">surya-2005-amjuri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMJURI-SURYA-PRAKASH-g17-autocad</td> 
+</tr>
