@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/AKHLAQUR-RAHMAN-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHD ARIF</td> 
+
+<td style="border : 2px solid green;">mohdarif03981-hue</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-ARIF-g7-gen-ai</td> 
+</tr>
