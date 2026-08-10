@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SELVA-PREETHI-J-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ARPIT KUMAR MISHRA</td> 
+
+<td style="border : 2px solid green;">mishraarpitkumar16-bot</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ARPIT-KUMAR-MISHRA-g41-ai-ml</td> 
+</tr>
