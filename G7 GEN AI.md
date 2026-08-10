@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-OWAIS-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KYATHAM ASHWITHA REDDY</td> 
+
+<td style="border : 2px solid green;">ashwithareddy510</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KYATHAM-ASHWITHA-REDDY-g7-gen-ai</td> 
+</tr>
