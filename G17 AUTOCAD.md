@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THANDYALA-RAM-BABU-g17-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BADDUGU KARUNAKAR</td> 
+
+<td style="border : 2px solid green;">karunakarbadugu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BADDUGU-KARUNAKAR-g17-autocad</td> 
+</tr>
