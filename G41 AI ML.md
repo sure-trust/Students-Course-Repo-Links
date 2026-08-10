@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHIT-PATEL-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BALAPANOOR SHARAB MADHUMITHA</td> 
+
+<td style="border : 2px solid green;">madhumitha789719</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BALAPANOOR-SHARAB-MADHUMITHA-g41-ai-ml</td> 
+</tr>
