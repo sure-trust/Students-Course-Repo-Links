@@ -62,3 +62,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRIYANKA-ROY-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SURYA KOUNDINYA C</td> 
+
+<td style="border : 2px solid green;">suryakoundinyacg41aiml-droid</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SURYA-KOUNDINYA-C-g41-ai-ml</td> 
+</tr>
