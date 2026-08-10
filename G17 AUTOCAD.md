@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANAS-AHMAD-g17-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAYYAD SANDANI</td> 
+
+<td style="border : 2px solid green;">sandanisayyad</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAYYAD-SANDANI-g17-autocad</td> 
+</tr>
