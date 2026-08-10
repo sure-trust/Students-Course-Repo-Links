@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIRIPI-UDAY-KUMAR-REDDY-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMIT RAJ SINGH</td> 
+
+<td style="border : 2px solid green;">amitraj94</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMIT-RAJ-SINGH-g41-ai-ml</td> 
+</tr>
