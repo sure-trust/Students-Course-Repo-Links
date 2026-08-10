@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUNCHAPA-NANDEESH-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHD ASAD AHMAD</td> 
+
+<td style="border : 2px solid green;">mohd-asad-ahmad</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-ASAD-AHMAD-g7-gen-ai</td> 
+</tr>
