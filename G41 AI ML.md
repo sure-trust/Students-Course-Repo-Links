@@ -14,3 +14,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SAMIKSHA-MANOHAR-THAKARE-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GURJOT SINGH</td> 
+
+<td style="border : 2px solid green;">gurjot708</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GURJOT-SINGH-g41-ai-ml</td> 
+</tr>
