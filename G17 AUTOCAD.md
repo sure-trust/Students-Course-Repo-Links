@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/REDDI-VASU-DEMULLU-VAMSI-g17-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TALLA SHANMUKHARAO</td> 
+
+<td style="border : 2px solid green;">shanmukharaog17autocad</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TALLA-SHANMUKHARAO-g17-autocad</td> 
+</tr>
