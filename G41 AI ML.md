@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SAMIKSHA MANOHAR THAKARE</td> 
+
+<td style="border : 2px solid green;">samikshat5</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SAMIKSHA-MANOHAR-THAKARE-g41-ai-ml</td> 
+</tr>
