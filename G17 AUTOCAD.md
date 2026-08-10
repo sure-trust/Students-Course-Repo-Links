@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/INUMARTHI-RUDHRA-VENKATA-SATYA-VINAY-g17-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">RANGUMUDRI LOKESH</td> 
+
+<td style="border : 2px solid green;">lokesh-850</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/RANGUMUDRI-LOKESH-g17-autocad</td> 
+</tr>
