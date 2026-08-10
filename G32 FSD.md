@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ANAS-YUSUF-g32-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">FAISAL KHAN</td> 
+
+<td style="border : 2px solid green;">faisalkhan-developer</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/FAISAL-KHAN-g32-fsd</td> 
+</tr>
