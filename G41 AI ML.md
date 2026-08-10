@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PITCHUKALA-HAMSIKA-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">CHAKALI SHIVAPRASAD</td> 
+
+<td style="border : 2px solid green;">shiva2266</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/CHAKALI-SHIVAPRASAD-g41-ai-ml</td> 
+</tr>
