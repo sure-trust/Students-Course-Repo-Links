@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ATISH-KUSHWAHA-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SABBAVARAPU GOPICHAND</td> 
+
+<td style="border : 2px solid green;">gopichandsabbavarapug41aiml-netizen</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SABBAVARAPU-GOPICHAND-g41-ai-ml</td> 
+</tr>
