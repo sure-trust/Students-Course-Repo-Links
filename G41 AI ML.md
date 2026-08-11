@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAKSHA-D-O-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">ATISH KUSHWAHA</td> 
+
+<td style="border : 2px solid green;">atishkushwaha2004</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/ATISH-KUSHWAHA-g41-ai-ml</td> 
+</tr>
