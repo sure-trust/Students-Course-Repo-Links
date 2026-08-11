@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOTTANI-RAHUL-DURGESH-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOTGHARE LISHA RAJESH</td> 
+
+<td style="border : 2px solid green;">lishamotghare</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOTGHARE-LISHA-RAJESH-g7-gen-ai</td> 
+</tr>
