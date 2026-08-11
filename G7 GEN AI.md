@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PRATHAM-DODHIWALA-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SIMHADRI K</td> 
+
+<td style="border : 2px solid green;">kondapallysimhadri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SIMHADRI-K-g7-gen-ai</td> 
+</tr>
