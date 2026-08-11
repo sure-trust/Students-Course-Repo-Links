@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KAVANA-V-g41-ai-ml</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BHAVNA AGRAWAL</td> 
+
+<td style="border : 2px solid green;">ba4351127-code</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BHAVNA-AGRAWAL-g41-ai-ml</td> 
+</tr>
