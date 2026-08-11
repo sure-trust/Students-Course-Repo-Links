@@ -134,3 +134,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ALTMAS-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">MOHD AKHLAQUR RAHMAN</td> 
+
+<td style="border : 2px solid green;">rahmansharif9891</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-AKHLAQUR-RAHMAN-g7-gen-ai</td> 
+</tr>
