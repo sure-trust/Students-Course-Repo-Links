@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PUVVADA-VENKATA-SAI-TEJA-g17-autocad</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMBATI VENKATA ROHITH</td> 
+
+<td style="border : 2px solid green;">ambativenkatarohith-tech</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMBATI-VENKATA-ROHITH-g17-autocad</td> 
+</tr>
