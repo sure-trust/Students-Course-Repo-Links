@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/TANVIR-ALAM-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">VUTKURI NIKHIL</td> 
+
+<td style="border : 2px solid green;">nikhil-vit24</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/VUTKURI-NIKHIL-g7-gen-ai</td> 
+</tr>
