@@ -86,3 +86,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOTGHARE-LISHA-RAJESH-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">PRATHAM DODHIWALA</td> 
+
+<td style="border : 2px solid green;">prathamdodhiwala</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/PRATHAM-DODHIWALA-g7-gen-ai</td> 
+</tr>
