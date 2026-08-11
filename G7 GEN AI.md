@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SIMHADRI-K-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TANVIR ALAM</td> 
+
+<td style="border : 2px solid green;">tanviralam85</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TANVIR-ALAM-g7-gen-ai</td> 
+</tr>
