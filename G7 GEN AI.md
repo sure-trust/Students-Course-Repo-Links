@@ -118,3 +118,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/VUTKURI-NIKHIL-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">G GANESH</td> 
+
+<td style="border : 2px solid green;">guvvadiganesh-crypto</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/G-GANESH-g7-gen-ai</td> 
+</tr>
