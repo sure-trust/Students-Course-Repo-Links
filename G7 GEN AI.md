@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MOHD-AKHLAQUR-RAHMAN-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BIBEK KR</td> 
+
+<td style="border : 2px solid green;">bibek026</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BIBEK-KR-g7-gen-ai</td> 
+</tr>
