@@ -262,3 +262,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/SNEHA-RANI-THAKUR-g32-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">AMEY SAMEER ALATE</td> 
+
+<td style="border : 2px solid green;">amey-s-alate</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/AMEY-SAMEER-ALATE-g32-fsd</td> 
+</tr>
