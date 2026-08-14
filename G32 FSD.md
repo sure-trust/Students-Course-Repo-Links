@@ -254,3 +254,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/MUNIMADUGU-MALAVIKA-g32-fsd</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SNEHA RANI THAKUR</td> 
+
+<td style="border : 2px solid green;">sneharanithakur</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SNEHA-RANI-THAKUR-g32-fsd</td> 
+</tr>
