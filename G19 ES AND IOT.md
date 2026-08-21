@@ -302,3 +302,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAGULA-SAI-VARDHAN-g19-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BORA JYOSTNA REDDY</td> 
+
+<td style="border : 2px solid green;">jyostnareddy2006-hue</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BORA-JYOSTNA-REDDY-g19-es-and-iot</td> 
+</tr>
