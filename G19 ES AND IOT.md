@@ -7,3 +7,10 @@
 <th style="border : 2px solid green;">GitHub Username</th>
 <th style="border : 2px solid green;">Repository link</th>
 </tr>
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">SUMIT INDI</td> 
+
+<td style="border : 2px solid green;">sumit1120-art</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/SUMIT-INDI-g19-es-and-iot</td> 
+</tr>
