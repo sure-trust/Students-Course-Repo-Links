@@ -214,3 +214,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/NAYUDU-NIRANJAN-PRANEETH-g19-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NANDIPALLI KASIVISWANADH</td> 
+
+<td style="border : 2px solid green;">nandhipallikasiviswanadh-crypto</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NANDIPALLI-KASIVISWANADH-g19-es-and-iot</td> 
+</tr>
