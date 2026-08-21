@@ -174,3 +174,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/PATNAM-VENKATA-LAKSHMI-DHEERAJ-ROYAL-g19-es-and-iot</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">NITHIN PAKKI</td> 
+
+<td style="border : 2px solid green;">nithinpakki32-hue</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/NITHIN-PAKKI-g19-es-and-iot</td> 
+</tr>
