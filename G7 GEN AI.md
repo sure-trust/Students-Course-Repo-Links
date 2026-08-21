@@ -158,3 +158,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/K-VAMSHI-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">M AKHIL</td> 
+
+<td style="border : 2px solid green;">akhil2266</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/M-AKHIL-g7-gen-ai</td> 
+</tr>
