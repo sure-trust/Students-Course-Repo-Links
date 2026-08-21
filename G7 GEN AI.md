@@ -150,3 +150,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BIBEK-KR-g7-gen-ai</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">K VAMSHI</td> 
+
+<td style="border : 2px solid green;">kayalavamshi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/K-VAMSHI-g7-gen-ai</td> 
+</tr>
