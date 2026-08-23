@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YOGINEE-SUKHDEO-KOTHEKAR-g3-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HARSHDEEP PATIDAR</td> 
+
+<td style="border : 2px solid green;">harshdeeppatidar1112-dotcom</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HARSHDEEP-PATIDAR-g3-salesforce</td> 
+</tr>
