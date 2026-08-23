@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARSHDEEP-PATIDAR-g3-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">APPALREDDY GAYATHRI</td> 
+
+<td style="border : 2px solid green;">gayathriappalreddy23-afk</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/APPALREDDY-GAYATHRI-g3-salesforce</td> 
+</tr>
