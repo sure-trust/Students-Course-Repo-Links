@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/HARLEEN-KAUR-g3-salesforce</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">HRUSHIKESH PANKAJ TARAPURE</td> 
+
+<td style="border : 2px solid green;">hrushitarapure</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/HRUSHIKESH-PANKAJ-TARAPURE-g3-salesforce</td> 
+</tr>
