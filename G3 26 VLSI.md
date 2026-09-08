@@ -142,3 +142,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KUNDA-ABHILASHA-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">TANNA INDUSREE</td> 
+
+<td style="border : 2px solid green;">indusreetanna123</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/TANNA-INDUSREE-g3-26-vlsi</td> 
+</tr>
