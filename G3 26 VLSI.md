@@ -54,3 +54,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/BANDARU-BHARGAVI-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOTLA KAVYA SRI</td> 
+
+<td style="border : 2px solid green;">kavyasri-ece</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOTLA-KAVYA-SRI-g3-26-vlsi</td> 
+</tr>
