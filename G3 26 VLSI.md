@@ -46,3 +46,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/THATAM-SANDEEP-KUMAR-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDARU BHARGAVI</td> 
+
+<td style="border : 2px solid green;">bhargavibandaru212</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDARU-BHARGAVI-g3-26-vlsi</td> 
+</tr>
