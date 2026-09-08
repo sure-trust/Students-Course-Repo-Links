@@ -30,3 +30,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/JULURU-MADHURI-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">YARRAMA REDDY MANI VARDHAN REDDY</td> 
+
+<td style="border : 2px solid green;">manig326vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/YARRAMA-REDDY-MANI-VARDHAN-REDDY-g3-26-vlsi</td> 
+</tr>
