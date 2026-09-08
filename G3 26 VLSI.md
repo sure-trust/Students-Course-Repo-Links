@@ -94,3 +94,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/RAJI-SAMUNDEESWARI-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KATTUBADI KHAJA SUNNIYAZ</td> 
+
+<td style="border : 2px solid green;">khaja-sunniyaz</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KATTUBADI-KHAJA-SUNNIYAZ-g3-26-vlsi</td> 
+</tr>
