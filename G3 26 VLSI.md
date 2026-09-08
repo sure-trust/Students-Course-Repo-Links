@@ -78,3 +78,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/POTHULA-LAKSHMI-NARASIMHULU-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">GOLLA JAYAKRISHNA YADAV</td> 
+
+<td style="border : 2px solid green;">jayakrishnayadav007</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/GOLLA-JAYAKRISHNA-YADAV-g3-26-vlsi</td> 
+</tr>
