@@ -110,3 +110,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KOTAPATI-RADHIKA-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BEENA ANTONY</td> 
+
+<td style="border : 2px solid green;">beenaantonyg326vlsi</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BEENA-ANTONY-g3-26-vlsi</td> 
+</tr>
