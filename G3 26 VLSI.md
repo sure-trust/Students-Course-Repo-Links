@@ -126,3 +126,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/ENAPASAPPALA-ANKITHA-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">BANDARU SARANYA</td> 
+
+<td style="border : 2px solid green;">saranya-maaya</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/BANDARU-SARANYA-g3-26-vlsi</td> 
+</tr>
