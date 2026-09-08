@@ -102,3 +102,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KATTUBADI-KHAJA-SUNNIYAZ-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">KOTAPATI RADHIKA</td> 
+
+<td style="border : 2px solid green;">r210165</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/KOTAPATI-RADHIKA-g3-26-vlsi</td> 
+</tr>
