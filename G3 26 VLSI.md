@@ -38,3 +38,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/YARRAMA-REDDY-MANI-VARDHAN-REDDY-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">THATAM SANDEEP KUMAR</td> 
+
+<td style="border : 2px solid green;">sandeep-kumar2284</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/THATAM-SANDEEP-KUMAR-g3-26-vlsi</td> 
+</tr>
