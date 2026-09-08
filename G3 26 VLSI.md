@@ -70,3 +70,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/GANDHAM-PAVANI-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">POTHULA LAKSHMI NARASIMHULU</td> 
+
+<td style="border : 2px solid green;">lakshmi-narasimhulu</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/POTHULA-LAKSHMI-NARASIMHULU-g3-26-vlsi</td> 
+</tr>
