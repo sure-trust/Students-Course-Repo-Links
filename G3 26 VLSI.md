@@ -22,3 +22,11 @@
 
 <td style="border : 2px solid green;">https://github.com/sure-trust/KURUBA-HEMASREE-g3-26-vlsi</td> 
 </tr>
+
+<tr style="border : 2px solid green;">
+<td style="border : 2px solid green;">JULURU MADHURI</td> 
+
+<td style="border : 2px solid green;">juluru-madhuri</td> 
+
+<td style="border : 2px solid green;">https://github.com/sure-trust/JULURU-MADHURI-g3-26-vlsi</td> 
+</tr>
